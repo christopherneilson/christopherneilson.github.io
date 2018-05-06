@@ -78,13 +78,14 @@ aside {
         color: $theme-primary;
         @include sans-serif-font;
         font-weight: 700;
-        text-transform: uppercase;
+        // text-transform: uppercase;
         &:hover,
         &:focus {
             color: darken($theme-primary, 10%);
         }
     }
     .nav {
+      padding: 50px, 50px, 0px, 50px;
         > li {
             > a,
             > a:focus {
@@ -110,9 +111,10 @@ aside {
     }
     @media (min-width: 768px) {
         background-color: transparent;
-        border-color: rgba(white, .3);
+        border-color: rgba(white, 0);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            font-size: 36px;
+            color: rgba($theme-dark, 1);
             &:hover,
             &:focus {
                 color: white;
@@ -195,7 +197,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 18px;
+                    font-size: 36px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
@@ -348,4 +350,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
