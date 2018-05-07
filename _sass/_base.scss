@@ -323,8 +323,16 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
+    color: rgba(white, .7);
     font-size: 4em;
+    &:hover {
+      color: $theme-primary;
+    }
+}
+
+.contact-padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 // Extras
