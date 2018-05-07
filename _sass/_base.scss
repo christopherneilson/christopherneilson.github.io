@@ -240,7 +240,7 @@ header {
         color: white;
         opacity: 0;
         display: block;
-        background: rgba( $theme-primary, .9 );
+        background: rgba( $theme-dark, .9 );
         position: absolute;
         bottom: 0;
         text-align: center;
@@ -270,11 +270,12 @@ header {
     }
     &:hover {
         .portfolio-box-caption {
-            opacity: 1;
+            opacity: .5;
         }
     }
     @media (min-width: 768px) {
         .portfolio-box-caption {
+          opacity: .9;
             .portfolio-box-caption-content {
                 .project-category {
                     font-size: 16px;
