@@ -335,6 +335,13 @@ header {
   padding-bottom: 50px;
 }
 
+.img-avatar {
+    object-fit: cover;
+    border-radius: 50%;
+    width:50%;
+    height:50%;
+}
+
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
