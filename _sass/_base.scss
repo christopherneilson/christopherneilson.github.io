@@ -36,11 +36,16 @@ h6 {
     @include sans-serif-font;
 }
 
+h1>span {background-color:rgba($theme-dark, .9)}
+
+
 p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 20px;
 }
+
+p>span {background-color:rgba($theme-dark, .9)}
 
 .bg-primary {
     background-color: $theme-primary;
@@ -85,7 +90,6 @@ aside {
         }
     }
     .nav {
-      padding: 50px, 50px, 0px, 50px;
         > li {
             > a,
             > a:focus {
@@ -110,11 +114,11 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
+        background-color: rgba($theme-dark, .5);
         border-color: rgba(white, 0);
         .navbar-header .navbar-brand {
-            font-size: 36px;
-            color: rgba($theme-dark, 1);
+            // font-size: 36px;
+            color: rgba(white, .7);
             &:hover,
             &:focus {
                 color: white;
@@ -128,11 +132,11 @@ aside {
             }
         }
         &.affix {
-            background-color: white;
+            background-color: $theme-dark;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
-                color: $theme-primary;
-                font-size: 14px;
+                color: rgba(white, .7);
+                font-size: 24px;
                 &:hover,
                 &:focus {
                     color: darken($theme-primary, 10%);
@@ -140,7 +144,7 @@ aside {
             }
             .nav > li > a,
             .nav > li > a:focus {
-                color: $theme-dark;
+                color: rgba(white, .7);
                 &:hover {
                     color: $theme-primary;
                 }
