@@ -36,7 +36,10 @@ h6 {
     @include sans-serif-font;
 }
 
-h1>span {background-color:rgba($theme-dark, .9)}
+h1>span {
+  background-color: rgba($theme-dark, .9);
+  margin-bottom: 200px;
+}
 
 
 p {
