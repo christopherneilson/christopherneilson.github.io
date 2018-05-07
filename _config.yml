@@ -10,3 +10,6 @@ github_username: econphilomath
 
 # Build settings
 markdown: kramdown
+
+# Include pages
+include: ["_pages"]
