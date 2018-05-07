@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="355.25812"
+   height="38.439999"
+   viewBox="0 0 355.25812 38.439999"
+   version="1.1"
+   id="svg3945"
+   sodipodi:docname="type.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata3949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logotype</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1887"
+     inkscape:window-height="1056"
+     id="namedview3947"
+     showgrid="false"
+     inkscape:zoom="1.2789869"
+     inkscape:cx="271.66283"
+     inkscape:cy="24.200446"
+     inkscape:window-x="33"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Desktop-HD-Home"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3906">Logotype</title>
+  <desc
+     id="desc3908">Created with Sketch.</desc>
+  <defs
+     id="defs3914">
+    <path
+       id="path-1"
+       d="M 0,0.06867692 H 233.77044 V 36 H 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path-3"
+       d="M 0,0.06867692 H 233.77044 V 36 H 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path-5"
+       d="M 0,0.06867692 H 233.77044 V 36 H 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path-7"
+       d="M 0,0.06867692 H 233.77044 V 36 H 0 Z"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <g
+     id="Welcome"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-0.41893799,0.59851746)">
+    <g
+       id="Desktop-HD-Home"
+       transform="translate(-603,-100)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
+         x="601.09894"
+         y="130.44148"
+         id="text3953"><tspan
+           sodipodi:role="line"
+           id="tspan3951"
+           x="601.09894"
+           y="130.44148">Christopher Neilson</tspan></text>
+    </g>
+  </g>
+</svg>
