@@ -1,9 +1,44 @@
-<header>
-    <div class="header-content">
-        <div class="header-content-inner">
-            <div style="padding-bottom: 3cm"><h1><span>Christopher Neilson</span></h1></div>
-            <div style="padding-bottom: 1cm"><p><span>Assistant Professor of Economics and Public Affairs at Princeton University</span></p></div>
-        </div>
-        <a href="#about" class="btn btn-primary btn-xl page-scroll"><i class="fa fa-chevron-down"></i></a>
-    </div>
-</header>
+<div class='contain-to-grid sticky' style='background-color: #222;'>
+  <nav class='top-bar' data-options='sticky_on: large' data-topbar='' style='background-color: #222;'>
+    <ul class='title-area'>
+      <li class='name'>
+        <h1>
+          <a href='{{site.url}}/index.html'>
+            <img alt="" src="{{site.url}}/images/chris_nametype.png" />
+          </a>
+        </h1>
+      </li>
+      <li class='toggle-topbar menu-icon'>
+        <a href='#'>Menu</a>
+      </li>
+    </ul>
+    <section class='top-bar-section' style='background-color: #222;'>
+      <ul class="right">
+        {% for item in site.data.nav %}
+          {% if item.section_id == page.section_id %}
+            {% assign active_class = "active" %}
+          {% else %}
+            {% assign active_class = "" %}
+          {% endif %}
+
+          {% if item.children %}
+            <li class="has-dropdown {{active_class}}">
+              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+              <ul class='dropdown'>
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li class="{{active_class}}">
+              <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+  </nav>
+</div>
