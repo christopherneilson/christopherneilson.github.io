@@ -232,7 +232,7 @@ milestones:
     <div class='large-12 columns'>
       {% include section-header.html title="Team" %}
       <div class='spacing'></div>
-      <p>
+      <p style="font-size:20px; text-align:center;">
         I work with an amazing group of talented people that help me in my projects.
       </p>
       <div class='two spacing'></div>
@@ -266,6 +266,7 @@ milestones:
     {% endfor %}
   </div>
 </div>
+<div class='four spacing'></div>
 
 <div class='full parallax' style='background-image: url(images/CDE-estimations_code.jpg); color: #fff;'>
   <div class='row'>
@@ -295,7 +296,7 @@ milestones:
 
 
 
-<div class='full' style='background: #f5f5f5'>
+<!-- <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html title="Our recent posts" %}
@@ -306,7 +307,6 @@ milestones:
       <div class='two spacing'></div>
     </div>
   </div>
-
   <div class='row'>
     {% for post in site.posts %}
       {% if forloop.index > 3 %}
@@ -324,7 +324,7 @@ milestones:
           <div class='content'>
             <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
             <h4><a href="#">{{post.title}}</a></h4>
-            <p>{{post.excerpt}}</p>
+            <p>{{post.excerpt}}</p> -->
             <!--
               <div class="tags">
                 {% for cat in post.categories %}
@@ -335,15 +335,11 @@ milestones:
                 {% endfor %}
               </div>
             -->
-          </div>
+          <!-- </div>
         </div>
       </div>
-
     {% endfor %}
-
   </div>
-
-
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
@@ -353,14 +349,13 @@ milestones:
     </div>
   </div>
   <div class='two spacing'></div>
-
-</div>
-
-
-{% include our-customers.html %}
+</div> -->
 
 
-<div class='full no-padding' style='background: #fff'>
+<!-- {% include our-customers.html %} -->
+
+
+<!-- <div class='full no-padding' style='background: #fff'>
   <div class='two spacing'></div>
   <div class='mod modCallToAction'>
     <div class='row'>
@@ -373,4 +368,4 @@ milestones:
     </div>
   </div>
   <div class='spacing'></div>
-</div>
+</div> -->
