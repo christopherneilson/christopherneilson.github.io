@@ -45,10 +45,10 @@ slides:
 
 
 
-works:
+projects:
   - image: images/portfolio/AVE_chris.jpg
     title: Aprendiendo el Valor de la Educación (AVE)
-    link_to: portfolio-item.html
+    link_to: portfolio-AVE.html
     klass: graphi-design
     desc: The Dominican Republic
   - image: images/portfolio/markdown_quality_Santiago.png
@@ -56,11 +56,11 @@ works:
     link_to: portfolio-item.html
     klass: graphi-design
     desc: Design &amp; Development
-  - image: images/@stock/work-3.jpg
-    title: Beautiful Girl
+  - image: images/NH/NH-response_map.png
+    title: Elementary School Choice
     link_to: portfolio-item.html
     klass: graphi-design
-    desc: Design &amp; Development
+    desc: 'New Haven, CN'
   - image: images/@stock/work-4.jpg
     title: Beautiful Girl
     link_to: portfolio-item.html
@@ -248,7 +248,7 @@ milestones:
 
   <div class="mod modGallery">
     <ul class="gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-      {% for work in page.works %}
+      {% for work in page.projects %}
         <li class="{{ work.klass }}">
           <a href='{{ work.link_to }}'>
             <img alt="" src="{{ work.image }}" />
