@@ -8,11 +8,18 @@ works:
     link_to: portfolio-item.html
     klass: io
     desc: 'Econometrica (R&R)'
-  - image: images/portfolio/allende-gallego-neilson.png
-    title: 'The Equilibrium Effects of Informed School Choice'
+  - title: 'The Equilibrium Effects of Informed School Choice'
+    image: images/portfolio/allende-gallego-neilson.png
     link_to: portfolio-item.html
     klass: education early-childhood
     desc: 'with Claudia Allende, Francisco Gallego'
+  - title: 'Early Life Health Interventions and Academic Achievement'
+    coauthors: 'Prashant Bharadwaj and Katrine Vellesen Løken'
+    desc: Somethin
+    klass:
+    pubstatus: 'American Economic Review, 103 (5): 1862-91'
+    link_to: 'https://www.aeaweb.org/articles?id=10.1257/aer.103.5.1862'
+    image: images/portfolio/Bharadwaj-VellesenLoken-Neilson.png
   - image: images/portfolio/work-3.jpg
     title: project title
     link_to: portfolio-item.html
@@ -83,6 +90,12 @@ works:
     link_to: portfolio-item.html
     klass: io
     desc: Design &amp; Development
+  - title:
+    desc:
+    klass:
+    pubstatus:
+    link_to:
+    image:
 ---
 
 
@@ -136,8 +149,9 @@ works:
               <img alt="" src="{{ work.image }}" />
               <div class='overlay'>
                 <div class='thumb-info'>
+                  <p>{{ work.pubstatus }}</p>
                   <h3>{{ work.title }}</h3>
-                  <p>{{ work.desc }}</p>
+                  <p>with {{ work.coauthors }}.</p>
                 </div>
               </div>
             </a>
