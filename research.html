@@ -126,8 +126,8 @@ works:
       </div>
 
       <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-
-        {% for work in site.work %}
+        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+        {% for work in work_sorted %}
           <li class="{{ work.klass }}">
             <a href='{{ work.url }}'>
               <img alt="" src="/images/sqr400.png" />
