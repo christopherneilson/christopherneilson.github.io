@@ -1,6 +1,6 @@
 ---
 title: 'Grey Matters: Fetal Pollution Exposure and Human Capital Formation'
-coauthors: 'Prashant Bharadwaj, Matthew Gibson, and Joshua Graff Zivin'
+coauthors: 'Prashant Bharadwaj, Matthew Gibson, Joshua Graff Zivin'
 pub_status:
 pub_date: 2017
 pub_where: 'Journal of the Association of Environmental and Resource Economists 4, no. 2 (June 2017): 505-542'

@@ -1,6 +1,6 @@
 ---
 title: 'The Gender Gap in Mathematics: Evidence from Chile'
-coauthors: 'Prashant Bharadwaj, Giacomo De Giorgi, and David Hansen'
+coauthors: 'Prashant Bharadwaj, Giacomo De Giorgi, David Hansen'
 pub_status: published
 pub_date: 2016
 pub_where: 'Economic Development and Cultural Change 65, no. 1 (October 2016): 141-166'
