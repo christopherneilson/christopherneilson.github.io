@@ -14,3 +14,16 @@ markdown: kramdown
 
 paginate: 3
 paginate_path: "blog/page:num"
+
+# include: ["_publications"]
+
+collections:
+  work:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: work

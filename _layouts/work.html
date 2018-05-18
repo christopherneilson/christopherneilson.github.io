@@ -3,12 +3,20 @@ layout: default
 ---
 
 
-<div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.jpg); color: #fff;'>
+<div class='full parallax' style='background-image: url(/images/@stock/portfolio-header-bg.jpg); color: #fff;'>
+  <div class='four spacing'></div>
+  <div class='four spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our portfolio" tagline="Have a look at our works" color="#fff" class="big" %}
+      <!-- <div class="mod modSectionHeader {{include.class}}">
+        <div class="special-title centered-text">
+          <h2>{{ page.title }}</h2>
+        </div>
+          <h3 class='centered-text'>G</h3>
+      </div> -->
     </div>
   </div>
+  <div class='four spacing'></div>
   <div class='four spacing'></div>
 </div>
 
@@ -32,11 +40,11 @@ layout: default
         </li>
         <li>
           <strong>Date:</strong>
-          June 2013
+          {{ page.pub_date }}
         </li>
         <li>
-          <strong>Abstract:</strong>
-          {{ page.abstract }}
+          <strong>Published:</strong>
+          {{ page.pub_where }}
         </li>
         <li>
           <div class='spacing'></div>
