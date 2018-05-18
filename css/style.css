@@ -2974,7 +2974,7 @@ form input.error, form textarea.error {
   transition-duration: 0.4s;
   position: relative;
   top: 50%;
-  margin-top: -26px;
+  margin-top: -100px;
   opacity: 1;
 }
 .modGallery ul.gallery li a:hover img {
