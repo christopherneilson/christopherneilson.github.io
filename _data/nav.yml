@@ -5,7 +5,7 @@
   path: about.html
   section_id: about
 - name: Research
-  path: services.html
+  path: research.html
   section_id: services
 - name: Portfolio
   path: portfolio.html

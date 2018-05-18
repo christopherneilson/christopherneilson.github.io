@@ -27,7 +27,9 @@ layout: default
   <div class='row'>
     <div class='large-8 columns'>
       <h2>{{ page.title }}</h2>
-      {{ page.abstract }}
+      <h3>Abstract</h3>
+      <p>{{ page.abstract }}</p>
+
       {{ content }}
       <div class='spacing'></div>
       <a class='button small' href=''>Visit website</a>
@@ -39,12 +41,12 @@ layout: default
           {{ page.coauthors }}
         </li>
         <li>
-          <strong>Date:</strong>
-          {{ page.pub_date }}
-        </li>
-        <li>
           <strong>Published:</strong>
           {{ page.pub_where }}
+        </li>
+        <li>
+          <strong>Date:</strong>
+          {{ page.pub_date }}
         </li>
         <li>
           <div class='spacing'></div>
