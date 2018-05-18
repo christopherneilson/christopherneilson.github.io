@@ -2955,6 +2955,8 @@ form input.error, form textarea.error {
   top: 20%;
   position: relative;
   opacity: .75;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .modGallery ul.gallery li a h3 {
   color: #fff;
@@ -2973,8 +2975,6 @@ form input.error, form textarea.error {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   position: relative;
-  top: 20%;
-  margin-top: 0px;
   opacity: 1;
 }
 .modGallery ul.gallery li a:hover img {
