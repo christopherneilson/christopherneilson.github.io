@@ -1,12 +1,12 @@
 ---
 title: 'title'
 coauthors: 'coauthors'
-pub_status: 
+pub_status: published
 pub_date: 2017
 pub_where: 'Journal'
-desc: 'desc'
+desc:
 cats:
-link_jour: 'https://www.journals.uchicago.edu/doi/abs/10.1086/691591'
+link_jour: 'link'
 image:
 abstract: 'This'
 ---
