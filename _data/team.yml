@@ -1,5 +1,6 @@
-- avatar: images/team/olivia.jpg
-  name: Olivia Bordeu
+- name: Olivia Bordeu
+  current: true
+  avatar: images/team/olivia.jpg
   position: Engineering-Economics Fusion
   socials:
     - link: https://obordeu.github.io/
@@ -8,8 +9,9 @@
       icon: github
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/team/franco.jpg
-  name: Franco Calle
+- name: Franco Calle
+  current: false
+  avatar: images/team/franco.jpg
   position: Creative Director
   socials:
     - link: http://twitter.com
