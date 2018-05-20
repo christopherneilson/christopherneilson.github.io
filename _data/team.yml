@@ -46,3 +46,9 @@
       icon: link
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+
+- name: Gonzalo Oyanedel
+  avatar: images/team/gonzalo.jpg
+
+- name: Felipe Arteaga
+  avatar: images/team/felipe-arteaga.jpg
