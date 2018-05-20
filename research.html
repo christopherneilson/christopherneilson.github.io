@@ -43,7 +43,8 @@ section_id: research
               <img alt="" src="/images/sqr400.png" />
               <div class='overlay'>
                 <div class='thumb-info'>
-                  <p style="font-weight:bold;font-size: larger;line-height: normal;">{{ work.title }}</p>
+                  <!-- <p style="font-weight:bold;font-size: larger;line-height: normal;">{{ work.title }}</p> -->
+                  <h3>{{ work.title }}</h3>
                   <p>{% if work.coauthors %} with {{ work.coauthors }} {% endif %} {% if work.pub_date %} ({{ work.pub_date }}) {% endif %}</p>
                   <p>{{ work.pub_where }}</p>
                 </div>
