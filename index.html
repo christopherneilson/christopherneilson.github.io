@@ -208,7 +208,7 @@ milestones:
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Team" %}
+      {% include section-header.html title="The Team" %}
       <div class='spacing'></div>
       <p style="font-size:20px; text-align:center;">
         I work with an amazing group of talented people that help me in my projects.
@@ -217,10 +217,6 @@ milestones:
     </div>
   </div>
   <div class='row'>
-    {% for member in site.data.team %}
-      {% assign member.lastname = member.name | last %}
-    {% endfor %}
-    {% assign site.data.team.lastname = site.data.team.name | last %}
     {% assign sorted_team = site.data.team | sort: 'lastname' %}
     {% for member in sorted_team %}
       <div class='small-6 medium-3 large-3 columns'>
@@ -256,8 +252,8 @@ milestones:
     <div class='large-12 columns'>
       {% include section-header.html title="In numbers" color="#fff" %}
       <div class='spacing'></div>
-      <p class='centered-text' style='color: #ccc;'>
-        {{site.data.team}}     </p>
+      <!-- <p class='centered-text' style='color: #ccc;'>
+        Lorem ipsum     </p> -->
       <div class='two spacing'></div>
     </div>
   </div>
