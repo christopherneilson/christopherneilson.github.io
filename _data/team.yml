@@ -1,4 +1,5 @@
-- name: Olivia Bordeu
+- firstname: Olivia
+  lastname: Bordeu
   current: true
   avatar: images/team/olivia.jpg
   position: Engineering-Economics Fusion
@@ -9,7 +10,8 @@
       icon: github
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- name: Franco Calle
+- firstname: Franco
+  lastname: Calle
   current: false
   avatar: images/team/franco.jpg
   position: Creative Director
@@ -23,7 +25,8 @@
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 - avatar: images/team/alvaro.jpg
-  name: Alvaro Carril
+  firstname: Alvaro
+  lastname: Carril
   position: Master of None
   socials:
     - link: http://twitter.com/alvcarril
@@ -35,7 +38,8 @@
   desc:
     Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
 - avatar: images/team/mohit.jpg
-  name: Mohit Karnani
+  firstname: Mohit
+  lastname: Karnani
   position: Developer
   socials:
     - link: http://twitter.com/economohit
@@ -47,8 +51,10 @@
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 
-- name: Gonzalo Oyanedel
+- firstname: Gonzalo
+  lastname: Oyanedel
   avatar: images/team/gonzalo.jpg
 
-- name: Felipe Arteaga
+- firstname: Felipe
+  lastname: Arteaga
   avatar: images/team/felipe-arteaga.jpg

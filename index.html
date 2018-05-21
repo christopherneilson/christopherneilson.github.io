@@ -217,7 +217,12 @@ milestones:
     </div>
   </div>
   <div class='row'>
-    {% for member in site.data.members %}
+    {% for member in site.data.team %}
+      {% assign member.lastname = member.name | last %}
+    {% endfor %}
+    {% assign site.data.team.lastname = site.data.team.name | last %}
+    {% assign sorted_team = site.data.team | sort: 'lastname' %}
+    {% for member in sorted_team %}
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember'>
           <div class='member'>
@@ -251,9 +256,8 @@ milestones:
     <div class='large-12 columns'>
       {% include section-header.html title="In numbers" color="#fff" %}
       <div class='spacing'></div>
-      <!-- <p class='centered-text' style='color: #ccc;'>
-        Dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p> -->
+      <p class='centered-text' style='color: #ccc;'>
+        {{site.data.team}}     </p>
       <div class='two spacing'></div>
     </div>
   </div>
