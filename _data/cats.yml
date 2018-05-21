@@ -1,0 +1,14 @@
+- name: Education
+  shortname: education
+- name: Development
+  shortname: devo
+- name: Industrial Organization
+  shortname: io
+- name: Public Economics
+  shortname: public-econ
+- name: Early Childhood
+  shortname: early-child
+- name: Information Economics
+  shortname: info
+- name: Public Policy
+  shortname: public-pol
