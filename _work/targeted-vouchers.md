@@ -1,6 +1,5 @@
 ---
 title: 'Targeted Vouchers, Competition Among Schools and the Academic Achievement of Poor Students'
-coauthors:
 pub_status: rr
 pub_date: 2017
 pub_where: 'Econometrica'
