@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="388.125"
-   height="38.4375"
-   viewBox="0 0 388.125 38.4375"
+   width="425.08295"
+   height="51.079227"
+   viewBox="0 0 425.08295 51.079227"
    version="1.1"
    id="svg3945"
    sodipodi:docname="chris_nametype.svg"
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1566"
-     inkscape:window-height="1217"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      id="namedview3947"
      showgrid="false"
      inkscape:zoom="1.2789869"
-     inkscape:cx="270.56394"
-     inkscape:cy="24.847322"
-     inkscape:window-x="171"
-     inkscape:window-y="464"
+     inkscape:cx="388.88493"
+     inkscape:cy="35.275938"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3945"
      fit-margin-top="0"
@@ -77,7 +77,7 @@
   <g
      id="Welcome"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(-0.34503174,-0.05085754)">
+     transform="translate(-0.41893799,0.59851746)">
     <g
        id="Desktop-HD-Home"
        transform="translate(-603,-100)">
@@ -90,17 +90,18 @@
            sodipodi:role="line"
            id="tspan3951"
            x="601.09894"
-           y="130.44148">Christopher Neilson</tspan></text>
+           y="130.44148">Christopher A. Neilson</tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="13.29177"
-     y="73.621597"
+     x="0.70796233"
+     y="50.814907"
      id="text4534"><tspan
        sodipodi:role="line"
        id="tspan4532"
-       x="13.29177"
-       y="73.621597">Assistant professor of Economics at Princeton</tspan></text>
+       x="0.70796233"
+       y="50.814907"
+       style="font-size:18.66666603px;fill:#f9f9f9;fill-opacity:1">Assistant Professor of Economics at Princeton</tspan></text>
 </svg>
