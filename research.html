@@ -17,6 +17,50 @@ section_id: research
   <div class='four spacing'></div>
 </div>
 
+<div class='full'>
+  <div class='row'>
+    <!-- Navegation categories -->
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          {% assign cats_uniq = site.work | map: 'cats' | join: ' ' | split: ' ' | uniq | join: ' ' %}
+          {% for cat in site.data.cats %}
+            <li>
+              <a data-cat='{{ cat.shortname }}' href='#'>{{ cat.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <!-- List of papers -->
+    <div class='large-6 columns'>
+      <ul>
+        <h3>Published Articles</h3>
+        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+        {% for work in work_sorted %}
+          <li>
+            <a data-cat='{{ work.title }}' href='{{ work.url }}'>{{ work.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class='large-6 columns'>
+      <ul>
+        <h3>Working papers &amp; Work in progress </h3>
+        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+        {% for work in work_sorted %}
+          <li>
+            <a data-cat='{{ work.title }}' href='{{ work.url }}'>{{ work.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
 
 <div class='full'>
   <div class='row'>
