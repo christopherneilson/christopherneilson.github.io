@@ -2,7 +2,7 @@
 title: 'The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
 pub_status: wp
-pub_date:
+pub_date: 2018
 pub_where:
 desc:
 cats: education early-childhood
