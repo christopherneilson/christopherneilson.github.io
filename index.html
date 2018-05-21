@@ -277,7 +277,22 @@ milestones:
         <div class='four spacing'></div>
       </div>
     </div>
-    {% for milestone in page.milestones %}
+    <!-- Grant money -->
+    {% assign sum = 0 %}
+    {% for grant in site.data.grants %}
+      {% assign sum = sum | plus: grant.amount %}
+    {% endfor %}
+    <div class='medium-3 large-3 columns'>
+      <div class='mod modMilestone'>
+        <i class='fa fa-file-text'></i>
+    </p>
+        <span> &nbsp; USD </span>
+        <strong data-from=0 data-to='{{ sum }}'>panconqueso</strong>
+        <span>Grants</span>
+        <div class='four spacing'></div>
+      </div>
+    </div>
+    <!-- {% for milestone in page.milestones %}
       <div class='medium-3 large-3 columns'>
         <div class='mod modMilestone'>
           <i class='fa fa-{{milestone.icon}}'></i>
@@ -286,7 +301,7 @@ milestones:
           <div class='four spacing'></div>
         </div>
       </div>
-    {% endfor %}
+    {% endfor %} -->
   </div>
   <div class='two spacing'></div>
 </div>
