@@ -43,6 +43,7 @@ section_id: research
         {% for work in work_sorted %}
           <li>
             <a data-cat='{{ work.title }}' href='{{ work.url }}'>{{ work.title }}</a>
+            <p>{{ work.pub_where }}</p>
           </li>
         {% endfor %}
       </ul>
