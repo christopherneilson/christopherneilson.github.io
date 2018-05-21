@@ -1,6 +1,6 @@
 ---
 title: 'Connecting Student Loans to Labor Market Outcomes: Policy Lessons from Chile'
-coauthors: 'Harald Beyer, Justine Hastings, and Seth D. Zimmerman'
+coauthors: 'Harald Beyer, Justine Hastings, Seth D. Zimmerman'
 pub_status: published
 pub_date: 2015
 pub_where: 'American Economic Review, 105 (5): 508-13'

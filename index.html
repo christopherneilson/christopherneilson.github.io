@@ -64,18 +64,10 @@ services:
     desc: Acusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
 
 milestones:
-  - icon: file-text
-    from: 0
-    to: 7
-    title: Articles Published
   - icon: coffee
     from: 0
     to: 726
     title: Cups of coffee
-  - icon: github
-    from: 0
-    to: 358
-    title: Commits
   - icon: code
     from: 0
     to: 81351
@@ -159,6 +151,7 @@ milestones:
       <!-- <div class='three spacing'></div> -->
     </div>
     <div class='medium-6 columns'>
+      <p style="font-size:20px; color:white ">{{ site.work.coauthors }}</p>
       <p style="font-size:20px; color:white ">I am an applied micro economist, and my research focuses on the study of public policy and education markets. I design and evaluate public policies using a mix of experimental methods together with the estimation of structural microeconomic models of firm and consumer behavior.</p>
       <a href="{{site.url}}/about.html" style="font-size:20px; color:white ">Read more ></a>
       <!-- {% for service in page.services %}
@@ -280,6 +273,25 @@ milestones:
     </div>
   </div>
   <div class='row'>
+    <!-- Publications -->
+    <div class='medium-3 large-3 columns'>
+      <div class='mod modMilestone'>
+        <i class='fa fa-file-text'></i>
+        <strong data-from=0 data-to='{{site.work.size}}'>&nbsp;</strong>
+        <span>Articles</span>
+        <div class='four spacing'></div>
+      </div>
+    </div>
+    <!-- Coauthors -->
+    {% assign coauthors_uniq = site.work | map: 'coauthors' | join: ', ' | split: ', ' | uniq %}
+    <div class='medium-3 large-3 columns'>
+      <div class='mod modMilestone'>
+        <i class='fa fa-users'></i>
+        <strong data-from=0 data-to='{{ coauthors_uniq.size }}'>&nbsp;</strong>
+        <span>Coauthors</span>
+        <div class='four spacing'></div>
+      </div>
+    </div>
     {% for milestone in page.milestones %}
       <div class='medium-3 large-3 columns'>
         <div class='mod modMilestone'>

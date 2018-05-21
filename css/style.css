@@ -2952,15 +2952,19 @@ form input.error, form textarea.error {
   transition: all 0.3s linear;
 }
 .modGallery ul.gallery li a .overlay .thumb-info {
-  top: 20%;
+  top: 10%;
   position: relative;
   opacity: .75;
   padding-left: 5px;
   padding-right: 5px;
 }
+.modGallery ul.gallery li a .overlay .thumb-info p {
+  opacity: 0;
+}
 .modGallery ul.gallery li a h3 {
   color: #fff;
   margin-bottom: 10px;
+  text-transform: capitalize;
 }
 .modGallery ul.gallery li a p {
   color: #fff;
@@ -2975,6 +2979,9 @@ form input.error, form textarea.error {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   position: relative;
+  opacity: 1;
+}
+.modGallery ul.gallery li a:hover .overlay .thumb-info p {
   opacity: 1;
 }
 .modGallery ul.gallery li a:hover img {
