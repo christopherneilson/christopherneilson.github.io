@@ -26,8 +26,8 @@ section_id: research
           <li class='current'>
             <a data-cat='all' href='#'>All</a>
           </li>
-          {% assign cats_uniq = site.work | map: 'cats' | join: ' ' | split: ' ' | uniq | join: ' ' %}
-          {% for cat in site.data.cats %}
+          {% assign cats_sorted = site.data.cats | sort: 'name' %}
+          {% for cat in cats_sorted %}
             <li>
               <a data-cat='{{ cat.shortname }}' href='#'>{{ cat.name }}</a>
             </li>
