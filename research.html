@@ -36,15 +36,17 @@ section_id: research
       </div>
     </div>
     <!-- List of papers -->
+    {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
     <div class='large-6 columns'>
       <ul>
         <h3>Published Articles</h3>
-        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
         {% for work in work_sorted %}
+        {% if work.pub_status == 'published' %}
           <li>
             <a data-cat='{{ work.title }}' href='{{ work.url }}'>{{ work.title }}</a>
             <p>{{ work.pub_where }}</p>
           </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
@@ -52,11 +54,16 @@ section_id: research
     <div class='large-6 columns'>
       <ul>
         <h3>Working papers &amp; Work in progress </h3>
-        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
         {% for work in work_sorted %}
+        {% if work.pub_status != 'published' %}
           <li>
             <a data-cat='{{ work.title }}' href='{{ work.url }}'>{{ work.title }}</a>
+            <p>
+              {{ work.pub_where }}
+              {% if work.pub_status == 'rr' %} (R&amp;R) {% endif %}
+            </p>
           </li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>
