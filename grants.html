@@ -27,11 +27,11 @@ section_id: grants
             <!-- Published Articles -->
             {% for grant in site.data.grants %}
               <li>
-                <p>{{ grant.title }}</p>
-                <p><b>Donor:</b> {{ grant.donor }}</p>
-                <p><b>Grant amount:</b> {{ grant.amount }}</p>
-                <p><b>Grant number:</b> {{ grant.number }}</p>
-                <p>{{ grant.desc }}</p>
+              <p style="margin-bottom:0"><b>{{ grant.title }}</b></p>
+                <p style="margin-bottom:0"><b>Donor:</b> {{ grant.donor }}</p>
+                 <p style="margin-bottom:0"><b>Grant amount:</b> {{ grant.amount }}</p>
+                <p style="margin-bottom:0"><b>Grant number:</b> {{ grant.number }}</p>
+                <p style="margin-bottom:0">{{ grant.desc }}</p>
                 {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
                 <p><b>
                   {{ work.pub_where }}
