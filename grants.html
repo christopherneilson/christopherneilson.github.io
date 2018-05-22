@@ -31,6 +31,7 @@ section_id: grants
                 <p><b>Donor:</b> {{ grant.donor }}</p>
                 <p><b>Grant amount:</b> {{ grant.amount }}</p>
                 <p><b>Grant number:</b> {{ grant.number }}</p>
+                <p>{{ grant.desc }}</p>
                 {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
                 <p><b>
                   {{ work.pub_where }}

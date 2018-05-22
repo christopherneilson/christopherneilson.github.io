@@ -2,19 +2,19 @@
   lastname: Bordeu
   current: true
   avatar: images/team/olivia.jpg
-  position: Engineering-Economics Fusion
+  position: Princeton University
   socials:
     - link: https://obordeu.github.io/
       icon: link
     - link: https://github.com/obordeu
       icon: github
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+
 - firstname: Franco
   lastname: Calle
   current: false
   avatar: images/team/franco.jpg
-  position: Creative Director
+  position: NBER
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -23,24 +23,21 @@
     - link: http://dribbble.com
       icon: dribbble
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/team/alvaro.jpg
-  firstname: Alvaro
+- firstname: Alvaro
   lastname: Carril
-  position: Master of None
+  position: NBER
+  avatar: images/team/alvaro.jpg
+  desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
   socials:
-    - link: http://twitter.com/alvcarril
-      icon: twitter
     - link: https://github.com/acarril
       icon: github
     - link: http://acarril.github.io
       icon: link
-  desc:
-    Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
+
 - avatar: images/team/mohit.jpg
   firstname: Mohit
   lastname: Karnani
-  position: Developer
+  position: NBER
   socials:
     - link: http://twitter.com/economohit
       icon: twitter
@@ -49,12 +46,28 @@
     - link: https://karnani.cl
       icon: link
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 
 - firstname: Gonzalo
   lastname: Oyanedel
+  position: J-PAL LAC
   avatar: images/team/gonzalo.jpg
 
 - firstname: Felipe
   lastname: Arteaga
+  position: J-PAL LAC &amp; MINEDUC
   avatar: images/team/felipe-arteaga.jpg
+  desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields.
+  socials:
+    - link: https://vimeo.com/fharteaga/videos
+      icon: link
+
+- firstname: Manuel
+  lastname: Martínez
+  position: NBER
+  avatar: images/team/manuel-martinez.jpeg
+  desc: Manuel dons various hats to support the collective research effort.    As a sociology convert to economics, his interests lie on the intersection of economics, data science, ethics, and the behavioural sciences.
+  socials:
+    - link: https://manmartgarc.github.io/
+      icon: link
+    - link: https://github.com/manmartgarc
+      icon: github
