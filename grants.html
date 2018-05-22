@@ -19,51 +19,28 @@ section_id: grants
 
 <div class='full'>
   <div class='row'>
-
-
-
-
-
-
-
-
-    <!-- Navegation categories -->
-    <div class='mod modGallery'>
-      <div class='gallery-nav'>
-        <ul>
-          <li class='current'>
-            <a data-cat='all'>All</a>
-          </li>
-          {% assign cats_sorted = site.data.cats | sort: 'name' %}
-          {% for cat in cats_sorted %}
-            <li>
-              <a data-cat='{{ cat.shortname }}'>{{ cat.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-
-    <!-- List of papers -->
-    {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
-    <div class='large-6 columns'>
-      <ul class='gallery'>
-        <!-- Published Articles -->
-        <h3>Published Articles</h3>
-        {% for work in work_sorted %}
-        {% if work.pub_status == 'published' %}
-          <li class="{{ work.cats }}">
-            <a href='{{ work.url }}'>{{ work.title }}</a>
-            {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
-            <p><b>
-              {{ work.pub_where }}
-            </b></p>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+    <div class='one spacing'></div>
+      <div class='mod modGallery'>
+        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+        <div class='large-12 columns'>
+          <ul class='gallery'>
+            <!-- Published Articles -->
+            {% for grant in site.data.grants %}
+              <li>
+                <p>{{ grant.title }}</p>
+                <p><b>Donor:</b> {{ grant.donor }}</p>
+                <p><b>Grant amount:</b> {{ grant.amount }}</p>
+                <p><b>Grant number:</b> {{ grant.number }}</p>
+                {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
+                <p><b>
+                  {{ work.pub_where }}
+                </b></p>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
     <!-- Working papers & Work in progress -->
-    <div class='large-6 columns'>
+    <!-- <div class='large-6 columns'>
       <ul class='gallery'>
         <h3>Working papers &amp; Work in progress </h3>
         {% for work in work_sorted %}
@@ -79,7 +56,7 @@ section_id: grants
         {% endif %}
         {% endfor %}
       </ul>
-    </div>
+    </div> -->
   </div>
   </div>
 </div>

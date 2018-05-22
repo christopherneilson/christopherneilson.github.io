@@ -1,41 +1,49 @@
 - title: 'Beliefs, Understanding, and Strategic Behavior in School Choice Mechanisms'
   donor: 'National Science Foundation (NSF)'
+  date:
   amount: 457853
   number: 1629226
   desc: 'The project combines a household survey measuring the preferences, sophistication, and beliefs of potential school choice participants with administrative records of school choice and, academic outcomes to estimate a latent utility model of school choice participation. We will conduct this study in the context of the public school district in New Haven, Connecticut , which uses a centralized mechanism closely related to the “immediate acceptance” or “Boston” algorithm to administer school choice.'
 
 - title: 'Learning the Value of Education in the Dominican Republic'
   donor: 'DIV-USAID'
-  amount: 1498979 
+  date:
+  amount: 1498979
   number: AID-0AA-F-14-00030
   desc: 'Large scale impact evaluation implemented in conjunction with the government of the Dominican Republic (IDEICE) that looks to increase investment in human capital by reducing information frictions among adults and children regarding the cost, benefit and feasibility of higher education levels. A panel of in depth house hold surveys are conducted on a custom designed application measure time use, parental investments and labor supply decisions. Administrative data is used to evaluate the impact and survey data is used through the lens of a dynamic human capital accumulation model to study the mechanisms through which information on financial aid, returns to levels of education and to field of study can affect investment in human capital and labor supply. '
 
 - title: 'Getting Children to Stay in School and out of work: The role of Informative and Persuasive Marketing'
   donor: 'United States Department of Labor'
+  date:
   amount: 977690
   number: IL-26701-14-75-K-9
   desc: 'Large scale impact evaluation to assess how the provision of this information affects drop-out rates and parents’ and students’ perceptions and decisions. A panel of in depth house hold surveys are conducted on a custom designed application measure time use, parental investments and labor supply decisions. Administrative data is used to evaluate the impact and survey data is used through the lens of a dynamic human capital accumulation model to study the mechanisms through which information on financial aid, returns to levels of education and to field of study can affect investment in human capital and labor supply. The project is in collaboration with Peruvian Government and Innovations for Poverty Action.'
 
 - title: 'Leveraging Administrative Data and Machine Learning Techniques to Improve Education Policy in Developing Countries'
   donor: 'Microsoft Research'
+  date:
   amount: 20000
   number:
-  desc: 'This projects looks to take advantage of the extensive scalable computational resources provided by cloud computing to use large administrative datasets and machine learning techniques to help inform policies that will help reduce the amount of students that drop out of school in developing countries.'
+  desc: 'This projects looks to take advantage of the extensive scalable computational resources provided by cloud computing to use large administrative datasets and machine learning techniques to help inform policies that will help reduce the date:
+  amount of students that drop out of school in developing countries.'
 
 - title: 'Evaluating online platform to reduce information asymmetries w/in students and parents'
   donor: 'Peruvian Government and International Bank for Reconstruction and Development (BIRF)'
+  date:
   amount: 202000
   number: 038-2016/BIRF 8212-PE
   desc: 'Studying the role of information asymmetries in higher education choice in the Peruvian market and how informative online platforms can help shift educational choices. Ministry of Education and Innovations for Poverty Action are leading the project.'
 
 - title: 'Education Mismatch and Information about Relative Performance'
   donor: 'Post Primary Initiative JPAL Global '
+  date:
   amount: 50000
   number: 5710004043
   desc: 'Large scale impact evaluation implemented in conjunction with the government of the Dominican Republic (Pruebas Nacionales and IDEICE) looks to inform students of high academic performance through letters that contain information and motivational messages. Its main goal is to reduce dropout rates in developing countries. Currently working partnered with the government in the Dominican Republic, Peru, and Chile. JPAL and the government of the Dominican Republic are the leaders of this project.'
 
 - title: 'algo'
   donor: 'alguien'
+  date:
   amount:
   number:
   desc: 'algo'
