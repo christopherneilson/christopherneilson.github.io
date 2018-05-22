@@ -61,8 +61,7 @@ section_id: about
             <img class="avatar" alt="" src="{{ member.avatar }}" />
             <div class='overlay'>
               <div class='intro'>
-                <h3>{{ member.firstname }} {{ member.lastname }}</h3>
-                <p>{{member.position}}</p>
+                <p>{{member.desc}}</p>
                 <ul class='socials'>
                   {% for social in member.socials %}
                     <li>
@@ -75,7 +74,8 @@ section_id: about
               </div>
             </div>
           </div>
-          <p class='centered-text'>{{member.desc}}</p>
+          <h3 style="margin-bottom:0;">{{ member.firstname }} {{ member.lastname }}</h3>
+          <p>{{member.position}}</p>
           <div class='two spacing'></div>
         </div>
       </div>
