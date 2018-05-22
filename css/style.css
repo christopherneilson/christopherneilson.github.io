@@ -2992,7 +2992,9 @@ form input.error, form textarea.error {
   transform: scale(1.1);
 }
 .modGallery ul.gallery li.hidden {
-  opacity: 0.1;
+  opacity: 0;
+  position: absolute;
+  transition: position 1s linear;
 }
 .modGallery ul.gallery.seperated li {
   padding: 10px;
