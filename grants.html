@@ -1,0 +1,129 @@
+---
+layout: default
+title: Grants
+section_id: grants
+---
+
+
+<div class='full parallax' style='background-image: url(images/make-it-rain.png); color: #fff;'>
+  <div class='four spacing'></div>
+  <div class='four spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Grants" tagline="Mo Money Less Problems" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+  <div class='four spacing'></div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+
+
+
+
+
+
+
+
+    <!-- Navegation categories -->
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all'>All</a>
+          </li>
+          {% assign cats_sorted = site.data.cats | sort: 'name' %}
+          {% for cat in cats_sorted %}
+            <li>
+              <a data-cat='{{ cat.shortname }}'>{{ cat.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+    <!-- List of papers -->
+    {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+    <div class='large-6 columns'>
+      <ul class='gallery'>
+        <!-- Published Articles -->
+        <h3>Published Articles</h3>
+        {% for work in work_sorted %}
+        {% if work.pub_status == 'published' %}
+          <li class="{{ work.cats }}">
+            <a href='{{ work.url }}'>{{ work.title }}</a>
+            {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
+            <p><b>
+              {{ work.pub_where }}
+            </b></p>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- Working papers & Work in progress -->
+    <div class='large-6 columns'>
+      <ul class='gallery'>
+        <h3>Working papers &amp; Work in progress </h3>
+        {% for work in work_sorted %}
+        {% if work.pub_status != 'published' %}
+          <li class="{{ work.cats }}">
+            <a href='{{ work.url }}'>{{ work.title }}</a>
+            {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
+            <p><b>
+              {{ work.pub_where }}
+              {% if work.pub_status == 'rr' %} (Revise and resubmit) {% endif %}
+            </b></p>
+          </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  </div>
+</div>
+
+<div class='four spacing'></div>
+
+<!-- <div class='full'>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          {% assign cats_uniq = site.work | map: 'cats' | join: ' ' | split: ' ' | uniq | join: ' ' %}
+          {% for cat in site.data.cats %}
+            <li>
+              <a data-cat='{{ cat.shortname }}' href='#'>{{ cat.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+        {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+        {% for work in work_sorted %}
+          <li class="{{ work.cats }}">
+            <a href='{{ work.url }}'>
+              <img alt="" src="/images/sqr400.png" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3>{{ work.title }}</h3>
+                  <p>{% if work.coauthors %} with {{ work.coauthors }} {% endif %} {% if work.pub_date %} ({{ work.pub_date }}) {% endif %}</p>
+                  <p>{{ work.pub_where }}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
+
+    </div>
+  </div>
+
+  <div class='four spacing'></div>
+</div> -->
