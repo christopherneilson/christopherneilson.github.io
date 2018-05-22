@@ -34,10 +34,10 @@
     - link: http://acarril.github.io
       icon: link
 
-- avatar: images/team/mohit.jpg
-  firstname: Mohit
+- firstname: Mohit
   lastname: Karnani
   position: NBER
+  avatar: images/team/mohit.jpg
   socials:
     - link: http://twitter.com/economohit
       icon: twitter
