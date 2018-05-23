@@ -1,6 +1,6 @@
 - title: 'Beliefs, Understanding, and Strategic Behavior in School Choice Mechanisms'
   donor: 'National Science Foundation (NSF)'
-  date:
+  date:  2016
   amount: 457853
   number: 1629226
   url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1629226
@@ -8,21 +8,21 @@
 
 - title: 'Learning the Value of Education in the Dominican Republic'
   donor: 'DIV-USAID'
-  date:
+  date:  2015
   amount: 1498979
   number: AID-0AA-F-14-00030
   desc: 'Large scale impact evaluation implemented in conjunction with the government of the Dominican Republic (IDEICE) that looks to increase investment in human capital by reducing information frictions among adults and children regarding the cost, benefit and feasibility of higher education levels. A panel of in depth house hold surveys are conducted on a custom designed application measure time use, parental investments and labor supply decisions. Administrative data is used to evaluate the impact and survey data is used through the lens of a dynamic human capital accumulation model to study the mechanisms through which information on financial aid, returns to levels of education and to field of study can affect investment in human capital and labor supply. '
 
 - title: 'Getting Children to Stay in School and out of work: The role of Informative and Persuasive Marketing'
   donor: 'United States Department of Labor'
-  date:
+  date:  2015
   amount: 977690
   number: IL-26701-14-75-K-9
   desc: 'Large scale impact evaluation to assess how the provision of this information affects drop-out rates and parents’ and students’ perceptions and decisions. A panel of in depth house hold surveys are conducted on a custom designed application measure time use, parental investments and labor supply decisions. Administrative data is used to evaluate the impact and survey data is used through the lens of a dynamic human capital accumulation model to study the mechanisms through which information on financial aid, returns to levels of education and to field of study can affect investment in human capital and labor supply. The project is in collaboration with Peruvian Government and Innovations for Poverty Action.'
 
 - title: 'Leveraging Administrative Data and Machine Learning Techniques to Improve Education Policy in Developing Countries'
   donor: 'Microsoft Research'
-  date:
+  date: 2017
   amount: 20000
   number:
   desc: 'This projects looks to take advantage of the extensive scalable computational resources provided by cloud computing to use large administrative datasets and machine learning techniques to help inform policies that will help reduce the date:
@@ -30,14 +30,32 @@
 
 - title: 'Evaluating online platform to reduce information asymmetries w/in students and parents'
   donor: 'Peruvian Government and International Bank for Reconstruction and Development (BIRF)'
-  date:
+  date: 2016
   amount: 202000
   number: 038-2016/BIRF 8212-PE
   desc: 'Studying the role of information asymmetries in higher education choice in the Peruvian market and how informative online platforms can help shift educational choices. Ministry of Education and Innovations for Poverty Action are leading the project.'
 
 - title: 'Education Mismatch and Information about Relative Performance'
   donor: 'Post Primary Initiative JPAL Global '
-  date:
+  date:   2016
   amount: 50000
   number: 5710004043
   desc: 'Large scale impact evaluation implemented in conjunction with the government of the Dominican Republic (Pruebas Nacionales and IDEICE) looks to inform students of high academic performance through letters that contain information and motivational messages. Its main goal is to reduce dropout rates in developing countries. Currently working partnered with the government in the Dominican Republic, Peru, and Chile. JPAL and the government of the Dominican Republic are the leaders of this project.'
+
+- title: "Building a better future with informed investment in higher education: Evaluating the impact of personalized provision of information on earnings and financial aid in the Dominican Republic"
+  donor: Skills for Youth Program, J-PAL LAC
+  date: 2018
+  amount: 49479
+  description: In this study, we collaborate with the government of the Dominican Republic to construct an information system and deploy a state of the art application that leverages innovations in artificial intelligence and machine learning to improve the quality of the personalization of information provision. Labor market earnings information as well as detailed financial aid information and skills profiles by major will be provided through an application used by social workers who visit students who participate in the national conditional cash transfer program PROSOLI. Using the custom application, social workers will help the prospective student navigate the complex higher education landscape with prompts from the app, making sure to discuss how financial aid works in their specific case and how it can change depending what they choose to study and where.
+
+- title: Financial Aid and College Access in the Dominican Republic
+  donor: Post Primary Education Initiative, J-PAL
+  date: 2018 
+  amount: 256893
+  description: In this project we work together with the Ministry of Higher Education of the Dominican Republic to design and evaluate different aspects of their post-secondary financial aid policy. Guided by both theory and empirical evidence, we work with the government to design and implement several randomized control trials to evaluate different aspects of the financial aid policy, focusing on recruitment, selection and retainment of talented but underprivileged students in post secondary education. Estimates of these various margins will help inform the design of final version of constrained-optimal financial aid policy.
+
+  title: "Reducing free-riding in public goods: An experimental approach to improving payment compliance for trash collection in the Dominican Republic"
+  donor: Governance Initiative, J-PAL
+  date: 2018
+  amount: 48990
+  description: "This is a collaborative project with the City government of Santo Domingo to design and evaluate different interventions to improve payment compliance for public garbage collection. In a first stage, we will analyze data on payment histories, as well as undertake targeted interviews and focus groups to gain a deeper understanding of the determinants of payment compliance. In the second stage, we will design and implement several randomized control trials to evaluate different behavioral and non-behavioral approaches to reduce free-riding. The interventions considered are: 1) Simplification of communication and payment instructions; 2) A lottery for households with timely payments; 3) Informing households about the consequences on their credit history of not paying the bill; 4) Informing households about debt relief options, 5) Informing citizens about actual compliance rates in high compliance neighborhoods. This will shed light on how to improve a state’s capacity to effectively collect payments for government services."
