@@ -10,7 +10,7 @@ section_id: grants
   <div class='four spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Grants" tagline="Mo Money Less Problems" color="#fff" class="big" %}
+      {% include section-header.html title="Grants" tagline="Mo Money, Mo Projects" color="#fff" class="big" %}
     </div>
   </div>
   <div class='four spacing'></div>
@@ -29,13 +29,10 @@ section_id: grants
               <li>
                 <a href='{{ grant.url }}'><b>{{ grant.title }}</b></a>
                 <p style="margin-bottom:0"><b>Donor:</b> {{ grant.donor }}</p>
-                <p style="margin-bottom:0"><b>Grant amount:</b> {{ grant.amount }}</p>
-                <p style="margin-bottom:0"><b>Grant number:</b> {{ grant.number }}</p>
+                <p style="margin-bottom:0"><b>Date:</b> {{ grant.date }}</p>
+                <p style="margin-bottom:0"><b>Amount:</b> {{ grant.amount }}</p>
+                <p style="margin-bottom:0"><b>Number:</b> {{ grant.number }}</p>
                 <p style="margin-bottom:0">{{ grant.desc }}</p>
-                {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
-                <p><b>
-                  {{ work.pub_where }}
-                </b></p>
               </li>
             {% endfor %}
           </ul>
