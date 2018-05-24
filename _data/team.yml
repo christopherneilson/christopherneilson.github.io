@@ -75,7 +75,7 @@
 - firstname: Surya
   lastname: Ierokomos
   current: false
-  avatar: images/team/surya.jpeg
+  avatar: images/team/surya.jpg
   position: Microsoft Research
   socials:
   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.   
