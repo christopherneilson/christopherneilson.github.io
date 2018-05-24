@@ -71,3 +71,11 @@
       icon: link
     - link: https://github.com/manmartgarc
       icon: github
+
+- firstname: Surya
+  lastname: Ierokomos
+  current: false
+  avatar: images/team/surya.jpeg
+  position: Microsoft Research
+  socials:
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.   
