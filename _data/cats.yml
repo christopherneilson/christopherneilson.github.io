@@ -4,13 +4,13 @@
   shortname: devo
 - name: Industrial Organization
   shortname: io
-- name: Public Economics
+- name: Public
   shortname: public-econ
 - name: Early Childhood
   shortname: early-child
-- name: Information Economics
+- name: Information
   shortname: info
-- name: Public Policy
-  shortname: public-pol
 - name: Market Design
   shortname: market-design
+- name: Labor 
+  shortname: labor

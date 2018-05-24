@@ -5,8 +5,23 @@ pub_status: wp
 pub_date: 2011
 pub_where: 'MINEDUC WP'
 desc:
-cats: market-design education
-link_jour: 'http://www.nber.org/papers/w18342'
+cats: education devo public-econ
+link_jour:
 image:
-abstract: "Using data on student outcomes and school choice lotteries from a low-income urban school district, we examine how school choice can affect student outcomes through increased motivation and personal effort as well as through improved school and peer inputs. First we use unique daily data on individual-level student absences and suspensions to show that lottery winners have significantly lower truancies after they learn about lottery outcomes but before they enroll in their new schools. The effects are largest for male students entering high school, whose truancy rates decline by 21% in the months after winning the lottery. We then examine the impact attending a chosen school has on student test score outcomes. We find substantial test score gains from attending a charter school and some evidence that choosing and attending a high value-added magnet school improves test scores as well. Our results contribute to current evidence that school choice programs can effectively raise test scores of participants. Our findings suggest that this may occur both through an immediate effect on student behavior and through the benefit of attending a higher-performing school."
+abstract: "In this paper we document the effects of incentives aimed at shifting high achieving
+students into the teaching profession in Chile. The education system in Chile has
+recently resolved issues associated with coverage of schooling and has been transiting
+towards focusing on problems associated with the quality and equity of education
+provision, where teacher quality has been a major focus. The government of Chile
+implemented a policy in 2010 that gave full scholarships and other incentives such as
+stipends and travel for students who matriculate at teaching colleges with scores from
+the highest 30% of the admissions test distribution. Colleges however needed to implement
+a cutoff score of the 50th percentile if they were to be eligible. The results
+of this ”carrots and sticks” policy was that the proportion of high achieving students
+rose by approximately 50%, although enrollment from the lower end of the distribution
+continued high at non participating institutions. Using a regression discontinuity
+empirical design it is shown that the probability of choosing the teaching profession
+rose by 40% to 200% at different point of the distribution. The effects were found to
+be greater for students who were male and who came from public schools or families
+with lower income levels."
 ---
