@@ -5,7 +5,7 @@ pub_status: wp
 pub_date: 2011
 pub_where: 'MINEDUC WP'
 desc:
-cats: education devo public-econ
+cats: education devo public-econ labor
 link_jour:
 image:
 abstract: "In this paper we document the effects of incentives aimed at shifting high achieving
