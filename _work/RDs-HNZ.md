@@ -5,7 +5,7 @@ pub_status: wp
 pub_date: 2018
 pub_where: ''
 desc: 
-cats: info public-econ labor education 
+cats: public-econ labor education 
 link_jour: 
 image:
 abstract: 'This paper studies how the choice of college and major are related to life cycle
