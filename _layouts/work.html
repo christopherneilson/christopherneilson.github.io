@@ -30,31 +30,36 @@ layout: default
 
       {{ content }}
       <div class='spacing'></div>
-      <a class='button small' href=''>Visit website</a>
+      {% if page.article %}<a class='button small' href='{{ page.article }}'>Article</a>{% endif %}
+      {% if page.appendix %}<a class='button small' href='{{ page.appendix }}'>Appendix</a>{% endif %}
     </div>
     <div class='large-4 columns'>
       <ul class='info'>
+        {% if page.coauthors %}
         <li>
           <strong>Coauthors:</strong>
           {{ page.coauthors }}
         </li>
+        {% endif %}
+        {% if page.pub_where %}
         <li>
           <strong>Published:</strong>
           {{ page.pub_where }}
         </li>
+        {% endif %}
         <li>
           <strong>Date:</strong>
           {{ page.pub_date }}
         </li>
         <li>
           <div class='spacing'></div>
-          <a href='' title='previous'>
+          <a href='' title='Previous article'>
             <i class='icon-left-open'></i>
           </a>
-          <a href='portfolio.html' title='back to work list'>
+          <a href='/research.html' title='Back to Research'>
             <i class='icon-layout'></i>
           </a>
-          <a href='' title='next'>
+          <a href='' title='Next article'>
             <i class='icon-right-open'></i>
           </a>
         </li>
