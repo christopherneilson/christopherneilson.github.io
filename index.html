@@ -259,21 +259,21 @@ milestones:
   </div>
   <div class='row'>
     <!-- Publications -->
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-file-text'></i>
         <strong data-from=0 data-to='{{site.work.size}}'>&nbsp;</strong>
-        <span>Articles</span>
+        <span><b>Articles</b></span>
         <div class='four spacing'></div>
       </div>
     </div>
     <!-- Coauthors -->
     {% assign coauthors_uniq = site.work | map: 'coauthors' | join: ', ' | split: ', ' | uniq %}
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-users'></i>
         <strong data-from=0 data-to='{{ coauthors_uniq.size }}'>&nbsp;</strong>
-        <span>Coauthors</span>
+        <span><b>Coauthors</b></span>
         <div class='four spacing'></div>
       </div>
     </div>
@@ -282,13 +282,11 @@ milestones:
     {% for grant in site.data.grants %}
       {% assign sum = sum | plus: grant.amount %}
     {% endfor %}
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
       <div class='mod modMilestone'>
-        <i class='fa fa-file-text'></i>
-    </p>
-        <span> &nbsp; USD </span>
-        <strong data-from=0 data-to='{{ sum }}'>panconqueso</strong>
-        <span>Grants</span>
+        <i class='fa fa-money'></i>
+        <strong data-from=0 data-to='{{ sum }}'>&nbsp;</strong>
+        <span><b>Grant money (USD)</b></span>
         <div class='four spacing'></div>
       </div>
     </div>
