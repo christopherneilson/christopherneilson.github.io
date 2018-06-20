@@ -78,4 +78,12 @@
   avatar: images/team/surya.jpg
   position: Microsoft Research
   socials:
-  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.   
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
+
+- firstname: Julio
+  lastname: Rodríguez
+  current: true
+  avatar: images/team/julio-rodriguez.jpg
+  position: Chile
+  socials:
+  desc: Julio is interested in innovative methodologies that can contribute to applied microeconomics research and answer questions of education and development.
