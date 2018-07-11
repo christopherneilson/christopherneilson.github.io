@@ -67,7 +67,7 @@ section_id: research
       <ul class='gallery'>
         <h3>Working papers &amp; Work in progress </h3>
         {% for work in work_sorted %}
-        {% if work.pub_status != 'published' %}
+        {% if work.pub_status != 'published' %} {% unless work.hidden %}
           <li class="{{ work.cats }}">
             <a href='{{ work.url }}'>{{ work.title }}</a>
             {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
@@ -76,7 +76,7 @@ section_id: research
               {% if work.pub_status == 'rr' %} (Revise and resubmit) {% endif %}
             </b></p>
           </li>
-        {% endif %}
+        {% endunless %}{% endif %}
         {% endfor %}
       </ul>
     </div>
