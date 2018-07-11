@@ -3843,3 +3843,21 @@ body {
     width:50%;
     height:50%;
 }
+
+
+.button-research {
+    background-color: white; /* Green */
+    border: 2px solid #FF8F00;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button-research:hover {
+  background-color: #FF8F00;
+  color: white;
+}
