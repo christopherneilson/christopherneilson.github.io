@@ -2,9 +2,9 @@
 hidden: True
 title: 'Reducing Free-Riding in Public Goods: An Experimental Approach to Improving Payment Compliance for Trash Collection in the Dominican Republic'
 coauthors: 'José Pellerano'
-pub_status: mimeo
+pub_status: wip
 pub_date: 2018
-pub_where:
+pub_where: Mimeo
 desc:
 cats: info public-econ
 link_jour:
