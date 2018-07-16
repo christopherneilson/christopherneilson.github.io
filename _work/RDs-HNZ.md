@@ -3,10 +3,10 @@ title: 'Student Choices and the Return to College Major and Selectivity'
 coauthors: 'Justin Hastings, Seth Zimmerman'
 pub_status: wp
 pub_date: 2018
-pub_where: ''
-desc: 
-cats: public-econ labor education 
-link_jour: 
+pub_where: 
+desc:
+cats: public-econ labor education
+link_jour:
 image:
 abstract: 'This paper studies how the choice of college and major are related to life cycle
 earnings in a context where selection bias can potentially confound direct measurement.
