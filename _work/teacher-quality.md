@@ -1,7 +1,7 @@
 ---
 title: 'What goes in, must come out? Initial Academic Achievement, College Value Added and Teacher Quality'
 coauthors: 'Sebastian Gallegos, Alvaro Carril'
-pub_status: wp
+pub_status: wip
 pub_date: 2018
 pub_where: 'mimeo'
 desc:
