@@ -1,7 +1,7 @@
 ---
 title: 'The Equilibrium Effects of Asymmetric Information: Evidence from Consumer Credit Markets'
 coauthors: 'Andres Liberman, Luis Opazo, Seth Zimmerman'
-pub_status: wip
+pub_status: wp
 pub_date: 2018
 pub_where:
 desc:
