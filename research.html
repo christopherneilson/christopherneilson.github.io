@@ -44,7 +44,7 @@ section_id: research
       </div>
 
     <!-- List of papers -->
-    {% assign work_sorted = (site.work | sort: 'pub_date') | reverse %}
+    {% assign work_sorted = (site.work | sort: 'order' | sort: 'pub_date') | reverse %}
     <div class='large-6 columns'>
       <ul class='gallery'>
         <!-- Published Articles -->
@@ -65,15 +65,37 @@ section_id: research
     <!-- Working papers & Work in progress -->
     <div class='large-6 columns'>
       <ul class='gallery'>
-        <h3>Working papers &amp; Work in progress </h3>
+        <h3>Working papers</h3>
         {% for work in work_sorted %}
-        {% if work.pub_status != 'published' %} {% unless work.hidden %}
+        {% if work.pub_status == 'rr' %} {% unless work.hidden %}
+          <li class="{{ work.cats }}">
+            <a href='{{ work.url }}'>{{ work.title }}</a>
+            {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
+            <p><b>
+              {{ work.pub_where }} (Revise and resubmit)
+            </b></p>
+          </li>
+        {% endunless %}{% endif %}
+        {% endfor %}
+        {% for work in work_sorted %}
+        {% if work.pub_status == 'wp' %} {% unless work.hidden %}
           <li class="{{ work.cats }}">
             <a href='{{ work.url }}'>{{ work.title }}</a>
             {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
             <p><b>
               {{ work.pub_where }}
-              {% if work.pub_status == 'rr' %} (Revise and resubmit) {% endif %}
+            </b></p>
+          </li>
+        {% endunless %}{% endif %}
+        {% endfor %}
+        <h3>Work in progress</h3>
+        {% for work in work_sorted %}
+        {% if work.pub_status == 'wip' %} {% unless work.hidden %}
+          <li class="{{ work.cats }}">
+            <a href='{{ work.url }}'>{{ work.title }}</a>
+            {% if work.coauthors %}With {{ work.coauthors }} {% endif %}
+            <p><b>
+              {{ work.pub_where }}
             </b></p>
           </li>
         {% endunless %}{% endif %}
