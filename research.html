@@ -73,8 +73,8 @@ section_id: research
         <h3>Working papers</h3>
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'rr' %} {% unless paper.hidden %}
-          <li class="{{ work.cats }}">
-            <a href='{{ work.url }}'>{{ paper.title }}</a>
+          <li class="{{ paper.cats }}">
+            <a href='{{ paper.url }}'>{{ paper.title }}</a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }} (Revise and resubmit)
@@ -84,8 +84,8 @@ section_id: research
         {% endfor %}
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'wp' %} {% unless paper.hidden %}
-          <li class="{{ work.cats }}">
-            <a href='{{ work.url }}'>{{ paper.title }}</a>
+          <li class="{{ paper.cats }}">
+            <a href='{{ paper.url }}'>{{ paper.title }}</a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
@@ -96,8 +96,8 @@ section_id: research
         <h3>Work in progress</h3>
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'wip' %} {% unless paper.hidden %}
-          <li class="{{ work.cats }}">
-            <a href='{{ work.url }}'>{{ work.title }}</a>
+          <li class="{{ paper.cats }}">
+            <a href='{{ paper.url }}'>{{ paper.title }}</a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
