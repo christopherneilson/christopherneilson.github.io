@@ -56,8 +56,8 @@ section_id: research
         <h3>Published Articles</h3>
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'published' %}
-          <li class="{{ work.cats }}">
-            <a href='{{ work.url }}'>{{ paper.title }}</a>
+          <li class="{{ paper.cats }}">
+            <a href='{{ paper.url }}'>{{ paper.title }}</a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
