@@ -1,8 +1,8 @@
 - firstname: Olivia
   lastname: Bordeu
-  current: true
+  current: false
   avatar: images/team/olivia.jpg
-  position: Princeton University
+  position: PhD student, UChicago Booth
   socials:
     - link: https://obordeu.github.io/
       icon: link
@@ -12,9 +12,9 @@
 
 - firstname: Franco
   lastname: Calle
-  current: false
+  current: true
   avatar: images/team/franco.jpg
-  position: NBER
+  position: Research Assistant, Princeton University
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -25,7 +25,8 @@
   desc: Franco is attracted to novel methods that could be applied into economic research. He is interested in the intersection of economics and data science.
 - firstname: Alvaro
   lastname: Carril
-  position: NBER
+  position: PhD student, Princeton University
+  current: false
   avatar: images/team/alvaro.jpg
   desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
   socials:
@@ -36,7 +37,8 @@
 
 - firstname: Mohit
   lastname: Karnani
-  position: NBER
+  position: PhD student, MIT 
+  current: false
   avatar: images/team/mohit.jpg
   socials:
     - link: http://twitter.com/economohit
@@ -49,14 +51,16 @@
 
 - firstname: Gonzalo
   lastname: Oyanedel
-  position: J-PAL LAC
+  current: false
+  position: COO ConsilumBots
   avatar: images/team/gonzalo.jpg
 
 - firstname: Felipe
   lastname: Arteaga
-  position: J-PAL LAC &amp; MINEDUC
+  current: false
+  position: PhD. student, UC Berkeley 
   avatar: images/team/felipe-arteaga.jpg
-  desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields.
+  desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields. In the past, Felipe worked with Professor Neilson J-PAL LAC and at MINEDUC Chile.
   socials:
     - link: https://vimeo.com/fharteaga/videos
       icon: link
@@ -64,8 +68,9 @@
 - firstname: Manuel
   lastname: Martínez
   position: NBER
+  current: true
   avatar: images/team/manuel-martinez.jpeg
-  desc: Manuel dons various hats to support the collective research effort. As a sociology convert to economics, his interests lie on the intersection of economics, data science, ethics, and the behavioural sciences.
+  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
   socials:
     - link: https://manmartgarc.github.io/
       icon: link
@@ -74,7 +79,7 @@
 
 - firstname: Surya
   lastname: Ierokomos
-  current: false
+  current: true
   avatar: images/team/surya.jpg
   position: Microsoft Research
   socials:
@@ -82,8 +87,19 @@
 
 - firstname: Julio
   lastname: Rodríguez
-  current: true
+  current: false
   avatar: images/team/julio-rodriguez.jpg
-  position: IADB
+  position: PhD student, Columbia University
   socials:
   desc: Julio is interested in innovative methodologies that can contribute to applied microeconomics research and answer questions of education and development.
+
+
+- firstname: Eduardo
+  lastname: Vargas
+  current: true
+  avatar: images/team/Eduardo.jpg
+  position: Research Manager - Santo Domingo
+  socials:
+  desc: Eduardo is an Economist working to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
+
+
