@@ -1,0 +1,84 @@
+- firstname: Olivia
+  lastname: Bordeu
+  current: false
+  avatar: images/team/olivia.jpg
+  position: PhD student UChicago Booth
+  socials:
+    - link: https://obordeu.github.io/
+      icon: link
+    - link: https://github.com/obordeu
+      icon: github
+  desc:
+
+- firstname: Alvaro
+  lastname: Carril
+  position: PhD student, Princeton University
+  current: false
+  avatar: images/team/alvaro.jpg
+  desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
+  socials:
+    - link: https://github.com/acarril
+      icon: github
+    - link: http://acarril.github.io
+      icon: link
+
+- firstname: Mohit
+  lastname: Karnani
+  position: PhD student, MIT 
+  current: false
+  avatar: images/team/mohit.jpg
+  socials:
+    - link: http://twitter.com/economohit
+      icon: twitter
+    - link: https://github.com/mohitkarnani
+      icon: github
+    - link: https://karnani.cl
+      icon: link
+  desc:
+
+- firstname: Felipe
+  lastname: Arteaga
+  current: false
+  position: PhD student, UC Berkeley 
+  avatar: images/team/felipe-arteaga.jpg
+  desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields. In the past, Felipe worked with Professor Neilson J-PAL LAC and at MINEDUC Chile.
+  socials:
+    - link: https://vimeo.com/fharteaga/videos
+      icon: link
+
+- firstname: Fabiola
+  lastname: Alba
+  current: false
+  avatar: images/team/olivia.jpg
+  position: PhD student, Brown University
+  socials:
+  desc:
+
+- firstname: Jose Luis 
+  lastname: Flor Toro
+  current: false
+  avatar: images/team/olivia.jpg
+  position: PhD student, Northwestern University
+  socials:
+  desc:
+
+- firstname: Sebastian 
+  lastname: Otero
+  current: false
+  avatar: images/team/olivia.jpg
+  position: PhD student, Stanford University
+  socials:
+    - link: http://twitter.com/economohit
+      icon: twitter
+    - link: https://github.com/mohitkarnani
+      icon: github
+    - link: https://karnani.cl
+      icon: link
+  desc:
+
+
+- firstname: Gonzalo
+  lastname: Oyanedel
+  current: false
+  position: MBA, UChicago Booth
+  avatar: images/team/gonzalo.jpg
