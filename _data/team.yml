@@ -2,7 +2,7 @@
   lastname: Bordeu
   current: false
   avatar: images/team/olivia.jpg
-  position: PhD student, UChicago Booth
+  position: PhD student UChicago Booth
   socials:
     - link: https://obordeu.github.io/
       icon: link
@@ -14,7 +14,7 @@
   lastname: Calle
   current: true
   avatar: images/team/franco.jpg
-  position: Research Assistant, Princeton University
+  position: Research Assistant Princeton University
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -89,16 +89,15 @@
   lastname: Rodríguez
   current: false
   avatar: images/team/julio-rodriguez.jpg
-  position: PhD student, Columbia University
+  position: PhD student Columbia University
   socials:
   desc: Julio is interested in innovative methodologies that can contribute to applied microeconomics research and answer questions of education and development.
-
 
 - firstname: Eduardo
   lastname: Vargas
   current: true
   avatar: images/team/Eduardo.jpg
-  position: Research Manager - Santo Domingo
+  position: Research Manager Santo Domingo
   socials:
   desc: Eduardo is an Economist working to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
 
