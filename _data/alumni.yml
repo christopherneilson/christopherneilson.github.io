@@ -65,20 +65,19 @@
 - firstname: Sebastian 
   lastname: Otero
   current: false
-  avatar: images/team/olivia.jpg
+  avatar: images/team/seba_pic.jpg
   position: PhD student, Stanford University
   socials:
-    - link: http://twitter.com/economohit
+    - link: http://twitter.com/seb_otero
       icon: twitter
-    - link: https://github.com/mohitkarnani
+    - link: https://github.com/sebotero
       icon: github
-    - link: https://karnani.cl
+    - link: https://sites.google.com/site/sebotero
       icon: link
   desc:
-
 
 - firstname: Gonzalo
   lastname: Oyanedel
   current: false
-  position: MBA, UChicago Booth
+  position: MBA student, UChicago Booth
   avatar: images/team/gonzalo.jpg
