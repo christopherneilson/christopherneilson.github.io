@@ -25,20 +25,18 @@
     - link: https://github.com/manmartgarc
       icon: github
 
-- firstname: Surya
-  lastname: Ierokomos
-  current: true
-  avatar: images/team/surya.jpg
-  position: Microsoft Research New England
-  socials:
-  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
-
 - firstname: Eduardo
   lastname: Vargas
   current: true
-  avatar: images/team/eduardo.jpg
+  avatar: images/team/edu.jpg
   position: J-PAL Research Manager Santo Domingo
   socials:
   desc: Eduardo is an economist seeking to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
 
-
+- firstname: Surya
+  lastname: Ierokomos
+  current: true
+  avatar: images/team/surya.jpg
+  position: Microsoft Research, New England
+  socials:
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
