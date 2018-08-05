@@ -65,7 +65,7 @@
 - firstname: Nestor
   lastname: Vinales
   current: true
-  avatar: images/team/nestor.jpg
+  avatar: images/team/nestor.jpeg
   position: Research Associate, DataCenter, Santo Domingo
   socials:
   desc: Nestor loves learning new data science skills.
