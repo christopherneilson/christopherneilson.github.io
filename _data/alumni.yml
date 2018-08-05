@@ -95,4 +95,14 @@
   avatar: images/team/pumi.jpg
   position: PhD student, Harvard University
   socials:
+    - link: http://twitter.com/lapumi
+      icon: twitter
+    - link: https://github.com/sebotero
+      icon: github
+    - link: https://sites.google.com/site/ramirezespinozafernanda/
+      icon: link
+    - link: https://www.instagram.com/lapumilumi/
+      icon: instagram
+    - link: https://www.linkedin.com/in/mfdaramirez
+      icon: linkedin
   desc:
