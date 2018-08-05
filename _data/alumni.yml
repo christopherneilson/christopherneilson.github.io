@@ -97,8 +97,6 @@
   socials:
     - link: http://twitter.com/lapumi
       icon: twitter
-    - link: https://github.com/sebotero
-      icon: github
     - link: https://sites.google.com/site/ramirezespinozafernanda/
       icon: link
     - link: https://www.instagram.com/lapumilumi/
@@ -106,3 +104,19 @@
     - link: https://www.linkedin.com/in/mfdaramirez
       icon: linkedin
   desc:
+
+
+- firstname: Claudia   
+  lastname: Allende
+  current: false
+  avatar: images/team/claudia.jpg
+  position: PhD student, Columbia University
+  socials:
+    - link: http://twitter.com/Claudiallende
+      icon: twitter
+    - link: https://github.com/claudiaallendesc
+      icon: github
+    - link: https://sites.google.com/site/claudiaallendesc
+      icon: link
+  desc:
+

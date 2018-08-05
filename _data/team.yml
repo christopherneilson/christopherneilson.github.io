@@ -26,12 +26,12 @@
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
 
 - firstname: Eduardo
-  lastname: Vargas
+  lastname: Ierokomos
   current: true
-  avatar: images/team/edu.jpg
-  position: Research Manager, J-PAL; Santo Domingo
+  avatar: images/team/surya.jpg
+  position: Research Associate, Microsoft Research; New England
   socials:
-  desc: Eduardo is an economist seeking to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
 
 - firstname: Surya
   lastname: Ierokomos
@@ -61,7 +61,6 @@
       icon: github
   desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
 
-
 - firstname: Nestor
   lastname: Vinales
   current: true
@@ -70,6 +69,13 @@
   socials:
   desc: Nestor loves learning new data science skills.
 
+- firstname: Heidi
+  lastname: Taveras
+  current: true
+  avatar: images/team/heidi.jpeg
+  position: Accounts Manager, J-PAL, Santo Domingo
+  socials:
+  desc: 
 
 
 
