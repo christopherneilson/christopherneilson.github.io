@@ -3,7 +3,7 @@
   lastname: Calle
   current: true
   avatar: images/team/franco.jpg
-  position: Research Assistant Princeton University
+  position: Research Assistant; Princeton University
   socials:
     - link: http://twitter.com
       icon: twitter
@@ -29,7 +29,7 @@
   lastname: Vargas
   current: true
   avatar: images/team/edu.jpg
-  position: J-PAL Research Manager Santo Domingo
+  position: Research Manager, J-PAL; Santo Domingo
   socials:
   desc: Eduardo is an economist seeking to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
 
@@ -40,3 +40,23 @@
   position: Microsoft Research, New England
   socials:
   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
+
+- firstname: Maria Elena 
+  lastname: Guerrero
+  current: true
+  avatar: images/team/surya.jpg
+  position: Research Associate, J-PAL; Santo Domingo
+  socials:
+  desc: Maria Elena focuses on data driven solutions to issues in development policy.
+
+- firstname: David 
+  lastname: Abel
+  current: true
+  avatar: images/team/surya.jpg
+  position: Research Associate, J-PAL; Santo Domingo
+  socials:
+  desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
+
+
+
+

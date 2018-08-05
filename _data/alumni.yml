@@ -57,7 +57,7 @@
 - firstname: Jose Luis 
   lastname: Flor Toro
   current: false
-  avatar: images/team/olivia.jpg
+  avatar: images/team/Jose-FlorToro.jpg
   position: PhD student, Northwestern University
   socials:
   desc:
@@ -65,7 +65,7 @@
 - firstname: Sebastian 
   lastname: Otero
   current: false
-  avatar: images/team/sotero_pic.jpg
+  avatar: images/team/sotero_pic.png
   position: PhD student, Stanford University
   socials:
     - link: http://twitter.com/seb_otero
