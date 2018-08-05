@@ -2,7 +2,7 @@
   lastname: Bordeu
   current: false
   avatar: images/team/olivia.jpg
-  position: PhD student UChicago Booth
+  position: PhD student, UChicago Booth
   socials:
     - link: https://obordeu.github.io/
       icon: link
@@ -49,9 +49,15 @@
 - firstname: Fabiola
   lastname: Alba
   current: false
-  avatar: images/team/olivia.jpg
+  avatar: images/team/fabiola_alba.jpg
   position: PhD student, Brown University
   socials:
+    - link: http://twitter.com/fabalbav
+      icon: twitter
+    - link: https://www.linkedin.com/in/fabiola-mónica-alba-vivar-72361162
+      icon: linkedin
+    - link: https://sites.google.com/site/falbavi
+      icon: link
   desc:
 
 - firstname: Jose Luis 
@@ -79,5 +85,14 @@
 - firstname: Gonzalo
   lastname: Oyanedel
   current: false
-  position: MBA student, UChicago Booth
-  avatar: images/team/gonzalo.jpg
+  position: COO at ConsiliumBots; MBA student, UChicago Booth
+  avatar: images/team/gonzalo_white.jpg
+
+
+- firstname: Maria  
+  lastname: Fernandez
+  current: false
+  avatar: images/team/pumi.jpg
+  position: PhD student, Harvard University
+  socials:
+  desc:

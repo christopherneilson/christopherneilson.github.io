@@ -18,12 +18,12 @@
   position: NBER
   current: true
   avatar: images/team/manuel-martinez.jpeg
-  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
   socials:
     - link: https://manmartgarc.github.io/
       icon: link
     - link: https://github.com/manmartgarc
       icon: github
+  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
 
 - firstname: Eduardo
   lastname: Vargas
@@ -37,7 +37,7 @@
   lastname: Ierokomos
   current: true
   avatar: images/team/surya.jpg
-  position: Microsoft Research, New England
+  position: Research Associate, Microsoft Research; New England
   socials:
   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
 
@@ -55,6 +55,10 @@
   avatar: images/team/surya.jpg
   position: Research Associate, J-PAL; Santo Domingo
   socials:
+    - link: http://twitter.com/DavidBarrazaS
+      icon: twitter
+    - link: https://github.com/davidbarraza
+      icon: github
   desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
 
 
