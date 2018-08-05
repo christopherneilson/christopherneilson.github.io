@@ -26,9 +26,9 @@
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
 
 - firstname: Eduardo
-  lastname: Ierokomos
+  lastname: Vargas
   current: true
-  avatar: images/team/surya.jpg
+  avatar: images/team/edu.jpg
   position: Research Associate, Microsoft Research; New England
   socials:
   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
@@ -44,7 +44,7 @@
 - firstname: Maria Elena 
   lastname: Guerrero
   current: true
-  avatar: images/team/surya.jpg
+  avatar: images/team/mariaelena.jpeg
   position: Research Associate, J-PAL; Santo Domingo
   socials:
   desc: Maria Elena focuses on data driven solutions to issues in development policy.
