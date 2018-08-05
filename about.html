@@ -133,6 +133,51 @@ section_id: about
 
 
 
+<!-- Alumni -->
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Mentors" %}
+      <div class='spacing'></div>
+      <p style="font-size:20px; text-align:center;">
+        Check out the amazing research my mentors are doing. work/learn with them if you can: 
+      </p>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    {% assign sorted_team = site.data.mentors | sort: 'lastname' %}
+    {% for member in sorted_team %}
+      <div class='small-6 medium-3 large-3 columns'>
+        <div class='mod modTeamMember'>
+          <div class='member'>
+            <img class="avatar" alt="" src="{{ member.avatar }}" />
+            <div class='overlay'>
+              <div class='intro'>
+                <h3>{{ member.firstname }} {{ member.lastname }}</h3>
+                <p>{{member.position}}</p>
+                <ul class='socials'>
+                  {% for social in member.socials %}
+                    <li>
+                      <a href='{{social.link}}'>
+                        <i class='fa fa-{{social.icon}}'></i>
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class='two spacing'></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<div class='four spacing'></div>
+
+
+
 <!-- <div class='full parallax' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>

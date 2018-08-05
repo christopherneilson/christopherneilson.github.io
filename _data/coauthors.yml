@@ -1,0 +1,12 @@
+- firstname: Olivia
+  lastname: Bordeu
+  current: false
+  avatar: images/team/olivia.jpg
+  position: PhD student, UChicago Booth
+  socials:
+    - link: https://obordeu.github.io/
+      icon: link
+    - link: https://github.com/obordeu
+      icon: github
+  desc:
+

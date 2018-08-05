@@ -13,6 +13,14 @@
       icon: dribbble
   desc: Franco is interested in the intersection of economics and data science.
 
+- firstname: Eduardo
+  lastname: Vargas
+  current: true
+  avatar: images/team/eduardo.jpg
+  position: Research Manager, J-PAL; Santo Domingo
+  socials:
+  desc: 
+
 - firstname: Manuel
   lastname: Martínez
   position: NBER
@@ -24,14 +32,6 @@
     - link: https://github.com/manmartgarc
       icon: github
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
-
-- firstname: Eduardo
-  lastname: Vargas
-  current: true
-  avatar: images/team/edu.jpg
-  position: Research Manager, J-PAL; Santo Domingo
-  socials:
-  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
 
 - firstname: Surya
   lastname: Ierokomos
