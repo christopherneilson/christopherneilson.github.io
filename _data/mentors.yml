@@ -1,7 +1,7 @@
 - firstname: Steve 
   lastname: Berry
   current: false
-  avatar: images/mentors/steve.jpeg
+  avatar: images/mentors/steve.jpg
   position: Yale University
   socials:
     - link: https://sites.google.com/site/stberry/
@@ -13,7 +13,7 @@
 - firstname: Phil  
   lastname: Haile  
   current: false
-  avatar: images/mentors/steve.jpeg
+  avatar: images/mentors/steve.jpg
   position: Yale University
   socials:
     - link: http://www.econ.yale.edu/~pah29/
@@ -23,7 +23,7 @@
 - firstname: Joseph
   lastname:  Altonji 
   current: false
-  avatar: images/mentors/joe.jpeg
+  avatar: images/mentors/joe.jpg
   position: Yale University
   socials:
     - link: https://sites.google.com/yale.edu/joseph-altonji/home
@@ -33,15 +33,15 @@
 - firstname: Costas 
   lastname:  Meghir
   current: false
-  avatar: images/mentors/costas.jpeg
+  avatar: images/mentors/costas.jpg
   position: Yale University
   socials:
     - link: https://sites.google.com/site/costasmeghir/home
       icon: link
   desc:
 
-- firstname: Steve 
-  lastname: Berry
+- firstname: Justine 
+  lastname: Hastings
   current: false
   avatar: images/mentors/justine.jpeg
   position: Brown University
