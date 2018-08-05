@@ -92,7 +92,7 @@
 - firstname: Maria  
   lastname: Fernandez
   current: false
-  avatar: images/team/pumi.jpg
+  avatar: images/team/pumi.jpeg
   position: PhD student, Harvard University
   socials:
     - link: http://twitter.com/lapumi
@@ -109,7 +109,7 @@
 - firstname: Claudia   
   lastname: Allende
   current: false
-  avatar: images/team/claudia.jpg
+  avatar: images/team/claudia.jpeg
   position: PhD student, Columbia University
   socials:
     - link: http://twitter.com/Claudiallende
