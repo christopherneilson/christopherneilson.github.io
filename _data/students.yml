@@ -1,0 +1,28 @@
+
+- firstname: Claudia   
+  lastname: Allende
+  current: false
+  avatar: images/team/claudia.jpeg
+  position: PhD student, Columbia University
+  socials:
+    - link: http://twitter.com/Claudiallende
+      icon: twitter
+    - link: https://github.com/claudiaallendesc
+      icon: github
+    - link: https://sites.google.com/site/claudiaallendesc
+      icon: link
+  desc:
+
+- firstname: Sebastian 
+  lastname: Otero
+  current: false
+  avatar: images/team/sotero_pic.png
+  position: PhD student, Stanford University
+  socials:
+    - link: http://twitter.com/seb_otero
+      icon: twitter
+    - link: https://github.com/sebotero
+      icon: github
+    - link: https://sites.google.com/site/sebotero
+      icon: link
+  desc:

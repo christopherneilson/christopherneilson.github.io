@@ -106,17 +106,3 @@
   desc:
 
 
-- firstname: Claudia   
-  lastname: Allende
-  current: false
-  avatar: images/team/claudia.jpeg
-  position: PhD student, Columbia University
-  socials:
-    - link: http://twitter.com/Claudiallende
-      icon: twitter
-    - link: https://github.com/claudiaallendesc
-      icon: github
-    - link: https://sites.google.com/site/claudiaallendesc
-      icon: link
-  desc:
-

@@ -44,9 +44,15 @@
 - firstname: Maria Elena 
   lastname: Guerrero
   current: true
-  avatar: images/team/mariaelena.jpeg
+  avatar: images/team/Maria_Elena_2.png
   position: Research Associate, J-PAL; Santo Domingo
   socials:
+    - link: https://twitter.com/mariaelenaguer
+      icon: twitter
+    - link: https://github.com/mariaelenaguer
+      icon: github
+    - link: https://www.instagram.com/mariaelenaguer/?hl=es-la 
+      icon: instagram
   desc: Maria Elena focuses on data driven solutions to issues in development policy.
 
 - firstname: David 
