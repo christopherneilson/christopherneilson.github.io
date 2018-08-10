@@ -101,7 +101,7 @@
 - firstname: Giancarlos 
   lastname: Marichal
   current: false
-  avatar: images/team/gian.jpeg
+  avatar: images/team/gian.jpg
   position: MPP student, University College London
   socials:
     - link: https://www.instagram.com/giancarlomduluc/
@@ -114,7 +114,7 @@
 - firstname: Astrid Camille
   lastname: Pineda Taveras
   current: false
-  avatar: images/team/astrid.jpeg
+  avatar: images/team/astrid.jpg
   socials: 
       - link: https://www.linkedin.com/in/astrid-camille-pineda-taveras-27682740/
         icon: linkedin
