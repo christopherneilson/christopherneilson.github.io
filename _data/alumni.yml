@@ -85,7 +85,14 @@
 - firstname: Gonzalo
   lastname: Oyanedel
   current: false
-  position: COO at ConsiliumBots; MBA student, UChicago Booth
+  socials:
+      - link: https://twitter.com/goyanedelv
+        icon: twitter 
+      - link: https://github.com/goyanedelv/
+        icon: github
+      - link: https://www.linkedin.com/in/gonzalo-oyanedel-vial/
+        icon: linkedin      
+  position: COO at ConsiliumBots; UChicago Booth
   avatar: images/team/gonzalo_white.jpeg
 
 
@@ -105,4 +112,34 @@
       icon: linkedin
   desc:
 
+- firstname: Giancarlos 
+  lastname: Marichal
+  current: false
+  avatar: images/team/gian.jpeg
+  position: MPP student, University College London
+  socials:
+    - link: https://www.instagram.com/giancarlomduluc/
+      icon: instagram
+    - link: https://www.linkedin.com/in/giancarlo-marichal-duluc/
+      icon: linkedin
+  desc:
 
+
+- firstname: Astrid Camille
+  lastname: Pineda Taveras
+  current: false
+  avatar: images/team/astrid.jpeg
+  socials: 
+      - link: https://www.linkedin.com/in/astrid-camille-pineda-taveras-27682740/
+        icon: linkedin
+      - link: https://www.instagram.com/astridcamille
+        icon: instagram
+  position: MPA ID student, Harvard University
+  desc:
+
+- firstname: Carmen
+  lastname: Taveras
+  current: false
+  avatar: images/team/carmen.jpeg
+  position: Consultant, World Bank
+  desc:
