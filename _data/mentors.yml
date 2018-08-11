@@ -30,29 +30,27 @@
       icon: link
   desc:
 
-
-
-# - firstname: Costas 
-#   lastname:  Meghir
-#   current: false
-#   avatar: images/mentors/costas.jpg
-#   position: Yale University
-#   socials:
-#     - link: https://sites.google.com/site/costasmeghir/home
-#       icon: link
-#   desc:
-
-- firstname: Justine 
-  lastname: Hastings
+- firstname: Costas 
+  lastname:  Meghir
   current: false
-  avatar: images/mentors/justine.png
-  position: Brown University
+  avatar: images/mentors/costas.jpg
+  position: Yale University
   socials:
-    - link: http://justinehastings.com/
+    - link: https://sites.google.com/site/costasmeghir/home
       icon: link
-    - link: https://twitter.com/JHastings_Econ 
-      icon: twitter
   desc:
+
+# - firstname: Justine 
+#   lastname: Hastings
+#   current: false
+#   avatar: images/mentors/justine.png
+#   position: Brown University
+#   socials:
+#     - link: http://justinehastings.com/
+#       icon: link
+#     - link: https://twitter.com/JHastings_Econ 
+#       icon: twitter
+#   desc:
 
 - firstname: Dante
   lastname: Contreras
