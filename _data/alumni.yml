@@ -126,7 +126,7 @@
 - firstname: Carmen
   lastname: Taveras
   current: false
-  avatar: images/team/carmen.jpg
+  avatar: images/team/carmen.png
   position: Consultant, World Bank
   socials: 
       - link: https://twitter.com/cmauratav
@@ -153,6 +153,6 @@
   - firstname: Julio 
     lastname: Rodriguez
     current: false
-    avatar: images/team/julio-rodriguez.jpg
+    avatar: images/team/julio-rodriguez.png
     position: PhD student, Columbia University
     desc:

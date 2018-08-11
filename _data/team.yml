@@ -83,5 +83,13 @@
   socials:
   desc: 
 
-
+- firstname: Patrick
+  lastname: Agte
+  current: false
+  avatar: images/team/patrick.png
+  position: PhD student, Princeton University
+  socials:
+    - link: https://www.linkedin.com/in/patrick-agte-69b033104/
+      icon: linkedin
+  desc:
 
