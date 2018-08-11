@@ -1,6 +1,6 @@
 - firstname: Joseph
   lastname:  Altonji 
-  current: 1
+  current: false
   avatar: images/mentors/joe.jpg
   position: Yale University
   socials:
@@ -10,7 +10,7 @@
 
 - firstname: Steve 
   lastname: Berry
-  current: 2
+  current: false
   avatar: images/mentors/steve.jpg
   position: Yale University
   socials:
@@ -22,7 +22,7 @@
 
 - firstname: Phil  
   lastname: Haile  
-  current: 3
+  current: false
   avatar: images/mentors/phil.jpg
   position: Yale University
   socials:
@@ -34,7 +34,7 @@
 
 - firstname: Costas 
   lastname:  Meghir
-  current: 5
+  current: false
   avatar: images/mentors/costas.jpg
   position: Yale University
   socials:
@@ -44,7 +44,7 @@
 
 - firstname: Justine 
   lastname: Hastings
-  current: 4
+  current: false
   avatar: images/mentors/justine.png
   position: Brown University
   socials:
@@ -56,7 +56,7 @@
 
 - firstname: Dante
   lastname: Contreras
-  current: 6
+  current: false
   avatar: images/mentors/dante.png
   position: Universidad de Chile
   socials:
@@ -66,7 +66,7 @@
 
 - firstname: Jose 
   lastname: De Gregorio
-  current: 7
+  current: false
   avatar: images/mentors/pepo.png
   position: Universidad de Chile
   socials:
@@ -78,7 +78,7 @@
 
 - firstname: Eduardo 
   lastname: Engel
-  current: 8
+  current: false
   avatar: images/mentors/Eduardo_Engel.png
   position: Universidad de Chile
   socials:
@@ -90,7 +90,7 @@
 
 - firstname: Oscar 
   lastname: Landerretche
-  current: 9
+  current: false
   avatar: images/mentors/oscar.png
   position: Universidad de Chile
   socials:
