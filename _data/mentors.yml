@@ -52,3 +52,32 @@
       icon: twitter
   desc:
 
+- firstname: Dante
+  lastname: Contreras
+  current: false
+  avatar: images/mentors/dante.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/dcontrer
+      icon: link
+  desc:
+
+- firstname: Jose 
+  lastname: De Gregorio
+  current: false
+  avatar: images/mentors/pepo.png
+  position: Universidad de Chile
+  socials:
+    - link: http://www.econ.uchile.cl/jdegregorio
+      icon: link
+  desc:
+
+- firstname: Eduardo 
+  lastname: Engel
+  current: false
+  avatar: images/mentors/Eduardo_Engel.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/eengel
+      icon: link
+  desc:
