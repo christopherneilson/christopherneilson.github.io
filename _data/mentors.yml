@@ -76,29 +76,29 @@
       icon: wikipedia
   desc:
 
-- firstname: Eduardo 
-  lastname: Engel
-  current: false
-  avatar: images/mentors/Eduardo_Engel.png
-  position: Universidad de Chile
-  socials:
-    - link: http://econ.uchile.cl/es/academico/eengel
-      icon: link
-    - link: https://en.wikipedia.org/wiki/Eduardo_Engel
-      icon: wikipedia
-  desc:
+# - firstname: Eduardo 
+#   lastname: Engel
+#   current: false
+#   avatar: images/mentors/Eduardo_Engel.png
+#   position: Universidad de Chile
+#   socials:
+#     - link: http://econ.uchile.cl/es/academico/eengel
+#       icon: link
+#     - link: https://en.wikipedia.org/wiki/Eduardo_Engel
+#       icon: wikipedia
+#   desc:
 
-- firstname: Oscar 
-  lastname: Landerretche
-  current: false
-  avatar: images/mentors/oscar.png
-  position: Universidad de Chile
-  socials:
-    - link: http://econ.uchile.cl/es/academico/landerretche
-      icon: link
-    - link: https://es.wikipedia.org/wiki/%C3%93scar_Landerretche_Moreno
-      icon: wikipedia
-  desc:
+# - firstname: Oscar 
+#   lastname: Landerretche
+#   current: false
+#   avatar: images/mentors/oscar.png
+#   position: Universidad de Chile
+#   socials:
+#     - link: http://econ.uchile.cl/es/academico/landerretche
+#       icon: link
+#     - link: https://es.wikipedia.org/wiki/%C3%93scar_Landerretche_Moreno
+#       icon: wikipedia
+#   desc:
 
 - firstname: Joseph
   lastname: Ramos
@@ -111,26 +111,26 @@
   desc:
 
 
-- firstname: Judy
-  lastname: Chevalier
-  current: 9
-  avatar: images/mentors/chevalier_judy.png
-  position: Yale Univeristy 
-  socials:
-    - link: https://som.yale.edu/faculty/judith-chevalier
-      icon: link
-    - link: http://twitter.com/judy_chevalier
-      icon: twitter
-  desc:
+# - firstname: Judy
+#   lastname: Chevalier
+#   current: 9
+#   avatar: images/mentors/chevalier_judy.png
+#   position: Yale Univeristy 
+#   socials:
+#     - link: https://som.yale.edu/faculty/judith-chevalier
+#       icon: link
+#     - link: http://twitter.com/judy_chevalier
+#       icon: twitter
+#   desc:
 
-- firstname: Fiona
-  lastname: Scott-Martin
-  current: 9
-  avatar: images/mentors/fiona.png
-  position: Yale Univeristy 
-  socials:
-    - link: https://som.yale.edu/faculty/fiona-m-scott-morton
-      icon: link
-    - link: http://twitter.com/ProfFionasm
-      icon: twitter
-  desc:
+# - firstname: Fiona
+#   lastname: Scott-Martin
+#   current: 9
+#   avatar: images/mentors/fiona.png
+#   position: Yale Univeristy 
+#   socials:
+#     - link: https://som.yale.edu/faculty/fiona-m-scott-morton
+#       icon: link
+#     - link: http://twitter.com/ProfFionasm
+#       icon: twitter
+#   desc:
