@@ -32,15 +32,15 @@
 
 
 
-- firstname: Costas 
-  lastname:  Meghir
-  current: false
-  avatar: images/mentors/costas.jpg
-  position: Yale University
-  socials:
-    - link: https://sites.google.com/site/costasmeghir/home
-      icon: link
-  desc:
+# - firstname: Costas 
+#   lastname:  Meghir
+#   current: false
+#   avatar: images/mentors/costas.jpg
+#   position: Yale University
+#   socials:
+#     - link: https://sites.google.com/site/costasmeghir/home
+#       icon: link
+#   desc:
 
 - firstname: Justine 
   lastname: Hastings
@@ -100,15 +100,15 @@
 #       icon: wikipedia
 #   desc:
 
-- firstname: Joseph
-  lastname: Ramos
-  current: 9
-  avatar: images/mentors/JosephRamos.png
-  position: Universidad de Chile
-  socials:
-    - link: http://econ.uchile.cl/es/academico/jramos
-      icon: link
-  desc:
+# - firstname: Joseph
+#   lastname: Ramos
+#   current: 9
+#   avatar: images/mentors/JosephRamos.png
+#   position: Universidad de Chile
+#   socials:
+#     - link: http://econ.uchile.cl/es/academico/jramos
+#       icon: link
+#   desc:
 
 
 # - firstname: Judy
