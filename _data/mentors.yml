@@ -70,6 +70,8 @@
   socials:
     - link: http://www.econ.uchile.cl/jdegregorio
       icon: link
+    - link: https://en.wikipedia.org/wiki/Jos%C3%A9_de_Gregorio
+      icon: wikipedia
   desc:
 
 - firstname: Eduardo 
@@ -80,4 +82,18 @@
   socials:
     - link: http://econ.uchile.cl/es/academico/eengel
       icon: link
+    - link: https://en.wikipedia.org/wiki/Eduardo_Engel
+      icon: wikipedia
+  desc:
+
+- firstname: Oscar 
+  lastname: Landerretche
+  current: false
+  avatar: images/mentors/oscar.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/landerretche
+      icon: link
+    - link: https://es.wikipedia.org/wiki/%C3%93scar_Landerretche_Moreno
+      icon: wikipedia
   desc:
