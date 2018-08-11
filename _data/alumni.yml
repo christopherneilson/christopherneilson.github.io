@@ -101,7 +101,7 @@
 - firstname: Giancarlos 
   lastname: Marichal
   current: false
-  avatar: images/team/gian.jpg
+  avatar: images/team/gian.png
   position: MPP student, University College London
   socials:
     - link: https://www.instagram.com/giancarlomduluc/
@@ -153,6 +153,6 @@
   - firstname: Julio 
     lastname: Rodriguez
     current: false
-    avatar: images/team/julio-rodriguez.png
+    avatar: images/team/julio-rodriguez.jpg
     position: PhD student, Columbia University
     desc:
