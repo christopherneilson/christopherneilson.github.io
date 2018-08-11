@@ -26,3 +26,14 @@
     - link: https://sites.google.com/site/sebotero
       icon: link
   desc:
+
+
+- firstname: Federico
+  lastname: Huneeus
+  current: false
+  avatar: images/team/fede.jpg
+  position: PhD student, Princeton University
+  socials:
+    - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
+      icon: linkedin
+  desc:
