@@ -128,7 +128,12 @@
   current: false
   avatar: images/team/carmen.jpg
   position: Consultant, World Bank
-  desc:
+  socials: 
+      - link: https://twitter.com/cmauratav
+        icon: twitter
+      - link: https://www.instagram.com/c.maura
+        icon: instagram
+  desc: Carmen Maura Taveras economista dominicana egresada de la Pontificia Universidad Católica Madre y Maestra en 2013. Aproximadamente cinco años de experiencia en políticas educativas dominicanas. 
 
 - firstname: Sebastian 
   lastname: Otero
