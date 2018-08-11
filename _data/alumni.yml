@@ -148,3 +148,11 @@
     - link: https://sites.google.com/site/sebotero
       icon: link
   desc:
+
+
+  - firstname: Julio 
+    lastname: Rodriguez
+    current: false
+    avatar: images/team/julio-rodriguez.png
+    position: PhD student, Columbia University
+    desc:
