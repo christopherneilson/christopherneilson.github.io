@@ -6,7 +6,7 @@ pub_date: 2018
 pub_where:
 desc:
 cats: info public-econ
-link_jour: 'http://pages.stern.nyu.edu/~aliberma/credit_Chile.pdf'
+link_jour: 'http://www.nber.org/papers/w25097'
 image:
 article: 'http://faculty.chicagobooth.edu/seth.zimmerman/research/papers/LNOZ_2017_06_15.pdf'
 appendix: 'http://faculty.chicagobooth.edu/seth.zimmerman/research/papers/LNOZ_Online_Appendix.pdf'
