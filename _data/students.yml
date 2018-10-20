@@ -1,39 +1,57 @@
 
-- firstname: Claudia   
-  lastname: Allende
-  current: false
-  avatar: images/team/claudia.jpeg
-  position: PhD student, Columbia University
-  socials:
-    - link: http://twitter.com/Claudiallende
+  - firstname: Claudia
+    lastname: Allende
+    current: false
+    avatar: images/team/claudia.jpeg
+    position: PhD student, Columbia University
+    socials:
+      - link: http://twitter.com/Claudiallende
+        icon: twitter
+      - link: https://github.com/claudiaallendesc
+        icon: github
+      - link: https://sites.google.com/site/claudiaallendesc
+        icon: link
+    desc: 5th Year Grad Student at Columbia doing Development, IO and Education
+
+
+  - firstname: Sebastian
+    lastname: Otero
+    current: false
+    avatar: images/team/sotero_pic.png
+    position: PhD student, Stanford University
+    socials:
+      - link: http://twitter.com/seb_otero
+        icon: twitter
+      - link: https://github.com/sebotero
+        icon: github
+      - link: https://sites.google.com/site/sebotero
+        icon: link
+    desc: 4th Year Grad Student at Stanford doing Development, IO and Education
+
+
+  - firstname: Federico
+    lastname: Huneeus
+    current: false
+    avatar: images/team/fede.png
+    position: PhD student, Princeton University
+    socials:
+      - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
+        icon: linkedin
+      - link: https://www.fedehuneeus.com/
+        icon: link
+    desc: Job Market Candidate 2018 : Macro, Trade, IO and Political Economy
+
+
+  - firstname: Andres
+    lastname: Barrios
+    current: false
+    avatar: images/team/andresB.png
+    position: PhD student, Princeton University
+    socials:
+    - link: http://twitter.com/andres_bafer
       icon: twitter
-    - link: https://github.com/claudiaallendesc
-      icon: github
-    - link: https://sites.google.com/site/claudiaallendesc
+    - link: andresbarriosf.github.io
       icon: link
-  desc:
-
-- firstname: Sebastian 
-  lastname: Otero
-  current: false
-  avatar: images/team/sotero_pic.png
-  position: PhD student, Stanford University
-  socials:
-    - link: http://twitter.com/seb_otero
-      icon: twitter
-    - link: https://github.com/sebotero
-      icon: github
-    - link: https://sites.google.com/site/sebotero
-      icon: link
-  desc:
-
-
-- firstname: Federico
-  lastname: Huneeus
-  current: false
-  avatar: images/team/fede.png
-  position: PhD student, Princeton University
-  socials:
-    - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
+    - link: www.linkedin.com/in/andresbarriosf
       icon: linkedin
-  desc:
+    desc: Job Market Candidate 2018 : Labor, Public and Education Economics
