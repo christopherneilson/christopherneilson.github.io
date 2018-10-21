@@ -3,7 +3,7 @@ title: 'Getting Better Students to Become Teachers: The Effects of Targeted Tuit
 coauthors: 'Macarena Alvarado, Fabian Duarte'
 pub_status: wp
 pub_date: 2011
-pub_where: 'MINEDUC WP'
+pub_where: 'MINEDUC WP 2011'
 desc:
 cats: education devo public-econ labor
 link_jour:
