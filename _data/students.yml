@@ -32,13 +32,15 @@
   - firstname: Federico
     lastname: Huneeus
     current: false
-    avatar: images/team/fede.png
+    avatar: images/team/fedeOld.jpg
     position: PhD student, Princeton University
     socials:
       - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
         icon: linkedin
       - link: https://www.fedehuneeus.com/
         icon: link
+      - link: https://twitter.com/FedericoHuneeus
+        icon: twitter
     desc: Job Market Candidate in Macro, Trade, IO and Political Economy
 
 
