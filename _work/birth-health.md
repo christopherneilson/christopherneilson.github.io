@@ -7,7 +7,7 @@ pub_where: 'Journal of Labor Economics 2018 36:2, 349-394'
 desc:
 cats: early-child education devo
 link_jour: 'https://www.journals.uchicago.edu/doi/10.1086/695616'
-image: 'images/jole_thumbnail.png'
+image: 'images/journalThumbnails/jole_portada.png'
 article: 'documents/BEN_JOLE_3_22_17.pdf'
 link_pdf: 'documents/BEN_JOLE_3_22_17.pdf'
 appendix: 'documents/BEN_JOLE_WebAppendix_3_22_17.pdf'

@@ -7,7 +7,9 @@ pub_where: 'MINEDUC WP 2011'
 desc:
 cats: education devo public-econ labor
 link_jour:
-image:
+image: 'images/journalThumbnails/mineduc_portada.jpg'
+article: 'documents/WorkingPaperBVP_MINEDUC.pdf'
+link_pdf: 'documents/WorkingPaperBVP_MINEDUC.pdf'
 abstract: "In this paper we document the effects of incentives aimed at shifting high achieving
 students into the teaching profession in Chile. The education system in Chile has
 recently resolved issues associated with coverage of schooling and has been transiting

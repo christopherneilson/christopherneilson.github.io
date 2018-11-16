@@ -6,7 +6,7 @@ pub_where: 'Econometrica'
 desc:
 cats: io education public-econ
 link_jour: 'link'
-image: 'images/econometrica_thumbnail.png'
+image:   'images/journalThumbnails/econometrica_portadaR&R.jpg'
 article: 'documents/Neilson_SEPVouchers.pdf'
 link_pdf: 'documents/Neilson_SEPVouchers.pdf'
 abstract: 'In this paper I present evidence that the structure of voucher policy design can have significant effects on the incentives schools face and can have important effects on the distribution of academic achievement across socioeconomic groups. I estimate a model of demand for schools using administrative data from Chile

@@ -7,7 +7,7 @@ pub_where: NBER WP 25097
 desc:
 cats: info public-econ
 link_jour: 'http://www.nber.org/papers/w25097'
-image:   'images/wp_thumbnail.png'
+image:   'images/journalThumbnails/nber_portada.jpg'
 article: 'documents/LNOZ_NBER_w25097.pdf'
 link_pdf: 'documents/LNOZ_NBER_w25097.pdf'
 appendix: 'http://faculty.chicagobooth.edu/seth.zimmerman/research/papers/LNOZ_Online_Appendix.pdf'
