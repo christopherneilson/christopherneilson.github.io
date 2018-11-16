@@ -19,15 +19,34 @@ section_id: portfolio
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
+      <div style=" float: left; height: 480px; width: 1000px; overflow:scroll; ">
+        <div id="map" style="width: 100%; height: 100%; overflow:scroll;"></div>
+        <!--div class='map-overlay top'>
+          <div class='map-overlay-inner'>
+            <fieldset>
+              <label>Select layer</label>
+              <select id='layer' name='layer'>
+                <option value='water'>Water</option>
+                <option value='building'>Buildings</option>
+              </select>
+            </fieldset>
+            <fieldset>
+              <label>Choose a color</label>
+              <div id='swatches'></div>
+            </fieldset>
+          </div>
+        </div-->
+      </div>
       <div class='mod modBoxedSlider'>
-        <div class='slides'>
+        <!--div class='slides'>
           <div class='slide'>
             <img alt="" src="images/@stock/big-work-1.jpg" />
           </div>
           <div class='slide'>
             <img alt="" src="images/@stock/big-work-2.jpg" />
           </div>
-        </div>
+        </div-->
+
       </div>
     </div>
   </div>
@@ -68,3 +87,105 @@ section_id: portfolio
   </div>
   <div class='four spacing'></div>
 </div>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiYmx1ZWRpc2NvdmVyIiwiYSI6ImNqbXpnMWVvcjB2cWwzcnBjN3pwcG80YWwifQ.7oi616XpMVj12IW6zzUyiA';
+
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/light-v9',
+        center: [-85, -4],
+        zoom: 1.5
+    });
+    var test = [
+        {% for popup in site.data.popups %}
+          {
+            "type": "{{ popup.type }}",
+            "properties": {
+              "description": "{{ popup.property.description }}",
+              "icon": "{{ popup.property.icon }}"
+            },
+            "geometry": {
+              "type": "{{ popup.geometry.type }}",
+              "coordinates": [{{ popup.geometry.coordinates }}]
+            }
+          },
+        {% endfor %}
+    ]
+    var features = [];
+    /*var swatches = document.getElementById('swatches');
+    var layer = document.getElementById('layer');
+    var colors = [
+        '#ffffff',
+        '#a1dab4',
+        '#41b6c4',
+        '#2c7fb8',
+        '#253494',
+        '#fed976',
+        '#feb24c',
+        '#fd8d3c',
+        '#f03b20',
+        '#bd0026'
+    ];
+
+    colors.forEach(function(color) {
+        var swatch = document.createElement('button');
+        swatch.style.backgroundColor = color;
+        swatch.addEventListener('click', function() {
+            map.setPaintProperty(layer.value, 'fill-color', color);
+        });
+        swatches.appendChild(swatch);
+    });*/
+
+    map.on('load', function() {
+
+        // Add a layer showing the places.
+        map.addLayer({
+            "id": "places",
+            "type": "symbol",
+            "source": {
+                "type": "geojson",
+                "data": {
+                    "type": "FeatureCollection",
+                    "features": test
+                }
+            },
+            "layout": {
+                "icon-image": "{icon}-15",
+                "icon-allow-overlap": true
+            }
+        });
+
+        // Create a popup, but don't add it to the map yet.
+        var popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: true
+        });
+
+        map.on('mouseenter', 'places', function(e) {
+            // Change the cursor style as a UI indicator.
+            map.getCanvas().style.cursor = 'pointer';
+
+            var coordinates = e.features[0].geometry.coordinates.slice();
+            var description = e.features[0].properties.description;
+
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            // Populate the popup and set its coordinates
+            // based on the feature found.
+            popup.setLngLat(coordinates)
+                .setHTML(description)
+                .addTo(map);
+        });
+
+        map.on('mouseleave', 'places', function() {
+            map.getCanvas().style.cursor = '';
+            // popup.remove();
+        });
+    });
+</script>

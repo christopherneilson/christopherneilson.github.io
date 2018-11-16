@@ -1,0 +1,51 @@
+- type: 'Feature'
+  property:
+    description: '<strong>United States</strong>
+    <p>Make it Mount
+    </p>'
+    icon: 'library'
+  geometry:
+    type: 'Point'
+    coordinates:
+      - -104.67,
+      - 37.26
+
+- type: 'Feature'
+  property:
+    description: "<strong>Dominica</strong><p><a href='www.google.com' target='_blank'>Project1</a></p>"
+    icon: 'attraction'
+  geometry:
+    type: 'Point'
+    coordinates:
+    - -71.75029995372984,
+    - 18.66
+
+- type: 'Feature'
+  property:
+    description: '<strong>Chile</strong><p>EatBar</p>'
+    icon: 'library'
+  geometry:
+    type: 'Point'
+    coordinates:
+    - -69.9,
+    - -26.2
+
+- type: 'Feature'
+  property:
+    description: '<strong>Peru</strong><p>The Ballston</p>'
+    icon: 'art-gallery'
+  geometry:
+    type: 'Point'
+    coordinates:
+    - -79.5,
+    - -9.21
+
+- type: 'Feature'
+  property:
+    description: "<strong>Colombia</strong><p>Feeling dandy?</p>"
+    icon: 'library'
+  geometry:
+    type: 'Point'
+    coordinates:
+    - -78.852477,
+    - 4.63

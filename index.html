@@ -68,64 +68,6 @@ milestones:
 ---
 
 
-<div class='mod modDefaultSlider'>
-  <div class='sequence' data-autostop='on' data-timeout='0'>
-    <a class='sequence-prev' href='javascript:void(0);'>
-      <span></span>
-    </a>
-    <a class='sequence-next' href='javascript:void(0);'>
-      <span></span>
-    </a>
-    <ul class='sequence-pagination'>
-      {% for slide in page.slides %}
-        {% if forloop.first %}
-          {% assign class = 'current' %}
-        {% else %}
-          {% assign class = '' %}
-        {% endif %}
-        <li class="{{class}}"></li>
-      {% endfor %}
-    </ul>
-    <ul class='sequence-canvas'>
-      {% for slide in page.slides %}
-        {% if forloop.first %}
-          {% assign style = 'static' %}
-        {% else %}
-          {% assign style = '' %}
-        {% endif %}
-
-        <li class='frame {{style}} {{ slide.klass }}'>
-          <div class='bg' style='background-image: url({{ slide.bg}});'></div>
-          <div class='small-title {{ slide.small_title.klass }}'>
-            <div class='row'>
-              <div class='large-12 columns'>
-                <h2>{{ slide.small_title.text }}</h2>
-              </div>
-            </div>
-          </div>
-          <div class='title {{ slide.title.klass }}'>
-            <div class='row'>
-              <div class='large-12 columns'>
-                <h2>{{ slide.title.text }}</h2>
-              </div>
-            </div>
-          </div>
-          <div class='buttons-wrapper {{ slide.buttons.klass }}'>
-            <div class='row'>
-              <div class='large-12 columns'>
-                <div class='two spacing'></div>
-                {% for button in slide.buttons.items %}
-                  <a class='button {{ button.klass }}' href='{{ button.link_to }}'>{{ button.text }}</a>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-
 <div class='full' style="background: #EE7F2D">
   <div class='row'>
     <div class='large-12 columns'>
@@ -161,6 +103,8 @@ milestones:
   <div class='three spacing'></div>
 </div>
 
+{% include instagram.html clientId="e9246d48c9ba48d58751960fe67a41da" userId="340004112" accessToken="340004112.e9246d4.7215a9c8482a4e74a220a9f28deb708b" %}
+
 <div class="four spacing"></div>
 
 <div class="row">
@@ -168,10 +112,10 @@ milestones:
   <div class="two spacing"></div>
 
   <div class="medium-4 large-4 columns">
-    <a href='work/equilibrium-informed-school-choice.html'>{% include icon-text.html title='Early Life Health Interventions and Academic Achievement             ' desc='American Economic Review' icon_class='fa fa-ambulance' delay='400' shape_class='icon-text-circle' %}</a>
+    <a href='work/early-life.html'>{% include icon-text.html title='Early Life Health Interventions and Academic Achievement             ' desc='American Economic Review' icon_class='fa fa-ambulance' delay='400' shape_class='icon-text-circle' %}</a>
   </div>
   <div class="medium-4 large-4 columns">
-    <a href='work/credit-info.html'>{% include icon-text.html title='Heterogeneous Beliefs and School Choice Assignment Mechanisms' desc='American Economic Review (R&R)' icon_class='fa fa-cogs' delay='0' shape_class='icon-text-circle' %}</a>
+    <a href='work/het-beliefs-NHPS.html'>{% include icon-text.html title='Heterogeneous Beliefs and School Choice Assignment Mechanisms' desc='American Economic Review (R&R)' icon_class='fa fa-cogs' delay='0' shape_class='icon-text-circle' %}</a>
   </div>
   <div class="medium-4 large-4 columns">
     <a href='work/targeted-vouchers.html'>{% include icon-text.html title='Targeted Vouchers, Competition Among Schools and the Academic Achievement of Poor Students' desc='Econometrica (R&R)' icon_class='fa fa-graduation-cap' delay='200' shape_class='icon-text-circle' %}</a>
@@ -180,10 +124,10 @@ milestones:
     <a href='work/credit-info.html'>{% include icon-text.html title='The Equilibrium Effects of Asymmetric Information: Evidence from Consumer Credit Markets' desc='NBER Working Paper No. 25097' icon_class='fa fa-credit-card' delay='400' shape_class='icon-text-circle' %}</a>
   </div>
   <div class="medium-4 large-4 columns">
-    <a href='work/credit-info.html'>{% include icon-text.html title='The Effects of Earnings Disclosure on College Enrollment Decisions' desc='NBER Working Paper No. 21300' icon_class='fa fa-lightbulb-o' delay='400' shape_class='icon-text-circle' %}</a>
+    <a href='work/earnings-disclosure.html'>{% include icon-text.html title='The Effects of Earnings Disclosure on College Enrollment Decisions' desc='NBER Working Paper No. 21300' icon_class='fa fa-lightbulb-o' delay='400' shape_class='icon-text-circle' %}</a>
   </div>
   <div class="medium-4 large-4 columns">
-    <a href='work/credit-info.html'>{% include icon-text.html title='Approximating The Equilibrium Effects of Informed School Choice' desc='Working Paper' icon_class='fa fa-bar-chart-o' delay='400' shape_class='icon-text-circle' %}</a>
+    <a href='work/equilibrium-informed-school-choice.html'>{% include icon-text.html title='Approximating The Equilibrium Effects of Informed School Choice' desc='Working Paper' icon_class='fa fa-bar-chart-o' delay='400' shape_class='icon-text-circle' %}</a>
   </div>
   <div class="medium-16 columns">
   <a href="{{site.url}}/research.html" style="font-size:20px; ">Read more ></a>
@@ -224,9 +168,6 @@ milestones:
   </div>
 </div>
 
-
-
-
 <div class='full parallax' style='background-image: url(images/CDE-estimations_code.jpg); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
@@ -239,7 +180,7 @@ milestones:
   </div>
   <div class='row'>
     <!-- Publications -->
-    <div class='medium-4 large-4 columns'>
+    <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-file-text'></i>
         <strong data-from=0 data-to='{{site.work.size}}'>&nbsp;</strong>
@@ -249,7 +190,7 @@ milestones:
     </div>
     <!-- Coauthors -->
     {% assign coauthors_uniq = site.work | map: 'coauthors' | join: ', ' | split: ',' | uniq %}
-    <div class='medium-4 large-4 columns'>
+    <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-users'></i>
         <strong data-from=0 data-to='{{ coauthors_uniq.size }}'>&nbsp;</strong>
@@ -262,13 +203,22 @@ milestones:
     {% for grant in site.data.grants %}
       {% assign sum = sum | plus: grant.amount %}
     {% endfor %}
-    <div class='medium-4 large-4 columns'>
+    <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-money'></i>
         <strong data-from=0 data-to='{{ sum }}'>&nbsp;</strong>
         <span><b>Grant money (USD)</b></span>
         <div class='four spacing'></div>
       </div>
+    </div>
+
+    <div id="citations" class='medium-3 large-3 columns'>
+      <!--div class='mod modMilestone'>
+        <i class='fa fa-quote-left'></i>
+        <strong>&nbsp;</strong>
+        <span><b>Citations</b></span>
+        <div class='four spacing'></div>
+      </div-->
     </div>
     <!-- {% for milestone in page.milestones %}
       <div class='medium-3 large-3 columns'>
@@ -284,7 +234,13 @@ milestones:
   <div class='two spacing'></div>
 </div>
 
-
+<script type="text/javascript" src="{{ '/javascripts/scholar/jquery.ajax-cross-origin.min.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ '/javascripts/scholar/scholar.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+    // Scholar.debug = true;
+    var citationCount = 0;
+    Scholar.load("6MZfok0AAAAJ");
+</script>
 
 <!-- <div class='full' style='background: #f5f5f5'>
   <div class='row'>

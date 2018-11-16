@@ -51,17 +51,27 @@ section_id: research
     {% assign papers_sorted = site.work | sort: 'pub_date' | reverse | sort: 'order', 'last' %}
 
     <div class='large-6 columns'>
-      <ul class='gallery'>
+      <ul class='gallery' style="list-style-type: none">
         <!-- Published Articles -->
         <h3>Published Articles</h3>
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'published' %}
           <li class="{{ paper.cats }}">
-            <a href='{{ paper.url }}'>{{ paper.title }}</a>
+            <div class="pubthumb">
+              <img src="/{{ paper.image | default: 'images/aer_thumb.jpg'}}">
+            </div>
+            <a class="pub-title" href='{{ paper.url }}' target="_blank">
+              <span class="ellipsis_text">{{ paper.title }}</span>
+            </a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
-            </b></p>
+            </b>
+            <!--<a href='{{ paper.url }}'>{{ paper.title }}</a>
+            {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
+            <p><b>
+              {{ paper.pub_where }}
+            </b></p>-->
           </li>
           {% endif %}
         {% endfor %}
@@ -69,12 +79,17 @@ section_id: research
     </div>
     <!-- Working papers & Work in progress -->
     <div class='large-6 columns'>
-      <ul class='gallery'>
+      <ul class='gallery' style="list-style-type: none">
         <h3>Working papers</h3>
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'rr' %} {% unless paper.hidden %}
           <li class="{{ paper.cats }}">
-            <a href='{{ paper.url }}'>{{ paper.title }}</a>
+            <div class="pubthumb">
+              <img src="/{{ paper.image | default: 'images/aer_thumb.jpg'}}">
+            </div>
+            <a class="pub-title" href='{{ paper.url }}' target="_blank">
+              <span class="ellipsis_text">{{ paper.title }}</span>
+            </a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }} (Revise and resubmit)
@@ -85,7 +100,12 @@ section_id: research
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'wp' %} {% unless paper.hidden %}
           <li class="{{ paper.cats }}">
-            <a href='{{ paper.url }}'>{{ paper.title }}</a>
+            <div class="pubthumb">
+              <img src="/{{ paper.image | default: 'images/aer_thumb.jpg'}}">
+            </div>
+            <a class="pub-title" href='{{ paper.url }}' target="_blank">
+              <span class="ellipsis_text">{{ paper.title }}</span>
+            </a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
@@ -97,7 +117,12 @@ section_id: research
         {% for paper in papers_sorted %}
         {% if paper.pub_status == 'wip' %} {% unless paper.hidden %}
           <li class="{{ paper.cats }}">
-            <a href='{{ paper.url }}'>{{ paper.title }}</a>
+            <div class="pubthumb">
+              <img src="/{{ paper.image | default: 'images/aer_thumb.jpg'}}">
+            </div>
+            <a class="pub-title" href='{{ paper.url }}' target="_blank">
+              <span class="ellipsis_text">{{ paper.title }}</span>
+            </a>
             {% if paper.coauthors %}With {{ paper.coauthors }} {% endif %}
             <p><b>
               {{ paper.pub_where }}
