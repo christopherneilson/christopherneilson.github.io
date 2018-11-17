@@ -16,6 +16,7 @@ section_id: about
   <div class='four spacing'></div>
 </div>
 
+
 <div class='full'>
   <div class='row'>
     <div class='medium-12 columns'>
@@ -23,6 +24,9 @@ section_id: about
       <p>I am an applied microeconomist and my research focuses on the study of education markets. I design and evaluate public policies using a mix of experimental methods together with the estimation of structural microeconomic models of firm and consumer behavior.</p>
       <p>I work at Princeton University, where I have a joint appointment at the Economics Department and the Woodrow Wilson School of Public and International Affairs. I am a member of the Industrial Relations Section and Education Research Section at Princeton University and a member of the National Bureau of Economic Research Industrial Organization program as well as an affiliate of the J-PAL network. </p>
     </div>
+    <div class='spacing'></div>
+    <a class='button small' href="documents">CV</a>
+  </div>
     <!-- <div class='medium-6 columns'>
       <h3>Our skills</h3>
       <div class='mod modBarGraph'>
@@ -43,6 +47,7 @@ section_id: about
 </div>
 <div class='two spacing'></div>
 
+{% include instagram.html clientId="e9246d48c9ba48d58751960fe67a41da" userId="340004112" accessToken="340004112.e9246d4.7215a9c8482a4e74a220a9f28deb708b" %}
 
 <!-- Students -->
 <div class='full' style='background: #f5f5f5'>
@@ -91,7 +96,7 @@ section_id: about
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="The research team" %}
+      {% include section-header.html title="Current research team and junior collaborators" %}
       <div class='spacing'></div>
       <p style="font-size:20px; text-align:center;">
         I work with an amazing group of talented junior researchers, students and collaborators.
@@ -136,7 +141,7 @@ section_id: about
     <div class='large-12 columns'>
       {% include section-header.html title="Alumni" %}
       <div class='spacing'></div>
-      <p style="font-size:20px; text-align:center;">
+      <p style="font-size:20px; text-align:left;">
         Past research associates and research team members are now conquering the world. Check out their research:
       </p>
       <div class='two spacing'></div>
@@ -175,19 +180,19 @@ section_id: about
 
 
 <!-- Mentors -->
-<!-- <div class='full' style='background: #f5f5f5'>
+<div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html title="Mentors" %}
       <div class='spacing'></div>
-      <p style="font-size:20px; text-align:center;">
-       I have had a lot of help on my journey learning economics. At the University of Chile and then at Yale University for my PhD, I have been extremely lucky to have had great mentors that taught me and geve me support and motivated to do my best. Check out what they are up to today and be sure to look into the amazing research and policy they are doing today. Work and learn from them if you can:
+      <p style="font-size:20px; text-align:left;">
+       I have had a lot of help on my journey learning economics. First at the University of Chile, the Central Bank of Chile and then at Yale University for my PhD, I have been extremely lucky to have had great mentors that taught me and provided support and motivation. Check out what they are up to today and be sure to look into the amazing research and policy they are doing today. Work and learn from them if you can:
       </p>
       <div class='two spacing'></div>
     </div>
   </div>
   <div class='row'>
-    {% assign sorted_team = site.data.mentors | sort: 'lastname' %}
+    {% assign sorted_team = site.data.mentors | sort: 'current' %}
     {% for member in sorted_team %}
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember'>

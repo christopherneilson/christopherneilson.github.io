@@ -1,6 +1,6 @@
 - firstname: Joseph
-  lastname:  Altonji 
-  current: false
+  lastname:  Altonji
+  current: 1
   avatar: images/mentors/joe.jpg
   position: Yale University
   socials:
@@ -8,21 +8,21 @@
       icon: link
   desc:
 
-- firstname: Steve 
+- firstname: Steve
   lastname: Berry
-  current: false
+  current: 2
   avatar: images/mentors/steve.jpg
   position: Yale University
   socials:
     - link: https://sites.google.com/site/stberry/
       icon: link
-    - link: https://twitter.com/steventberry 
+    - link: https://twitter.com/steventberry
       icon: twitter
   desc:
 
-- firstname: Phil  
-  lastname: Haile  
-  current: false
+- firstname: Phil
+  lastname: Haile
+  current: 3
   avatar: images/mentors/phil.jpg
   position: Yale University
   socials:
@@ -30,9 +30,22 @@
       icon: link
   desc:
 
-- firstname: Costas 
+#
+- firstname: Justine
+  lastname: Hastings
+  current: 4
+  avatar: images/mentors/justineThumbnail.jpg
+  position: Brown University
+  socials:
+    - link: http://justinehastings.com/
+      icon: link
+    - link: https://twitter.com/JHastings_Econ
+      icon: twitter
+  desc:
+
+- firstname: Costas
   lastname:  Meghir
-  current: false
+  current: 5
   avatar: images/mentors/costas.jpg
   position: Yale University
   socials:
@@ -40,21 +53,46 @@
       icon: link
   desc:
 
-# - firstname: Justine 
-#   lastname: Hastings
-#   current: false
-#   avatar: images/mentors/justine.png
-#   position: Brown University
-#   socials:
-#     - link: http://justinehastings.com/
-#       icon: link
-#     - link: https://twitter.com/JHastings_Econ 
-#       icon: twitter
-#   desc:
+
+- firstname: Eduardo
+  lastname: Engel
+  current: 6
+  avatar: images/mentors/Eduardo_Engel.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/eengel
+      icon: link
+  desc:
+
+#
+- firstname: Judy
+  lastname: Chevalier
+  current: 7
+  avatar: images/mentors/chevalier_judy.png
+  position: Yale Univeristy
+  socials:
+    - link: https://som.yale.edu/faculty/judith-chevalier
+      icon: link
+    - link: http://twitter.com/judy_chevalier
+      icon: twitter
+  desc:
+
+- firstname: Fiona
+  lastname: Scott-Martin
+  current: 8
+  avatar: images/mentors/fiona.jpg
+  position: Yale Univeristy
+  socials:
+    - link: https://som.yale.edu/faculty/fiona-m-scott-morton
+      icon: link
+    - link: http://twitter.com/ProfFionasm
+      icon: twitter
+  desc:
+
 
 - firstname: Dante
   lastname: Contreras
-  current: false
+  current: 9
   avatar: images/mentors/dante.png
   position: Universidad de Chile
   socials:
@@ -62,73 +100,33 @@
       icon: link
   desc:
 
-- firstname: Jose 
+- firstname: Jose
   lastname: De Gregorio
-  current: false
+  current: 10
   avatar: images/mentors/pepo.png
   position: Universidad de Chile
   socials:
     - link: http://www.econ.uchile.cl/jdegregorio
       icon: link
-    - link: https://en.wikipedia.org/wiki/Jos%C3%A9_de_Gregorio
-      icon: wikipedia
   desc:
 
-# - firstname: Eduardo 
-#   lastname: Engel
-#   current: false
-#   avatar: images/mentors/Eduardo_Engel.png
-#   position: Universidad de Chile
-#   socials:
-#     - link: http://econ.uchile.cl/es/academico/eengel
-#       icon: link
-#     - link: https://en.wikipedia.org/wiki/Eduardo_Engel
-#       icon: wikipedia
-#   desc:
 
-# - firstname: Oscar 
-#   lastname: Landerretche
-#   current: false
-#   avatar: images/mentors/oscar.png
-#   position: Universidad de Chile
-#   socials:
-#     - link: http://econ.uchile.cl/es/academico/landerretche
-#       icon: link
-#     - link: https://es.wikipedia.org/wiki/%C3%93scar_Landerretche_Moreno
-#       icon: wikipedia
-#   desc:
+- firstname: Oscar
+  lastname: Landerretche
+  current: 11
+  avatar: images/mentors/oscar.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/landerretche
+      icon: link
+  desc:
 
-# - firstname: Joseph
-#   lastname: Ramos
-#   current: 9
-#   avatar: images/mentors/JosephRamos.png
-#   position: Universidad de Chile
-#   socials:
-#     - link: http://econ.uchile.cl/es/academico/jramos
-#       icon: link
-#   desc:
-
-
-# - firstname: Judy
-#   lastname: Chevalier
-#   current: 9
-#   avatar: images/mentors/chevalier_judy.png
-#   position: Yale Univeristy 
-#   socials:
-#     - link: https://som.yale.edu/faculty/judith-chevalier
-#       icon: link
-#     - link: http://twitter.com/judy_chevalier
-#       icon: twitter
-#   desc:
-
-# - firstname: Fiona
-#   lastname: Scott-Martin
-#   current: 9
-#   avatar: images/mentors/fiona.png
-#   position: Yale Univeristy 
-#   socials:
-#     - link: https://som.yale.edu/faculty/fiona-m-scott-morton
-#       icon: link
-#     - link: http://twitter.com/ProfFionasm
-#       icon: twitter
-#   desc:
+- firstname: Joseph
+  lastname: Ramos
+  current: 12
+  avatar: images/mentors/JosephRamos.png
+  position: Universidad de Chile
+  socials:
+    - link: http://econ.uchile.cl/es/academico/jramos
+      icon: link
+  desc:

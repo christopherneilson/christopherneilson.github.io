@@ -19,5 +19,5 @@ college major choice and earnings determination. After considering for the prese
 of selection bias, results stemming from the analysis suggest that there is
 considerable heterogeneity that is predictable across options. This heterogeneity
 can be explained by a combination of course content and observable comparative
-advantage given by interactions of major characteristics and student skills.'
+advantage given by interactions of major characteristics and student skills. '
 ---

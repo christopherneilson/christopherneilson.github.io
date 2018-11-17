@@ -203,10 +203,10 @@
                 return n
             }, e
         }(), function (e, t) {
-            console.log(5)
+            console.log(10)
             return typeof define == "function" && define.amd ? define([], t) : typeof module == "object" && module.exports ? module.exports = t() : e.Instafeed = t()
         }(this, function () {
-            console.log(6)
+            console.log(11)
             return e
         })
     }).call(this);
@@ -219,8 +219,8 @@
     var feed = new Instafeed({
         get: 'tagged',
         userId: '{{ include.userId }}',
-        limit: '10',
-        sortBy: 'most-recent',
+        limit: '100',
+        sortBy: 'random',
         tagName: 'econlife',
         resolution: 'standard_resolution',
         accessToken: '{{ include.accessToken }}',
