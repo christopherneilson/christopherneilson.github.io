@@ -19,7 +19,7 @@
   avatar: images/team/eduardo.png
   position: Research Manager, J-PAL; Santo Domingo
   socials:
-  desc:
+  desc: 
 
 - firstname: Manuel
   lastname: Martínez
@@ -31,17 +31,17 @@
       icon: link
     - link: https://github.com/manmartgarc
       icon: github
-  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
+  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
 
-# - firstname: Surya
-#   lastname: Ierokomos
-#   current: true
-#   avatar: images/team/surya.jpg
-#   position: Research Associate, Microsoft Research; New England
-#   socials:
-#   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
+- firstname: Surya
+  lastname: Ierokomos
+  current: true
+  avatar: images/team/surya.jpg
+  position: Research Associate, Microsoft Research; New England
+  socials:
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
 
-- firstname: Maria Elena
+- firstname: Maria Elena 
   lastname: Guerrero
   current: true
   avatar: images/team/Maria_Elena_2.png
@@ -51,11 +51,11 @@
       icon: twitter
     - link: https://github.com/mariaelenaguer
       icon: github
-    - link: https://www.instagram.com/mariaelenaguer/?hl=es-la
+    - link: https://www.instagram.com/mariaelenaguer/?hl=es-la 
       icon: instagram
   desc: Maria Elena focuses on data driven solutions to issues in development policy.
 
-- firstname: David
+- firstname: David 
   lastname: Barraza
   current: true
   avatar: images/team/david_abel.jpg
@@ -81,7 +81,7 @@
   avatar: images/team/heidi.jpeg
   position: Accounts Manager, J-PAL, Santo Domingo
   socials:
-  desc:
+  desc: 
 
 - firstname: Patrick
   lastname: Agte
@@ -92,3 +92,4 @@
     - link: https://www.linkedin.com/in/patrick-agte-69b033104/
       icon: linkedin
   desc:
+
