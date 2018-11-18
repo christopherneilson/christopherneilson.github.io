@@ -3,8 +3,8 @@ title: 'What goes in, must come out? Initial Academic Achievement, College Value
 coauthors: 'Sebastian Gallegos, Alvaro Carril'
 pub_status: wip
 pub_date: 2012
-pub_where: 'mimeo'
 desc:
+location: Chile
 cats: education devo public-econ labor
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'

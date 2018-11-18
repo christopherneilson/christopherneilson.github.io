@@ -5,6 +5,7 @@ pub_status: published
 pub_date: 2016
 pub_where: 'Economics of Education Review, Access to Higher Education, 51 (April 1, 2016): 136–51'
 desc:
+location: Chile
 cats: info education public-econ
 link_jour: 'https://www.sciencedirect.com/science/article/abs/pii/S0272775715000813'
 image:   'images/journalThumbnails/eer_portada.png'

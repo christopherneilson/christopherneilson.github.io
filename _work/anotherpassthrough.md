@@ -1,11 +1,12 @@
 ---
 hidden: False
 title: 'Another Passthrough Bites the Dust? Inflation and Oil Prices'
-coauthors: 'Jose De Gregorio,  Oscar Landerretche'
+coauthors: 'Jose De Gregorio and Oscar Landerretche'
 pub_status:  published
 pub_date: 2007
 pub_where: Journal of LACEA Vol. 7, No. 2 (Spring, 2007)
 desc:
+location: Chile
 cats:  public-econ macro monetary
 link_jour:
 article: 'documents/DeGregorioLanderretcheNeilsonECONOMIA2007.pdf'

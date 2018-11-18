@@ -4,6 +4,7 @@ pub_status: rr
 pub_date: 2017
 pub_where: 'Econometrica'
 desc:
+location: Chile
 cats: io education public-econ
 link_jour: 'link'
 image:   'images/journalThumbnails/econometrica_portadaR&R.jpg'

@@ -5,6 +5,7 @@ pub_status: wp
 pub_date: 2014
 pub_where: 'NBER Working Paper No. 19241'
 desc:
+location: Chile
 cats: info education labor public-econ
 link_jour: 'http://www.nber.org/papers/w19241'
 image:   'images/journalThumbnails/nber_portada.jpg'

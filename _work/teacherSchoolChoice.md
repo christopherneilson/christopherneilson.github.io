@@ -4,7 +4,7 @@ title: 'Teacher School Choice and the Wage Schedule for Equal Opportunities in P
 coauthors: 'Matteo Bobba, Gianmarco Leon and Marco Nieddu'
 pub_status: wip
 pub_date: 2016
-pub_where: Mimeo
+location: Peru
 desc:
 cats: info public-econ education development early-childhood
 link_jour:

@@ -5,6 +5,7 @@ pub_status: published
 pub_date: 2014
 pub_where: 'Journal of Public Economics 120 (December 1, 2014): 18-31'
 desc:
+location: USA
 cats: education public-econ
 link_jour: 'https://www.sciencedirect.com/science/article/abs/pii/S0047272714001765'
 image:   'images/journalThumbnails/jpe_portada.png'

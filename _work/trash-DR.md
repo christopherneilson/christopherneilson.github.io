@@ -1,10 +1,10 @@
 ---
-hidden: False
+hidden: True
 title: 'Administrative Payment Data, Information Aggregators and Financial Education: A new way for governments to promote prosocial behavior'
 coauthors: 'José Pellerano'
 pub_status: wip
 pub_date: 2017
-pub_where: Mimeo
+location: Dominican Republic
 desc:
 cats: info public-econ
 link_jour:

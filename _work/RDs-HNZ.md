@@ -2,7 +2,7 @@
 title: 'Student Choices and the Return to College Major and Selectivity'
 coauthors: 'Justine Hastings, Seth Zimmerman'
 pub_status: wip
-pub_date: 2018
+pub_date: 2019
 pub_where:
 desc:
 cats: public-econ labor education
