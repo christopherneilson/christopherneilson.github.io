@@ -48,7 +48,7 @@
     lastname: Barrios
     current: false
     avatar: images/team/andresB.png
-    position: PhD student, Princeton University
+    position: PhD student, London School of Economics
     socials:
     - link: http://twitter.com/andres_bafer
       icon: twitter
@@ -56,4 +56,4 @@
       icon: link
     - link: www.linkedin.com/in/andresbarriosf
       icon: linkedin
-    desc: Job Market Candidate in Labor, Public and Education Economics
+    desc: Job Market Candidate in Labor and Education Economics
