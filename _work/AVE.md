@@ -4,6 +4,7 @@ title: 'Subjective Beliefs and Dynamic Human Capital Investment Decisions in Dom
 coauthors: 'James Berry, Lucas Coffman and Daniel Morales'
 pub_status: wip
 pub_date: 2014
+location: Dominican Republic
 desc:
 cats: info public-econ education development early-childhood
 link_jour:

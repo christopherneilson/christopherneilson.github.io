@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'Perceived Own Ability, Information Provision and Formation in Dominican Republic'
 coauthors: 'James Berry, Sebastian Otero and Giacomo de Gigorgi'
 pub_status: wip

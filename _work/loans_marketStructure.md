@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'Student Loans, Student Choices and the Market Structure of Higher Education'
 pub_status: wip
 pub_date: 2018
