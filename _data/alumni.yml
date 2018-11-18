@@ -24,7 +24,7 @@
 
 - firstname: Mohit
   lastname: Karnani
-  position: PhD student, MIT 
+  position: PhD student, MIT
   current: false
   avatar: images/team/mohit.jpg
   socials:
@@ -39,7 +39,7 @@
 - firstname: Felipe
   lastname: Arteaga
   current: false
-  position: PhD student, UC Berkeley 
+  position: PhD student, UC Berkeley
   avatar: images/team/felipe-arteaga.jpg
   desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields. In the past, Felipe worked with Professor Neilson J-PAL LAC and at MINEDUC Chile.
   socials:
@@ -60,7 +60,7 @@
       icon: link
   desc:
 
-- firstname: Jose Luis 
+- firstname: Jose Luis
   lastname: Flor Toro
   current: false
   avatar: images/team/Jose-FlorToro.jpg
@@ -73,16 +73,16 @@
   current: false
   socials:
       - link: https://twitter.com/goyanedelv
-        icon: twitter 
+        icon: twitter
       - link: https://github.com/goyanedelv/
         icon: github
       - link: https://www.linkedin.com/in/gonzalo-oyanedel-vial/
-        icon: linkedin      
-  position: COO at ConsiliumBots; UChicago Booth
+        icon: linkedin
+  position: McKinsey & Company; UChicago Booth
   avatar: images/team/gonzalo_white.jpeg
 
 
-- firstname: Maria  
+- firstname: Maria
   lastname: Fernandez
   current: false
   avatar: images/team/pumi.jpeg
@@ -98,7 +98,7 @@
       icon: linkedin
   desc:
 
-- firstname: Giancarlos 
+- firstname: Giancarlos
   lastname: Marichal
   current: false
   avatar: images/team/gian.png
@@ -115,7 +115,7 @@
   lastname: Pineda Taveras
   current: false
   avatar: images/team/astrid.jpg
-  socials: 
+  socials:
       - link: https://www.linkedin.com/in/astrid-camille-pineda-taveras-27682740/
         icon: linkedin
       - link: https://www.instagram.com/astridcamille
@@ -128,14 +128,14 @@
   current: false
   avatar: images/team/carmen.png
   position: Consultant, World Bank
-  socials: 
+  socials:
       - link: https://twitter.com/cmauratav
         icon: twitter
       - link: https://www.instagram.com/c.maura
         icon: instagram
-  desc: Carmen Maura Taveras economista dominicana egresada de la Pontificia Universidad Católica Madre y Maestra en 2013. Aproximadamente cinco años de experiencia en políticas educativas dominicanas. 
+  desc: Carmen Maura Taveras economista dominicana egresada de la Pontificia Universidad Católica Madre y Maestra en 2013. Aproximadamente cinco años de experiencia en políticas educativas dominicanas.
 
-- firstname: Sebastian 
+- firstname: Sebastian
   lastname: Otero
   current: false
   avatar: images/team/sotero_pic.png
