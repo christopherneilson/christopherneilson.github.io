@@ -1,5 +1,5 @@
 ---
-hidden: True
+hidden: False
 title: 'Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment Policy'
 coauthors: 'Adam Kapor and Cristian Sanchez'
 pub_status: wip
