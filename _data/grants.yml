@@ -47,18 +47,26 @@
   date: 2018
   amount: 49479
   description: In this study, we collaborate with the government of the Dominican Republic to construct an information system and deploy a state of the art application that leverages innovations in artificial intelligence and machine learning to improve the quality of the personalization of information provision. Labor market earnings information as well as detailed financial aid information and skills profiles by major will be provided through an application used by social workers who visit students who participate in the national conditional cash transfer program PROSOLI. Using the custom application, social workers will help the prospective student navigate the complex higher education landscape with prompts from the app, making sure to discuss how financial aid works in their specific case and how it can change depending what they choose to study and where.
-  number: N/A 
+  number: N/A
 
 - title: Financial Aid and College Access in the Dominican Republic
   donor: Post Primary Education Initiative, J-PAL
-  date: 2018 
+  date: 2018
   amount: 256893
   description: In this project we work together with the Ministry of Higher Education of the Dominican Republic to design and evaluate different aspects of their post-secondary financial aid policy. Guided by both theory and empirical evidence, we work with the government to design and implement several randomized control trials to evaluate different aspects of the financial aid policy, focusing on recruitment, selection and retainment of talented but underprivileged students in post secondary education. Estimates of these various margins will help inform the design of final version of constrained-optimal financial aid policy.
   number: N/A
-  
+
 - title: "Reducing free-riding in public goods: An experimental approach to improving payment compliance for trash collection in the Dominican Republic"
   donor: Governance Initiative, J-PAL
   date: 2018
   amount: 48990
   description: "This is a collaborative project with the City government of Santo Domingo to design and evaluate different interventions to improve payment compliance for public garbage collection. In a first stage, we will analyze data on payment histories, as well as undertake targeted interviews and focus groups to gain a deeper understanding of the determinants of payment compliance. In the second stage, we will design and implement several randomized control trials to evaluate different behavioral and non-behavioral approaches to reduce free-riding. The interventions considered are: 1) Simplification of communication and payment instructions; 2) A lottery for households with timely payments; 3) Informing households about the consequences on their credit history of not paying the bill; 4) Informing households about debt relief options, 5) Informing citizens about actual compliance rates in high compliance neighborhoods. This will shed light on how to improve a state’s capacity to effectively collect payments for government services."
   number: N/A
+
+
+  - title: "Incubation of Human Capital Technology Organization"
+  donor: Wellspring Philanthropic Fund (WPF)
+  date: 2018
+  amount: 400000
+  description: "Incubate the development of NGO ConsiliumBots and the research and development of AI technology to help people make better human capital investment decisions."
+  number: 13524
