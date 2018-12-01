@@ -183,22 +183,17 @@ milestones:
   </div>
   <div class='row'>
     <!-- Publications -->
-    {% assign pubtotal = 0 %}
-    {% for paper in site.work %}
-       {% if paper.pub_status == 'published' %}
-        {% assign pubtotal = pubtotal | plus: 1 %}
-       {% endif %}
-    {% endfor %}
+    {% assign workpublished = site.work | where:"pub_status","published" %}
     <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-file-text'></i>
-        <strong data-from=0 data-to='{{pubtotal}}'>&nbsp;</strong>
+        <strong data-from=0 data-to='{{workpublished.size}}'>&nbsp;</strong>
         <span><b>Articles</b></span>
         <div class='four spacing'></div>
       </div>
     </div>
     <!-- Coauthors -->
-    {% assign coauthors_uniq = site.work | map: 'coauthors' | join: ', ' | split: ',' | uniq %}
+    {% assign coauthors_uniq = workpublished | map: 'coauthors' | join: ', ' | split: ',' | uniq %}
     <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-users'></i>
