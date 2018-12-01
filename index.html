@@ -183,10 +183,16 @@ milestones:
   </div>
   <div class='row'>
     <!-- Publications -->
+    {% assign pubtotal = 0 %}
+    {% for paper in site.work %}
+       {% if paper.pub_status == 'published' %}
+        {% assign pubtotal = pubtotal | plus: 1 %}
+       {% endif %}
+    {% endfor %}
     <div class='medium-3 large-3 columns'>
       <div class='mod modMilestone'>
         <i class='fa fa-file-text'></i>
-        <strong data-from=0 data-to='{{site.work.size}}'>&nbsp;</strong>
+        <strong data-from=0 data-to='{{pubtotal}}'>&nbsp;</strong>
         <span><b>Articles</b></span>
         <div class='four spacing'></div>
       </div>
