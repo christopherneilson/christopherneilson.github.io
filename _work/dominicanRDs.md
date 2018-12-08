@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'High-School Dropouts: Cutting losses or just missing out?'
 coauthors: 'Nano Barahona, Sebastian Otero, and Christina Kent'
 pub_status: wip
