@@ -11,6 +11,7 @@ github_username:  christopherneilson
 # Build settings
 markdown: kramdown
 
+google-site-verification: google711ac5ad99c342ea.html
 
 paginate: 3
 paginate_path: "blog/page:num"
