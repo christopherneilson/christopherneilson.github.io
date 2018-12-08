@@ -1,4 +1,5 @@
 ---
+hidden: False
 title: 'Initial Academic Achievement, College Value Added and Teacher Quality'
 coauthors: 'Sebastian Gallegos, Franco Calle'
 pub_status: wip

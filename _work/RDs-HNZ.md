@@ -1,4 +1,5 @@
 ---
+hidden: False
 title: 'Student Choices and the Return to College Major and Selectivity'
 coauthors: 'Justine Hastings, Seth Zimmerman'
 pub_status: wip
