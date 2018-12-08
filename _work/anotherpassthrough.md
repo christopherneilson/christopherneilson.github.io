@@ -1,5 +1,4 @@
 ---
-hidden: False
 title: 'Another Passthrough Bites the Dust? Inflation and Oil Prices'
 coauthors: 'Jose De Gregorio and Oscar Landerretche'
 pub_status:  published
