@@ -17,9 +17,11 @@ paginate: 3
 paginate_path: "blog/page:num"
 
 # include: ["_publications"]
+
+url: "https://christopherneilson.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
-  
+
 collections:
   work:
     output: true
