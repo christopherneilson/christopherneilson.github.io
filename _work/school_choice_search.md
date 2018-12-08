@@ -4,7 +4,7 @@ title: 'Search Costs, Biased Beliefs and School Choice under Endogenously Limite
 coauthors: 'Claudia Allende and Patrick Agte'
 pub_status: wip
 pub_date: 2017
-location: Dominican Republic
+location: The Dominican Republic
 desc:
 cats: public-econ education development info io
 link_jour:

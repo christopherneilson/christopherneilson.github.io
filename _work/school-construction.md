@@ -1,5 +1,5 @@
 ---
-title: 'The effect of school construction on test scores, school enrollment, and home prices'
+title: 'The Effect of School Construction on Test Scores, School Enrollment, and Home Prices'
 coauthors: 'Seth D. Zimmerman'
 pub_status: published
 pub_date: 2014

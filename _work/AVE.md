@@ -1,5 +1,5 @@
 ---
-hidden: True
+hidden: False
 title: 'Subjective Beliefs and Dynamic Human Capital Investment Decisions in Dominican Republic'
 coauthors: 'James Berry, Lucas Coffman and Daniel Morales'
 pub_status: wip

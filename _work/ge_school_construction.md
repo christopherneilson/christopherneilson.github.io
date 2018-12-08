@@ -1,6 +1,6 @@
 ---
-hidden: False
-title: 'General Equilibrium Effects of a Large Scale Public School Construction Project '
+hidden: True
+title: 'Equilibrium Effects of a Large Scale Public School Infrastructure Investment '
 coauthors: 'Michael Dinerstein'
 pub_status: wip
 pub_date: 2018
