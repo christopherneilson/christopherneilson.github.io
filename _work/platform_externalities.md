@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'Externalities of Platform Adoption and the Efficiency of Centralized College Application Systems'
 coauthors: 'Adam Kapor and Mohit Karnani'
 pub_status: wip

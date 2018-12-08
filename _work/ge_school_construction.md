@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'General Equilibrium Effects of a Large Scale Public School Construction Project '
 coauthors: 'Michael Dinerstein'
 pub_status: wip

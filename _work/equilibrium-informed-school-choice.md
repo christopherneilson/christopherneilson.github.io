@@ -1,4 +1,5 @@
 ---
+hidden: False
 title: 'The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
 pub_status: wip
