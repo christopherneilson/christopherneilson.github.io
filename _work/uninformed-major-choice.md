@@ -3,7 +3,7 @@ title: '(Un)informed College and Major Choice: Evidence from Linked Survey and A
 coauthors: 'Justine Hastings, Anely Ramirez, Seth D. Zimmerman'
 pub_status: published
 pub_date: 2016
-pub_where: 'Economics of Education Review, Access to Higher Education, 51 (April 1, 2016): 136-51'
+pub_where: 'Economics of Education Review, Access to Higher Education, 51 (April 1, 2016): 136–51'
 desc:
 location: Chile
 cats: info education public-econ
