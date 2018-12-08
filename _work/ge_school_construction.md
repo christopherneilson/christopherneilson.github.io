@@ -9,5 +9,5 @@ desc:
 cats: public-econ education development info io
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
-abstract: ''
+abstract: ' '
 ---
