@@ -17,7 +17,9 @@ paginate: 3
 paginate_path: "blog/page:num"
 
 # include: ["_publications"]
-
+plugins:
+  - jekyll-sitemap
+  
 collections:
   work:
     output: true
