@@ -1,5 +1,4 @@
 ---
-hidden: False
 title: 'Poverty Dynamics in Chile 1996-2001 '
 coauthors: 'Dante Contreras, Ryan Cooper and Jorge Herman'
 pub_status:  published

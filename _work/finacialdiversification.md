@@ -1,5 +1,4 @@
 ---
-hidden: False
 title: 'Financial Diversification, Sudden Stops and Sudden Starts'
 coauthors: ' Jose De Gregorio, Kevin Cowan, Alejandro Micco'
 pub_status:  published
