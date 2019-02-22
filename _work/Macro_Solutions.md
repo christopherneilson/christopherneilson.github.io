@@ -1,11 +1,12 @@
 ---
 hidden: False
-title: 'Solutions Manual: Macroeconomia'
+title: 'Solutions Manual for "Macroeconomia: Teoria y Politica"'
 coauthors: 'Jose DeGregorio'
 pub_status: published
 pub_date: 2008
+pub_where:  (2008)
 location: Chile
-desc: Solution Manual for the Macroecono
+desc:
 cats: macro development
 article: 'documents/Solucionario_Macroeconomia.pdf'
 link_pdf: 'documents/Solucionario_Macroeconomia.pdf'
