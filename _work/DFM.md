@@ -3,7 +3,7 @@ hidden: False
 title: 'Dynamic Complementarities of Information Interventions and Human Capital in Peru'
 coauthors: 'Francisco Gallego and Oswaldo Molina'
 pub_status: wip
-pub_date: 2015
+pub_date: 2019
 location: Peru
 desc:
 cats: info public-econ education development early-childhood
