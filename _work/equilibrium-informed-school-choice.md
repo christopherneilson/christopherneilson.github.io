@@ -16,8 +16,8 @@ abstract: "This paper studies the potential small and large scale effects of a p
 
 **Distribution of Cost Estimates**
 
-![CostEstimates]('documents/AllendeGallegoNeilson2019/C1_FirmFE.png')
+![CostEstimates](/documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
 
 **Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
 
-![CounterFactual]('documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png')
+![CounterFactual](/documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png)
