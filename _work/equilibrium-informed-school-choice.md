@@ -14,14 +14,6 @@ abstract: "This paper studies the potential small and large scale effects of a p
 ---
 ### Graphs From the Paper
 
-**Distribution of Cost Estimates**
-
-![CostEstimates](documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
-
-**Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
-
-![CounterFactual](documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png)
-
 <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
@@ -33,7 +25,31 @@ abstract: "This paper studies the potential small and large scale effects of a p
           <div class='slide'>
             <img alt="" src="documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png" />
           </div>
+          <div class='slide'>
+            <img alt="" src="documents/AllendeGallegoNeilson2019/ATECountSupply1_2018_07_18.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="documents/AllendeGallegoNeilson2019/ChangeMarkDownDist.png" />
+          </div>      
+          <div class='slide'>
+            <img alt="" src="documents/AllendeGallegoNeilson2019/MarkDownDist.png" />
+          </div>  
+          <div class='slide'>
+            <img alt="" src="documents/AllendeGallegoNeilson2019/Principal_FE_Graph.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="documents/AllendeGallegoNeilson2019/Buffer.png" />
+          </div>                     
         </div>
       </div>
     </div>
   </div>
+
+
+<!-- **Distribution of Cost Estimates**
+
+![CostEstimates](documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
+
+**Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
+
+![CounterFactual](documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png) -->
