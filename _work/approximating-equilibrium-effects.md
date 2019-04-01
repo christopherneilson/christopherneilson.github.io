@@ -14,5 +14,13 @@ abstract: 'This paper studies the potential small and large scale effects of a p
 ---
 
 # This is an <h1> tag
+
 ## This is an <h2> tag
+
 ###### This is an <h6> tag
+
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
