@@ -28,10 +28,10 @@ abstract: "This paper studies the potential small and large scale effects of a p
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           <div class='slide'>
-            <img alt="" src="/documents/AllendeGallegoNeilson2019/C1_FirmFE.png" />
+            <img alt="" src="documents/AllendeGallegoNeilson2019/C1_FirmFE.png" />
           </div>
           <div class='slide'>
-            <img alt="" src="/documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png" />
+            <img alt="" src="documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png" />
           </div>
         </div>
       </div>
