@@ -16,11 +16,11 @@ abstract: "This paper studies the potential small and large scale effects of a p
 
 **Distribution of Cost Estimates**
 
-![CostEstimates](/documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
+![CostEstimates](documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
 
 **Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
 
-![CounterFactual](/documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png)
+![CounterFactual](documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png)
 
 <div class='full'>
   <div class='row'>
@@ -28,31 +28,10 @@ abstract: "This paper studies the potential small and large scale effects of a p
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           <div class='slide'>
-            <img alt="" src="images/AVE/jpal_kid.jpg" />
+            <img alt="" src="/documents/AllendeGallegoNeilson2019/C1_FirmFE.png" />
           </div>
           <div class='slide'>
-            <img alt="" src="images/AVE/girls1.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/surveyor1.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/kiddoingsurvey.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/kidsplaying.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/classes1.jpg" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/girlsmiling.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/training1.jpg" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="images/AVE/girl_at_school.jpg" />
+            <img alt="" src="/documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png" />
           </div>
         </div>
       </div>
