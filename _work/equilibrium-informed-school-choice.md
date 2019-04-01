@@ -21,3 +21,40 @@ abstract: "This paper studies the potential small and large scale effects of a p
 **Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
 
 ![CounterFactual](/documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png)
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          <div class='slide'>
+            <img alt="" src="images/AVE/jpal_kid.jpg" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/girls1.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/surveyor1.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/kiddoingsurvey.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/kidsplaying.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/classes1.jpg" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/girlsmiling.png" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/training1.jpg" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="images/AVE/girl_at_school.jpg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
