@@ -23,7 +23,7 @@ can be explained by a combination of course content and observable comparative
 advantage given by interactions of major characteristics and student skills. '
 ---
 
-### Graphs From the Paper
+### Figures From the Paper
 
 <div class='full'>
   <div class='row'>
