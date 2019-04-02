@@ -34,25 +34,25 @@ advantage given by interactions of major characteristics and student skills. '
             <img alt="" src="documents/NHZ_RDs_2019/admision_1977.jpg" />
           </div>
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/booksDEMRE-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/booksDEMRE-eps-converted-to-1.png" />
           </div>
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/takingPicturesBooks-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/takingPicturesBooks-eps-converted-to-1.png" />
           </div>  
           <div class='slide'>
             <img alt="" src="documents/NHZ_RDs_2019/foto_malla1.jpg" />
           </div>  
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/earnings_math_lang-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/earnings_math_lang-eps-converted-to-1.png" />
           </div>
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/scores_earnings-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/scores_earnings-eps-converted-to-1.png" />
           </div>         
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to-1.png" />
           </div>     
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to-1.png" />
           </div>    
           <div class='slide'>
             <img alt="" src="documents/NHZ_RDs_2019/fl_shares_correlation.png" />
@@ -67,7 +67,7 @@ advantage given by interactions of major characteristics and student skills. '
             <img alt="" src="documents/NHZ_RDs_2019/RDs_Summary_x_AreaOnArea.jpg" />
           </div>       
           <div class='slide'>
-            <img alt="" src="documents/NHZ_RDs_2019/DeltaWage-eps-converted-to.pdf" />
+            <img alt="" src="documents/NHZ_RDs_2019/DeltaWage-eps-converted-to-1.png" />
           </div>       
         </div>
       </div>
