@@ -22,3 +22,54 @@ considerable heterogeneity that is predictable across options. This heterogeneit
 can be explained by a combination of course content and observable comparative
 advantage given by interactions of major characteristics and student skills. '
 ---
+
+### Graphs From the Paper
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/admision_1977.jpg" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/booksDEMRE-eps-converted-to.pdf" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/takingPicturesBooks-eps-converted-to.pdf" />
+          </div>  
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/foto_malla1.jpg" />
+          </div>  
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/earnings_math_lang-eps-converted-to.pdf" />
+          </div>
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/scores_earnings-eps-converted-to.pdf" />
+          </div>         
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to.pdf" />
+          </div>     
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/major_earnings-eps-converted-to.pdf" />
+          </div>    
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/fl_shares_correlation.png" />
+          </div>   
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/stem_hours.png" />
+          </div>  
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/earnings_model-eps-converted-to.png" />
+          </div>      
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/RDs_Summary_x_AreaOnArea.jpg" />
+          </div>       
+          <div class='slide'>
+            <img alt="" src="documents/NHZ_RDs_2019/DeltaWage-eps-converted-to.pdf" />
+          </div>       
+        </div>
+      </div>
+    </div>
+  </div>
