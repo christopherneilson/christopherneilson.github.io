@@ -36,10 +36,7 @@ abstract: "This paper studies the potential small and large scale effects of a p
           </div>  
           <div class='slide'>
             <img alt="" src="documents/AllendeGallegoNeilson2019/Principal_FE_Graph.png" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="documents/AllendeGallegoNeilson2019/Buffer.png" />
-          </div>                     
+          </div>                 
         </div>
       </div>
     </div>
