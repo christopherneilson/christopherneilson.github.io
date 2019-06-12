@@ -149,10 +149,19 @@
       icon: link
   desc:
 
-
 - firstname: Julio
   lastname: Rodriguez
   current: false
   avatar: images/team/juliorodriguez.png
   position: PhD student, Columbia University
   desc:
+
+- firstname: Surya
+  lastname: Ierokomos
+  current: true
+  avatar: images/team/surya.jpg
+  position: PhD student, Stanford University
+  socials:
+        - link: https://www.linkedin.com/in/surya-ierokomos-00413a9b/
+          icon: link
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.

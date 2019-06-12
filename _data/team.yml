@@ -33,13 +33,6 @@
       icon: github
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
 
-- firstname: Surya
-  lastname: Ierokomos
-  current: true
-  avatar: images/team/surya.jpg
-  position: Research Associate, Microsoft Research; New England
-  socials:
-  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
 
 - firstname: Maria Elena
   lastname: Guerrero
@@ -106,3 +99,17 @@
   socials:
     - link: https://www.linkedin.com/in/alejandrina-correa-reymond-75019656/
       icon: linkedin
+
+
+
+- firstname: Isabel
+  lastname: Jacas
+  current: true
+  avatar: images/team/isajacas.jpeg
+  position: Data Scientist, ConsiliumBots
+  desc: Isabel is an economist interested in mining large administrative datasets for policy insights with applications in education.
+  socials:
+    - link: https://www.linkedin.com/in/isabel-jacas-franzoy-7b4609179/
+      icon: linkedin
+    - link: https://github.com/isajacas
+      icon: github
