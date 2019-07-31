@@ -3,8 +3,8 @@ hidden: False
 title: 'Approximating The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
 pub_status: wp
-pub_date: July, 2019
-pub_where: Industrial Relations Section Working Paper Series, N628
+pub_date: 2019
+pub_where: Industrial Relations Section Working Paper Series July N628
 desc:
 cats: education early-childhood devo io
 link_jour:
