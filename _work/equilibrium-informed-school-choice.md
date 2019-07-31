@@ -14,11 +14,12 @@ abstract: "This paper studies the potential small and large scale effects of a p
 ---
 ### Paper and Supplemental Documents
 
-[Working Paper](../documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf)
+[Working Paper](../work/documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf)
 
-[Online Appendix](../documents/AllendeGallegoNeilson2019/OnlineAppendix_AGN.pdf) 
+[Online Appendix](../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_AGN.pdf)
 
-[Schooling Markets Appendix](../documents/AllendeGallegoNeilson2019/OnlineAppendix_SchoolingMarketsChile.pdf)
+[Schooling Markets Appendix](../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_SchoolingMarketsChile.pdf)
+
 ### Graphs From the Paper
 
 
