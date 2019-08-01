@@ -2,17 +2,26 @@
 hidden: False
 title: 'Approximating The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
-pub_status: wip
+pub_status: wp
 pub_date: 2019
-pub_where:
+pub_where: Industrial Relations Section Working Paper Series July N628
 desc:
-cats: education early-childhood public-econ devo io
+cats: education early-childhood devo io
 link_jour:
-image:   'images/journalThumbnails/workinprogress.jpg'
+image:   'images/journalThumbnails/irs_logo.png'
 link_pdf: 'documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf'
-abstract: "This paper studies the potential small and large scale effects of a policy designed to produce a more informed consumer demand in the context of the market for primary education. We develop and test a personalized information provision intervention that targets families of public Pre-K students entering the elementary school system in Chile. Using a randomized control trial, we find that the intervention shifts parents' choices toward schools with higher average test scores, higher value added, higher prices, and schools that tend to be further from their home. Tracking students using administrative data, we find that student academic achievement on test scores was approximately 0.2 standard deviations higher among treated families five years later. To quantitatively gauge how average treatment effects might vary in the context of a scaled up version of this policy, we embed the randomized control trial within a structural model of school choice and competition where price and quality are chosen endogenously and schools have capacity constraints. We use the estimated model of demand and supply to simulate policy effects under different assumptions about equilibrium constraints. In counterfactual simulations, we find that capacity constraints play an important role mitigating the policy effect on impact but in several scenarios, the supply-side responses leads to increased quality which contributes to a overall positive average treatment effect. Finally, we show how model estimates using the RCT can be used to inform the design of a large scale experiment such that reduced form estimates can capture equilibrium effects and spillovers."
+abstract: "This paper studies the potential small and large scale effects of a policy designed to produce more informed consumers in the market for primary education. We develop and test a personalized information provision intervention that targets families of public Pre-K students entering elementary schools in Chile. Using a randomized control trial, we find that the intervention shifts parents' choices toward schools with higher average test scores, higher value added, higher prices, and schools that tend to be further from their homes. Tracking students with administrative data, we find that student academic achievement on test scores was approximately 0.2 standard deviations higher among treated families five years after the intervention. To quantitatively gauge how average treatment effects might vary in a scaled up version of this policy, we embed the randomized control trial within a structural model of school choice and competition where price and quality are chosen endogenously and schools face capacity constraints. We use the estimated model of demand and supply to simulate policy effects under different assumptions about equilibrium constraints. In counterfactual simulations, we find that capacity constraints play an important role mitigating the policy effect  but in several scenarios, the supply-side response increases quality, which contributes to an overall positive average treatment effect. Finally, we show how the estimated model can inform the design of a large scale experiment such that reduced form estimates can capture equilibrium effects and spillovers."
 ---
+### Paper and Supplemental Documents
+
+[Working Paper](../work/documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf)
+
+[Online Appendix](../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_AGN.pdf)
+
+[Schooling Markets Appendix](../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_SchoolingMarketsChile.pdf)
+
 ### Graphs From the Paper
+
 
 <div class='full'>
   <div class='row'>
