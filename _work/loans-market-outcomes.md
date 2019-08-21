@@ -5,7 +5,7 @@ pub_status: published
 pub_date: 2015
 pub_where: 'American Economic Review, 105 (5): 508-13, Papers & Proceedings'
 desc:
-cats: education public-econ labor
+cats: education public-econ labor market-design
 link_jour: 'https://www.aeaweb.org/articles?id=10.1257/aer.p20151026'
 image:   'images/journalThumbnails/aer_portada.png'
 article: 'documents/BHNZ_AER_2015.pdf'

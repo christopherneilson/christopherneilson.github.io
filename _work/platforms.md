@@ -6,7 +6,7 @@ pub_status: wip
 pub_date: 2019
 location: Chile
 desc:
-cats: public-econ education development info io
+cats: public-econ education development info io market-design
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
 article: 'documents/Platforms/platform_externalities.pdf'

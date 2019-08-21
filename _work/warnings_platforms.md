@@ -1,12 +1,12 @@
 ---
-hidden: False
+hidden: True
 title: 'Search Costs, Biased Beliefs and School Choice under Endogenous Consideration Sets'
-coauthors: 'Adam Kapor, Claudia Allende and Patrick Agte'
+coauthors: 'Adam Kapor and Felipe Arteaga'
 pub_status: wip
 pub_date: 2017
-location: The Dominican Republic 
+location: Chile
 desc:
-cats: public-econ education development info io
+cats: education info io market-design 
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
 abstract: ''

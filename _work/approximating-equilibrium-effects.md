@@ -6,7 +6,7 @@ pub_status: wip
 pub_date: 2019
 pub_where:
 desc:
-cats: education early-childhood public-econ devo io
+cats: education early-childhood public-econ devo io market-design
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
 link_pdf: 'documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf'

@@ -6,7 +6,7 @@ pub_status: wip
 pub_date: 2016
 location: Peru
 desc:
-cats: info public-econ education development early-childhood
+cats: public-econ education development market-design
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
 abstract: ''
