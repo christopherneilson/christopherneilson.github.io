@@ -1,0 +1,22 @@
+I"ê<h3 id="graphs-from-the-paper">Graphs From the Paper</h3>
+
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="mod modBoxedSlider">
+        <div class="slides">
+          <div class="slide">
+            <img alt="" src="documents/CSAS/Map_university_2010s.png" />
+          </div>
+          <div class="slide">
+            <img alt="" src="documents/CSAS/Proportion_incomegroups_university.png" />
+          </div>
+          <div class="slide">
+            <img alt="" src="documents/CSAS/Timeline_university.png" />
+          </div>
+          </div>                 
+        </div>
+      </div>
+    </div>
+  </div>
+:ET

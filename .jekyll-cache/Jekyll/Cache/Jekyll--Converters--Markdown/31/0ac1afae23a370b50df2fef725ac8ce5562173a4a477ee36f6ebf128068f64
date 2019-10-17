@@ -1,0 +1,48 @@
+I"<h3 id="paper-and-supplemental-documents">Paper and Supplemental Documents</h3>
+
+<p><a href="../work/documents/AllendeGallegoNeilson2019/SchoolChoiceInfoExp.pdf">Working Paper</a></p>
+
+<p><a href="../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_AGN.pdf">Online Appendix</a></p>
+
+<p><a href="../work/documents/AllendeGallegoNeilson2019/OnlineAppendix_SchoolingMarketsChile.pdf">Schooling Markets Appendix</a></p>
+
+<h3 id="graphs-from-the-paper">Graphs From the Paper</h3>
+
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="mod modBoxedSlider">
+        <div class="slides">
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/C1_FirmFE.png" />
+          </div>
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png" />
+          </div>
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/ATECountSupply1_2018_07_18.png" />
+          </div>
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/ChangeMarkDownDist.png" />
+          </div>      
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/MarkDownDist.png" />
+          </div>  
+          <div class="slide">
+            <img alt="" src="documents/AllendeGallegoNeilson2019/Principal_FE_Graph.png" />
+          </div>                 
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- **Distribution of Cost Estimates**
+
+![CostEstimates](documents/AllendeGallegoNeilson2019/C1_FirmFE.png)
+
+**Counterfactual Distribution of School Value Added with Supply and Demand Reaction**
+
+![CounterFactual](documents/AllendeGallegoNeilson2019/QualityDistExpType12_5.png) -->
+</div>
+:ET

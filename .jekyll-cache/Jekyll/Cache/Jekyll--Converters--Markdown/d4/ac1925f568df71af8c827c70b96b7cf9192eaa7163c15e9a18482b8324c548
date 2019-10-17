@@ -1,0 +1,12 @@
+I"å<h1 id="this-is-an-h1-tag">This is an &lt;h1&gt; tag</h1>
+
+<h2 id="this-is-an-h2-tag">This is an &lt;h2&gt; tag</h2>
+
+<h6 id="this-is-an-h6-tag">This is an &lt;h6&gt; tag</h6>
+
+<p>Itâ€™s very easy to make some words <strong>bold</strong> and other words <em>italic</em> with Markdown. You can even <a href="http://google.com">link to Google!</a>
+<strong>This text will be bold</strong>
+<strong>This will also be bold</strong></p>
+
+<p><em>You <strong>can</strong> combine them</em></p>
+:ET
