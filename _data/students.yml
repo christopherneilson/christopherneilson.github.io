@@ -2,16 +2,16 @@
   - firstname: Claudia
     lastname: Allende
     current: false
-    avatar: images/team/claudia2.jpeg
+    avatar: images/team/Claudia_Allende-1420_e.jpeg
     position: PhD student, Columbia University
     socials:
       - link: http://twitter.com/Claudiallende
         icon: twitter
       - link: https://github.com/claudiaallendesc
         icon: github
-      - link: https://sites.google.com/site/claudiaallendesc
+      - link: https://www.claudiaallendesc.com/
         icon: link
-    desc: 5th Year Grad Student at Columbia doing IO and Education
+    desc: Job Market Candidate doing IO and Education in developing countries.
 
 
   - firstname: Sebastian
@@ -24,16 +24,15 @@
         icon: twitter
       - link: https://github.com/sebotero
         icon: github
-      - link: https://sites.google.com/site/sebotero
+      - link: https://sebotero.github.io/
         icon: link
-    desc: 4th Year Grad Student at Stanford doing Development, IO and Education
-
+    desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
 
   - firstname: Federico
     lastname: Huneeus
     current: false
     avatar: images/team/fedeOld.jpg
-    position: PhD student, Princeton University
+    position: Post-Doc Yale University
     socials:
       - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
         icon: linkedin
@@ -41,14 +40,14 @@
         icon: link
       - link: https://twitter.com/FedericoHuneeus
         icon: twitter
-    desc: Job Market Candidate in Macro, Trade, IO and Political Economy
+    desc: Macro, Trade, IO and Political Economy
 
 
   - firstname: Andres
     lastname: Barrios
     current: false
     avatar: images/team/andresB.png
-    position: PhD student, London School of Economics
+    position: Senior Researcher at VATT in Helsinki, Finland.
     socials:
     - link: http://twitter.com/andres_bafer
       icon: twitter
@@ -56,4 +55,4 @@
       icon: link
     - link: www.linkedin.com/in/andresbarriosf
       icon: linkedin
-    desc: Job Market Candidate in Labor and Education Economics
+    desc:  Labor and Education Economics
