@@ -15,9 +15,9 @@ abstract: "While it is a widely held belief that family and social networks can 
 
 ### Current Draft
 
-[Working Paper](../_work/documents/SiblingsSpillovers/Draft_20191126_SiblingSpillovers.pdf)
+[Working Paper](../work/documents/SiblingSpillovers/Draft_20191126_SiblingSpillovers.pdf)
 
 ### Graphs From the Paper
-<img src="documents/SiblingsSpillovers/RD_Plot_1stPref.png"
+<img src="../work/documents/SiblingsSpillovers/RD_Plot_1stPref.png"
      alt="Regression Discontinuity Plots"
      style="float: left; margin-right: 10px;" />
