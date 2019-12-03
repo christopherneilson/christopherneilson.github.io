@@ -11,7 +11,7 @@
         icon: github
       - link: https://www.claudiaallendesc.com/
         icon: link
-    desc: Job Market Candidate doing IO and Education in developing countries.
+    desc: Job Market Candidate doing IO and Education in developing countries with a focus on Latin America. 
 
 
   - firstname: Sebastian
@@ -27,3 +27,18 @@
       - link: https://sebotero.github.io/
         icon: link
     desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
+
+
+- firstname: Patrick
+  lastname: Agte
+  current: false
+  avatar: images/team/patrick.png
+  position: PhD student, Princeton University
+  socials:
+    - link: https://www.linkedin.com/in/patrick-agte-69b033104/
+      icon: linkedin
+    - link: https://www.patrickagte.com
+      icon: link
+    - link: https://twitter.com/PatrickAgte
+      icon: twitter
+  desc: 4th year graduate student at Princeton University. His research focuses on health and education in developing countries.
