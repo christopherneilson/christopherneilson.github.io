@@ -1,0 +1,30 @@
+
+
+  - firstname: Federico
+    lastname: Huneeus
+    current: false
+    avatar: images/team/fedeOld.jpg
+    position: JM 2019, Post-Doc Yale University
+    socials:
+      - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
+        icon: linkedin
+      - link: https://www.fedehuneeus.com/
+        icon: link
+      - link: https://twitter.com/FedericoHuneeus
+        icon: twitter
+    desc: Macro, Trade, IO and Political Economy
+
+
+  - firstname: Andres
+    lastname: Barrios
+    current: false
+    avatar: images/team/andresB.png
+    position: JM 2019, Senior Researcher at VATT in Helsinki, Finland.
+    socials:
+    - link: http://twitter.com/andres_bafer
+      icon: twitter
+    - link: http://andresbarriosf.github.io
+      icon: link
+    - link: www.linkedin.com/in/andresbarriosf
+      icon: linkedin
+    desc:  Labor and Education Economics
