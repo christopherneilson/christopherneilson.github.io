@@ -27,6 +27,12 @@
   avatar: images/team/eduardo.png
   position: Research Manager, J-PAL; Santo Domingo
   socials:
+        - link: https://twitter.com/eduardovars
+          icon: twitter
+        - link: https://www.linkedin.com/in/eduardovargassanchez/
+          icon: Linkedin
+        - link: https://evargass.github.io/about/
+          icon: github
   desc:
 
 - firstname: Manuel
@@ -40,7 +46,6 @@
     - link: https://github.com/manmartgarc
       icon: github
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
-
 
 - firstname: Maria Elena
   lastname: Guerrero
