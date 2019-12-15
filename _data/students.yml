@@ -11,23 +11,7 @@
         icon: github
       - link: https://www.claudiaallendesc.com/
         icon: link
-    desc: Job Market Candidate doing IO and Education in developing countries with a focus on Latin America. 
-
-
-  - firstname: Sebastian
-    lastname: Otero
-    current: false
-    avatar: images/team/sotero_github.jpg
-    position: PhD student, Stanford University
-    socials:
-      - link: http://twitter.com/seb_otero
-        icon: twitter
-      - link: https://github.com/sebotero
-        icon: github
-      - link: https://sebotero.github.io/
-        icon: link
-    desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
-
+    desc: Job Market Candidate doing IO and Education in developing countries with a focus on Latin America.
 
 - firstname: Patrick
   lastname: Agte
@@ -42,3 +26,17 @@
     - link: https://twitter.com/PatrickAgte
       icon: twitter
   desc: 4th year graduate student at Princeton University. His research focuses on health and education in developing countries.
+
+  - firstname: Sebastian
+    lastname: Otero
+    current: false
+    avatar: images/team/sotero_github.jpg
+    position: PhD student, Stanford University
+    socials:
+      - link: http://twitter.com/seb_otero
+        icon: twitter
+      - link: https://github.com/sebotero
+        icon: github
+      - link: https://sebotero.github.io/
+        icon: link
+    desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
