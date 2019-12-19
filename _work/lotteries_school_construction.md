@@ -1,5 +1,5 @@
 ---
-hidden: False
+hidden: True
 title: 'The Competitive Effects of Improved Public Provision: Evidence from a Large School Expansion Program'
 coauthors: 'Michael Dinerstein, Sebastian Otero'
 pub_status: wip
