@@ -37,12 +37,14 @@
 
 - firstname: Manuel
   lastname: Martínez
-  position: NBER
+  position: NBER; New Haven, CT
   current: true
   avatar: images/team/manuel-martinez.jpeg
   socials:
     - link: https://manmartgarc.github.io/
       icon: link
+    - link: https://www.linkedin.com/in/manmartgarc/
+      icon: linkedin
     - link: https://github.com/manmartgarc
       icon: github
   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
