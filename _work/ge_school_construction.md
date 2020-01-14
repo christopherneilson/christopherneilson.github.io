@@ -1,6 +1,6 @@
 ---
 hidden: False
-title: 'The Equilibrium Effects of Public Provision in Education Markets: Evidence from a Public School Expansion Policy'
+title: 'The Equilibrium Effects of Public Provision in Education Markets: Evidence from a Public School Construction Policy'
 coauthors: 'Michael Dinerstein, Sebastian Otero'
 pub_status: wip
 pub_date: 2019
