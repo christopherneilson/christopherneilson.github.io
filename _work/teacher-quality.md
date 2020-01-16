@@ -20,5 +20,5 @@ abstract: "This paper studies screening and recruiting policies that use pre-col
 
 ### Graphs From the Paper
 <img src="../work/documents/TeacherQuality/NonParametricPredict.jpg"
-     alt="Regression Discontinuity Plots"
+     alt="Prediction Plot"
      style="float: left; margin-right: 10px;" />
