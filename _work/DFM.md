@@ -3,13 +3,13 @@ hidden: False
 title: 'Dynamic Complementarities of Information Interventions and Human Capital in Peru'
 coauthors: 'Francisco Gallego and Oswaldo Molina'
 pub_status: wip
-pub_date: 2015 2020
+pub_date: 2015
 location: Peru
 desc:
 cats: info public-econ education development early-childhood
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
-abstract: '  This project looks to study how the timing of information can affect  different types of human capital investment decisions of young students in Peru. Together with the government of the Peru and in particular with our partners at  <a href="http://www.minedu.gob.pe/minedulab/">MineduLAB</a>, we develop and test at scale a policy relevant information intervention that conveyed information about the feasibility and labor market earnings associated with different levels and types of education levels. The intervention consisted of a series of telenovela videos, classroom posters and class discussions. Over a four year period the project implemented in ever larger sets of public schools finally reaching 50% of all schools in 2017. Detailed information about beliefs, time use and academic achievement was collected for a large panel of students, parents, teachers and principals. Following a successful policy implementation and evaluation, the intervention has now been adopted as a government policy and has been implemented in all public schools in the country.'
+abstract: '  This is a five year project that looks to study how the timing of information can affect  different types of human capital investment decisions of young students in Peru. Together with the government of the Peru and in particular with our partners at MineduLAB, we develop and test at scale a policy relevant information intervention that conveyed information about the feasibility and labor market earnings associated with different levels and types of education levels. The intervention consisted of a series of telenovela videos, classroom posters and class discussions. Over a four year period the project implemented in ever larger sets of public schools finally reaching 50% of all schools in 2017 and scaled up nationally in 2019. Detailed information about beliefs, time use and academic achievement was collected for a large panel of students, parents, teachers and principals. Following a successful policy implementation and evaluation, the intervention has now been adopted as a government policy and has been implemented in all public schools in the country.'
 ---
 
 
