@@ -51,7 +51,6 @@ abstract: '  This is a five year project that looks to study how the timing of i
           <div class='slide'>
             <img alt="" src="images/DFM/JanethCastillo.jpg" />
           </div>
-
         </div>
       </div>
     </div>
