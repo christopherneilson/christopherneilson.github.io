@@ -16,7 +16,8 @@ abstract: "This paper studies screening and recruiting policies that use pre-col
 
 ### Current Draft
 
-[Working Paper](../work/documents/TeacherQuality/CGN2019_Draft.pdf)
+
+[Working Paper](../work/documents/TeacherQuality/CGN2019_Draft_UpdateJan2020.pdf')
 
 ### Graphs From the Paper
 <img src="../work/documents/TeacherQuality/NonParametricPredict.jpg"
