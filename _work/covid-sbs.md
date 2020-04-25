@@ -4,7 +4,7 @@ title: 'The Evolving Impacts of COVID-19 on Small Businesses Since the CARES ACT
 coauthors: 'John Eric Humphries, Gabriel Ulyssea'
 pub_status: wp
 pub_date: 2020
-pub_where: 'COWLES FOUNDATION DISCUSSION PAPER NO. 2230'
+pub_where: 'Cowles Foundation Discussion Paper No. 2230'
 desc:
 cats: labor io
 link_jour:

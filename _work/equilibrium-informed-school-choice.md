@@ -2,7 +2,7 @@
 hidden: False
 title: 'Approximating The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
-pub_status: wp
+pub_status: rr
 pub_date: 2019
 pub_where: 'Revise and Resubmit at The Review of Economic Studies'
 desc:
