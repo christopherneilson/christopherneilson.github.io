@@ -1,7 +1,7 @@
 ---
 title: 'Targeted Vouchers, Competition Among Schools and the Academic Achievement of Poor Students'
 pub_status: rr
-pub_date: 2013
+pub_date: 2017
 pub_where: 'Revise and Resubmit at Econometrica'
 desc:
 location: Chile
