@@ -32,6 +32,7 @@ low baseline awareness and differential access to information relative to larger
 ### In the Press
 
 <p><a class="button--fill" href="https://www.economist.com/finance-and-economics/2020/05/02/politicians-in-america-and-europe-scramble-to-help-small-firms">The Economist 4/30/2020 </a></p>
+
 ![The Economist Figure 1](images\TheEconomist_fig.jpeg)
 
 ### Graphs From the Paper
