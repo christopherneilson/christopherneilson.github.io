@@ -2,7 +2,7 @@
 title: 'The Effects of Earnings Disclosure on College Enrollment Decisions'
 coauthors: 'Justine Hastings, Seth D. Zimmerman'
 pub_status: wp
-pub_date: 2018
+pub_date: 2015
 pub_where: 'NBER Working Paper No. 21300'
 desc:
 cats: info education devo public-econ labor
