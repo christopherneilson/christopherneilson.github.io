@@ -2,7 +2,7 @@
 hidden: False
 title: 'O Brother, Where Start Thou? Sibling Spillovers on College and Major Choice in Four Countries'
 coauthors: 'A. Altmejd, A. Barrios Fernandez, M. Drlje, J. Goodman, M. Hurwitz, D. Kovac, C. Mulhern, J Smith'
-pub_status: wp
+pub_status: rr
 pub_date: 2019
 pub_where: Revise and Resubmit at Quarterly Journal of Economics - IRS Working Paper N633
 desc:
