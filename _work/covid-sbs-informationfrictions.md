@@ -2,13 +2,13 @@
 hidden: False
 title: 'Information Frictions and Access to the Paycheck Protection Program'
 coauthors: 'John Eric Humphries, Gabriel Ulyssea'
-pub_status: wp
+pub_status: rr
 pub_date: 2020
-pub_where: 'Princeton University Industrial Relations Section Working Paper No. 640 May 2020'
+pub_where: 'Journal of Public Economics'
 desc:
 cats: labor
 link_jour:
-image:   'images/journalThumbnails/irs_logo.png'
+image:   'images/journalThumbnails/jpe_RR.jpg'
 link_pdf: 'documents/covid19_sbs/Humphries_Neilson_Ulyssea_2020_InformationFrictions.pdf'
 abstract: "The Paycheck Protection Program (PPP) extended over 650 billion dollars of forgivable loans in an unprecedented effort to support small businesses affected by the COVID-19 crisis.
 This paper provides evidence that information frictions and the ``first-come, first-served'' design of the PPP program skewed its resources towards larger firms and may have permanently reduced it's effectiveness.
