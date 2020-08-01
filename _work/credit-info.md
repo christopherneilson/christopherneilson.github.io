@@ -3,11 +3,11 @@ title: 'The Equilibrium Effects of Asymmetric Information: Evidence from Consume
 coauthors: 'Andres Liberman, Luis Opazo, Seth Zimmerman'
 pub_status: wp
 pub_date: 2018
-pub_where: NBER WP 25097
+pub_where: Journal of Finance (Revise and Resubmit)
 desc:
 cats: info public-econ
 link_jour: 'http://www.nber.org/papers/w25097'
-image:   'images/journalThumbnails/nber_portada.jpg'
+image:   'images/journalThumbnails/jf_RR.jpg'
 article: 'documents/Credit_GE/LNOZ_maintext.pdf'
 link_pdf: 'documents/Credit_GE/LNOZ_maintext.pdf'
 appendix: 'documents/Credit_GE/LNOZ_Online_Appendix.pdf'

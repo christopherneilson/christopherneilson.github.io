@@ -3,7 +3,7 @@ title: 'Connecting Student Loans to Labor Market Outcomes: Policy Lessons from C
 coauthors: 'Harald Beyer, Justine Hastings, Seth D. Zimmerman'
 pub_status: published
 pub_date: 2015
-pub_where: 'American Economic Review, 2015, Papers & Proceedings'
+pub_where: 'American Economic Review, (2015), Papers & Proceedings'
 desc:
 cats: education public-econ labor market-design
 link_jour: 'documents/BHNZ_AER_2015.pdf'

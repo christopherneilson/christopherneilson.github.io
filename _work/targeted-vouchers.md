@@ -2,7 +2,7 @@
 title: 'Targeted Vouchers, Competition Among Schools and the Academic Achievement of Poor Students'
 pub_status: rr
 pub_date: 2017
-pub_where: 'Econometrica'
+pub_where: 'Econometrica (R&R)'
 desc:
 location: Chile
 cats: io education public-econ
