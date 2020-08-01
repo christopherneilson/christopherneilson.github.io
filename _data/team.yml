@@ -111,3 +111,13 @@
     socials:
       - link: https://www.linkedin.com/in/cecilia-moreira-a2975162/
         icon: linkedin
+
+  - firstname: Ignacio
+    lastname: Riveros
+    current: true
+    avatar: images/team/ignacio.jpeg
+    position: Data Scientist, ConsiliumBots
+    desc:
+    socials:
+      - link: https://www.linkedin.com/in/iriveros94profile/
+        icon: linkedin

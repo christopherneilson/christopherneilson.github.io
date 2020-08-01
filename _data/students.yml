@@ -28,3 +28,25 @@
       - link: https://sebotero.github.io/
         icon: link
     desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
+
+- firstname: Alvaro
+  lastname: Carril
+  position: PhD student, Princeton University
+  current: false
+  avatar: images/team/alvaro.jpg
+  desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
+  socials:
+    - link: https://github.com/acarril
+      icon: github
+    - link: http://acarril.github.io
+      icon: link
+  
+  # - firstname: Thomas
+  #   lastname: Krussig
+  #   current: true
+  #   avatar: images/team/thomasKrussig.jpg
+  #   position: PhD student,UC Berkeley; COO ConsiliumBots
+  #   desc:
+  #   socials:
+  #     - link: https://www.linkedin.com/in/iriveros94profile/
+  #       icon: linkedin
