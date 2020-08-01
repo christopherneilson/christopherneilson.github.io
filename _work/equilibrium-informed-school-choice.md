@@ -4,7 +4,7 @@ title: 'Approximating The Equilibrium Effects of Informed School Choice'
 coauthors: 'Claudia Allende, Francisco Gallego'
 pub_status: rr
 pub_date: 2019
-pub_where: 'The Review of Economic Studies'
+pub_where: 'The Review of Economic Studies (R&R)'
 desc:
 cats: education early-childhood devo io
 link_jour:
