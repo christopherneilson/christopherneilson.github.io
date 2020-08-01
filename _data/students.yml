@@ -3,8 +3,8 @@
 
 - firstname: Patrick
   lastname: Agte
-  current: true
-  avatar: images/team/patrick.png
+  current: false
+  avatar: images/team/patrick.jpg
   position: PhD student, Princeton University
   socials:
     - link: https://www.linkedin.com/in/patrick-agte-69b033104/
@@ -17,7 +17,7 @@
 
   - firstname: Sebastian
     lastname: Otero
-    current: true
+    current: false
     avatar: images/team/sotero_github.jpg
     position: PhD student, Stanford University
     socials:
