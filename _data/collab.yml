@@ -38,7 +38,7 @@
 
 - firstname: Mohit
   lastname: Karnani
-  position: PhD student, MIT 
+  position: PhD student, MIT
   current: false
   avatar: images/team/mohit.jpg
   socials:
@@ -59,7 +59,7 @@
 - firstname: Felipe
   lastname: Arteaga
   current: false
-  position: PhD. student, UC Berkeley 
+  position: PhD. student, UC Berkeley
   avatar: images/team/felipe-arteaga.jpg
   desc: Felipe is an engineer trying to understand outcomes of public policy through economic research, with the dream to make scientific based suggestions for real design. Related to education by chance, willing to explore other fields. In the past, Felipe worked with Professor Neilson J-PAL LAC and at MINEDUC Chile.
   socials:
@@ -71,7 +71,7 @@
   position: NBER
   current: true
   avatar: images/team/manuel-martinez.jpeg
-  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets. 
+  desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
   socials:
     - link: https://manmartgarc.github.io/
       icon: link
@@ -100,6 +100,4 @@
   avatar: images/team/Eduardo.jpg
   position: Research Manager Santo Domingo
   socials:
-  desc: Eduardo is an economist seeking to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru. 
-
-
+  desc: Eduardo is an economist seeking to use rigorous evidence to improve public policy in Latin America. Currently based in Santo Domingo, Eduardo has working in various locations in Peru.
