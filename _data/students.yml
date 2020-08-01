@@ -1,19 +1,19 @@
 
 
 
-- firstname: Patrick
-  lastname: Agte
-  current: false
-  avatar: images/team/patrick.jpg
-  position: PhD student, Princeton University
-  socials:
-    - link: https://www.linkedin.com/in/patrick-agte-69b033104/
-      icon: linkedin
-    - link: https://www.patrickagte.com
-      icon: link
-    - link: https://twitter.com/PatrickAgte
-      icon: twitter
-  desc: 4th year graduate student at Princeton University. His research focuses on health and education in developing countries.
+  - firstname: Patrick
+    lastname: Agte
+    current: false
+    avatar: images/team/patrick.jpg
+    position: PhD student, Princeton University
+    socials:
+      - link: https://www.linkedin.com/in/patrick-agte-69b033104/
+        icon: linkedin
+      - link: https://www.patrickagte.com
+        icon: link
+      - link: https://twitter.com/PatrickAgte
+        icon: twitter
+    desc: 4th year graduate student at Princeton University. His research focuses on health and education in developing countries.
 
   - firstname: Sebastian
     lastname: Otero
