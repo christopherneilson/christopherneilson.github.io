@@ -10,6 +10,32 @@
       icon: github
   desc:
 
+
+- firstname: Franco
+  lastname: Calle
+  current: false
+  avatar: images/team/franco.jpg
+  position: PhD Student, University of Chicago (Booth)
+  socials:
+    - link: http://twitter.com/FrancoCalle
+      icon: twitter
+    - link: https://github.com/FrancoCalle
+      icon: github
+  desc: Franco works on the intersection of economics and data science.
+
+
+
+- firstname: Lavar
+  lastname: Edmonds
+  current: false
+  avatar: images/team/lavar.jpg
+  position: PhD Student, Stanford University
+  socials:
+    - link: https://www.linkedin.com/in/lavaredmonds
+      icon: linkedin
+  desc: Lavar is interested in labor economics and the economics of education.
+
+
 - firstname: Alvaro
   lastname: Carril
   position: PhD student, Princeton University

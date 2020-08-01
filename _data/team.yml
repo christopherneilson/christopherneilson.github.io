@@ -1,30 +1,8 @@
 
-- firstname: Franco
-  lastname: Calle
-  current: true
-  avatar: images/team/franco.jpg
-  position: Research Assistant, Princeton University
-  socials:
-    - link: http://twitter.com/FrancoCalle
-      icon: twitter
-    - link: https://github.com/FrancoCalle
-      icon: github
-  desc: Franco works on the intersection of economics and data science.
-
-- firstname: Lavar
-  lastname: Edmonds
-  current: true
-  avatar: images/team/lavar.jpg
-  position: Research Assistant, Princeton University
-  socials:
-    - link: https://www.linkedin.com/in/lavaredmonds
-      icon: linkedin
-  desc: Lavar is interested in labor economics and the economics of education.
-
 - firstname: Eduardo
   lastname: Vargas
   current: true
-  avatar: images/team/eduardo.png
+  avatar: images/team/edu.jpg
   position: Research Manager, J-PAL; Santo Domingo
   socials:
         - link: https://twitter.com/eduardovars
@@ -35,11 +13,23 @@
           icon: github
   desc:
 
+- firstname: Mariel
+  lastname: Bedoya
+  current: true
+  avatar: images/team/eduardo.png
+  position: Senior Research Associate, J-PAL; Santo Domingo
+  socials:
+        - link: https://www.linkedin.com/in/mariel-bedoya-9b145249/
+          icon: Linkedin
+  desc:
+
+
+
 - firstname: Manuel
   lastname: Martínez
-  position: NBER
+  position: Tobin predoctoral fellow, Yale University
   current: true
-  avatar: images/team/manuel-martinez.jpeg
+  avatar: images/team/manuel.jpg
   socials:
     - link: https://manmartgarc.github.io/
       icon: link
@@ -50,8 +40,8 @@
 - firstname: Maria Elena
   lastname: Guerrero
   current: true
-  avatar: images/team/Maria_Elena_2.png
-  position: Research Associate, J-PAL; Santo Domingo
+  avatar: images/team/mari.jpg
+  position: Tobin predoctoral fellow, Yale University
   socials:
     - link: https://twitter.com/mariaelenaguer
       icon: twitter
@@ -81,18 +71,18 @@
   socials:
   desc: Nestor loves learning new data science skills.
 
-- firstname: Heidi
-  lastname: Taveras
-  current: true
-  avatar: images/team/heidi.jpeg
-  position: Accounts Manager, J-PAL, Santo Domingo
-  socials:
-  desc:
+# - firstname: Heidi
+#   lastname: Taveras
+#   current: true
+#   avatar: images/team/heidi.jpeg
+#   position: Accounts Manager, J-PAL, Santo Domingo
+#   socials:
+#   desc:
 
 - firstname: Alejandrina
   lastname: Correa
   current: true
-  avatar: images/team/alejandrina.jpeg
+  avatar: images/team/alejandrina.jpg
   position: Research Assistant, Princeton University
   desc: Alejandrina is interested in connecting research with public policy in the areas of education and health.
   socials:
@@ -102,7 +92,7 @@
 - firstname: Isabel
   lastname: Jacas
   current: true
-  avatar: images/team/isajacas.jpeg
+  avatar: images/team/isa.jpg
   position: Data Scientist, ConsiliumBots
   desc: Isabel is an economist interested in mining large administrative datasets for policy insights with applications in education.
   socials:
@@ -110,3 +100,14 @@
       icon: linkedin
     - link: https://github.com/isajacas
       icon: github
+
+
+- firstname: Cecilia
+  lastname: Moreira
+  current: true
+  avatar: images/team/Ceci18_464.jpeg
+  position: Sr. Research Specialist, Princeton University
+  desc:
+  socials:
+    - link: https://www.linkedin.com/in/cecilia-moreira-a2975162/
+      icon: linkedin

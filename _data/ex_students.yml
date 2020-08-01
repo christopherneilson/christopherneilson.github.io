@@ -28,3 +28,17 @@
     - link: www.linkedin.com/in/andresbarriosf
       icon: linkedin
     desc:  Labor and Education Economics
+
+  - firstname: Claudia
+    lastname: Allende
+    current: false
+    avatar: images/team/Claudia3.jpg
+    position: Assistant Professor, Stanford University (GSB)
+    socials:
+      - link: http://twitter.com/Claudiallende
+        icon: twitter
+      - link: https://github.com/claudiaallendesc
+        icon: github
+      - link: https://www.claudiaallendesc.com/
+        icon: link
+    desc: JM 2020, IO and Education in developing countries with a focus on Latin America.

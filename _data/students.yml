@@ -1,21 +1,9 @@
 
-  - firstname: Claudia
-    lastname: Allende
-    current: false
-    avatar: images/team/Claudia3.jpg
-    position: Job Market Candidate, IO and Education
-    socials:
-      - link: http://twitter.com/Claudiallende
-        icon: twitter
-      - link: https://github.com/claudiaallendesc
-        icon: github
-      - link: https://www.claudiaallendesc.com/
-        icon: link
-    desc: Job Market Candidate doing IO and Education in developing countries with a focus on Latin America.
+
 
 - firstname: Patrick
   lastname: Agte
-  current: false
+  current: true
   avatar: images/team/patrick.png
   position: PhD student, Princeton University
   socials:
@@ -29,7 +17,7 @@
 
   - firstname: Sebastian
     lastname: Otero
-    current: false
+    current: true
     avatar: images/team/sotero_github.jpg
     position: PhD student, Stanford University
     socials:
