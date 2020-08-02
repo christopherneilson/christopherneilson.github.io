@@ -175,12 +175,12 @@
       icon: link
   desc:
 
-- firstname: Julio
-  lastname: Rodriguez
-  current: false
-  avatar: images/team/juliorodriguez.png
-  position: PhD student, Columbia University
-  desc:
+  - firstname: Julio
+    lastname: Rodriguez
+    current: false
+    avatar: images/team/juliorodriguez.png
+    position: PhD student, Columbia University
+    desc:
 
 
   - firstname: Nestor
