@@ -10,7 +10,7 @@
         icon: link
       - link: https://twitter.com/PatrickAgte
         icon: twitter
-    desc: Health and Education Economics in developing countries.
+    desc: Health and Education Economics in developing countries
 
   - firstname: Sebastian
     lastname: Otero
@@ -24,7 +24,7 @@
         icon: github
       - link: https://sebotero.github.io/
         icon: link
-    desc:  Education Economics and Development.
+    desc:  Education Economics and Development
 
   - firstname: Alvaro
     lastname: Carril
@@ -53,7 +53,9 @@
     current: true
     avatar: images/team/tomas_larrauco.jpeg
     position: 5th year PhD student, UPenn
-    desc: Market Design, Education Economics
+    desc: Market Design, Education and IO
     socials:
       - link: https://tlarroucau.github.io/
+        icon: link
+      - link: https://github.com/tlarroucau
         icon: github
