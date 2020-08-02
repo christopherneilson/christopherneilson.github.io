@@ -2,7 +2,7 @@
     lastname: Agte
     current: true
     avatar: images/team/patrick.jpg
-    position: 4th year PhD student, Princeton University
+    position: 4th year, Princeton University
     socials:
       - link: https://www.linkedin.com/in/patrick-agte-69b033104/
         icon: linkedin
@@ -16,7 +16,7 @@
     lastname: Otero
     current: true
     avatar: images/team/sotero_github.jpg
-    position: 5th year PhD student, Stanford University
+    position: 5th year, Stanford University
     socials:
       - link: http://twitter.com/seb_otero
         icon: twitter
@@ -28,7 +28,7 @@
 
   - firstname: Alvaro
     lastname: Carril
-    position: PhD student, Princeton University
+    position: 3rd year, Princeton University
     current: true
     avatar: images/team/alvaro.jpg
     desc: 3rd year Labor, Education and IO
@@ -40,7 +40,7 @@
 
   - firstname: Karl
     lastname: Schulz
-    position: 3rd year PhD student, Princeton University
+    position: 3rd year, Princeton University
     current: true
     avatar: images/team/gsSchulzeKarl.jpeg
     desc: 3rd year Labor, Education and IO
@@ -52,7 +52,7 @@
     lastname: Larrauco
     current: true
     avatar: images/team/tomas_larrauco.jpeg
-    position: 5th year PhD student, UPenn
+    position: 5th year, UPenn
     desc: Market Design, Education and IO
     socials:
       - link: https://tlarroucau.github.io/
