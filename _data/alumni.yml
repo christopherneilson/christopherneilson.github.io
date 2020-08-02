@@ -182,6 +182,15 @@
   position: PhD student, Columbia University
   desc:
 
+
+  - firstname: Nestor
+    lastname: Vinales
+    current: true
+    avatar: images/team/nestor.jpeg
+    position: Data Scientist at DataCenter, Santo Domingo
+    socials:
+    desc:
+
 # - firstname: Surya
 #   lastname: Ierokomos
 #   current: false

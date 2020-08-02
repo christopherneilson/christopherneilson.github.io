@@ -63,14 +63,6 @@
         icon: github
     desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
 
-  - firstname: Nestor
-    lastname: Vinales
-    current: true
-    avatar: images/team/nestor.jpeg
-    position: Research Associate, DataCenter, Santo Domingo
-    socials:
-    desc: Nestor loves learning new data science skills.
-
   # - firstname: Heidi
   #   lastname: Taveras
   #   current: true
@@ -110,7 +102,7 @@
     socials:
       - link: https://www.linkedin.com/in/iriveros94profile/
         icon: linkedin
-        
+
   - firstname: Cecilia
     lastname: Moreira
     current: true
