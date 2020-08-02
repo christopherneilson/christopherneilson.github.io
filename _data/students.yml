@@ -5,7 +5,7 @@
     lastname: Agte
     current: false
     avatar: images/team/patrick.jpg
-    position: PhD student, Princeton University
+    position: 4th year PhD student, Princeton University
     socials:
       - link: https://www.linkedin.com/in/patrick-agte-69b033104/
         icon: linkedin
@@ -13,13 +13,13 @@
         icon: link
       - link: https://twitter.com/PatrickAgte
         icon: twitter
-    desc: 4th year graduate student at Princeton University. His research focuses on health and education in developing countries.
+    desc: Health and Education Economics in developing countries.
 
   - firstname: Sebastian
     lastname: Otero
     current: false
     avatar: images/team/sotero_github.jpg
-    position: PhD student, Stanford University
+    position: 5th year PhD student, Stanford University
     socials:
       - link: http://twitter.com/seb_otero
         icon: twitter
@@ -27,26 +27,26 @@
         icon: github
       - link: https://sebotero.github.io/
         icon: link
-    desc: 5th year graduate student in economics at Stanford University. His research focuses on firms and education policy in developing economies, with particular emphasis on Brazil and the Dominican Republic. Before graduate school, he worked for two years at J-PAL LAC and holds a BA and MA in Economics from the Pontificia Universidad Catolica de Chile.
+    desc:  Education Economics and Development.
 
 - firstname: Alvaro
   lastname: Carril
   position: PhD student, Princeton University
   current: false
   avatar: images/team/alvaro.jpg
-  desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
+  desc: 3rd year Labor, Education and IO
   socials:
     - link: https://github.com/acarril
       icon: github
     - link: http://acarril.github.io
       icon: link
-  
-  # - firstname: Thomas
-  #   lastname: Krussig
-  #   current: true
-  #   avatar: images/team/thomasKrussig.jpg
-  #   position: PhD student,UC Berkeley; COO ConsiliumBots
-  #   desc:
-  #   socials:
-  #     - link: https://www.linkedin.com/in/iriveros94profile/
-  #       icon: linkedin
+
+- firstname: Karl
+  lastname: Schulz
+  position: 3rd year PhD student, Princeton University
+  current: false
+  avatar: images/team/gsSchulzeKarl.jpeg
+  desc: 3rd year Labor, Education and IO
+  socials:
+    - link: https://github.com/kschul7
+      icon: github

@@ -101,7 +101,16 @@
       - link: https://github.com/isajacas
         icon: github
 
-
+  - firstname: Ignacio
+    lastname: Riveros
+    current: true
+    avatar: images/team/ignacio.jpeg
+    position: Data Scientist, ConsiliumBots
+    desc:
+    socials:
+      - link: https://www.linkedin.com/in/iriveros94profile/
+        icon: linkedin
+        
   - firstname: Cecilia
     lastname: Moreira
     current: true
@@ -112,12 +121,14 @@
       - link: https://www.linkedin.com/in/cecilia-moreira-a2975162/
         icon: linkedin
 
-  - firstname: Ignacio
-    lastname: Riveros
-    current: true
-    avatar: images/team/ignacio.jpeg
-    position: Data Scientist, ConsiliumBots
-    desc:
-    socials:
-      - link: https://www.linkedin.com/in/iriveros94profile/
-        icon: linkedin
+
+
+  # - firstname: Thomas
+  #   lastname: Krussig
+  #   current: true
+  #   avatar: images/team/thomasKrussig.jpg
+  #   position: PhD student,UC Berkeley
+  #   desc: 5th year, Market Design, Education Economics
+  #   socials:
+  #     - link: https://www.linkedin.com/in/iriveros94profile/
+  #       icon: linkedin
