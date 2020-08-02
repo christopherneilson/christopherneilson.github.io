@@ -1,9 +1,6 @@
-
-
-
   - firstname: Patrick
     lastname: Agte
-    current: false
+    current: true
     avatar: images/team/patrick.jpg
     position: 4th year PhD student, Princeton University
     socials:
@@ -17,7 +14,7 @@
 
   - firstname: Sebastian
     lastname: Otero
-    current: false
+    current: true
     avatar: images/team/sotero_github.jpg
     position: 5th year PhD student, Stanford University
     socials:
@@ -29,24 +26,34 @@
         icon: link
     desc:  Education Economics and Development.
 
-- firstname: Alvaro
-  lastname: Carril
-  position: PhD student, Princeton University
-  current: false
-  avatar: images/team/alvaro.jpg
-  desc: 3rd year Labor, Education and IO
-  socials:
-    - link: https://github.com/acarril
-      icon: github
-    - link: http://acarril.github.io
-      icon: link
+  - firstname: Alvaro
+    lastname: Carril
+    position: PhD student, Princeton University
+    current: true
+    avatar: images/team/alvaro.jpg
+    desc: 3rd year Labor, Education and IO
+    socials:
+      - link: https://github.com/acarril
+        icon: github
+      - link: http://acarril.github.io
+        icon: link
 
-- firstname: Karl
-  lastname: Schulz
-  position: 3rd year PhD student, Princeton University
-  current: false
-  avatar: images/team/gsSchulzeKarl.jpeg
-  desc: 3rd year Labor, Education and IO
-  socials:
-    - link: https://github.com/kschul7
-      icon: github
+  - firstname: Karl
+    lastname: Schulz
+    position: 3rd year PhD student, Princeton University
+    current: true
+    avatar: images/team/gsSchulzeKarl.jpeg
+    desc: 3rd year Labor, Education and IO
+    socials:
+      - link: https://github.com/kschul7
+        icon: github
+
+  - firstname: Tomas
+    lastname: Larrauco
+    current: true
+    avatar: images/team/tomas_larrauco.jpeg
+    position: 5th year PhD student, UPenn
+    desc: Market Design, Education Economics
+    socials:
+      - link: https://tlarroucau.github.io/
+        icon: github
