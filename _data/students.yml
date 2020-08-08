@@ -42,11 +42,13 @@
     lastname: Schulz
     position: 3rd year, Princeton University
     current: true
-    avatar: images/team/gsSchulzeKarl.jpg
+    avatar: images/team/headshot_schulze.jpg
     desc: 3rd year Labor, Education and IO
     socials:
       - link: https://github.com/kschul7
         icon: github
+      - link: https://sites.google.com/view/karl-schulze/home?authuser=0
+        icon: link
 
   - firstname: Tomas
     lastname: Larroucau
