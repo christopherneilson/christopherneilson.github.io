@@ -1,6 +1,6 @@
 ---
-hidden: False
-title: 'Search Costs, Biased Beliefs and School Choice under Endogenous Consideration Sets'
+hidden: True
+title: 'Biased '
 coauthors: 'Felipe Arteaga, Adam Kapor and Seth Zimmerman'
 pub_status: wip
 pub_date: 2017
