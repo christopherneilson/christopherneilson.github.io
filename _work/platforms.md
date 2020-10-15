@@ -24,7 +24,7 @@ These externalities are driven by students who receive and decline on-platform o
 Our results indicate that expanding the scope of a higher education platform can have real impacts on welfare and human capital.
 Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity. '
 ---
-
+<!--
 ### Figures From the Paper
 
 <div class='full'>
@@ -74,4 +74,4 @@ Importantly, the effects are larger for students from lower SES backgrounds, sug
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
