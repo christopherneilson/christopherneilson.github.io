@@ -26,8 +26,6 @@ Importantly, the effects are larger for students from lower SES backgrounds, sug
 ---
 
 ### Figures From the Paper
-<!--
-
 
 <div class='full'>
   <div class='row'>
@@ -76,4 +74,4 @@ Importantly, the effects are larger for students from lower SES backgrounds, sug
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
