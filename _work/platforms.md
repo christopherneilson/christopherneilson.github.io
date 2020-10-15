@@ -22,12 +22,12 @@ We use the estimated model to quantify welfare impacts, decompose different mech
 We find that when more programs are available on the centralized platform, welfare increases substantially, especially for less advantaged students and for women.
 These externalities are driven by students who receive and decline on-platform offers, and are amplified by substantial frictions in waitlists.
 Our results indicate that expanding the scope of a higher education platform can have real impacts on welfare and human capital.
-Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity.'
-
-
-
+Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity. '
+---
 
 ### Figures From the Paper
+<!--
+
 
 <div class='full'>
   <div class='row'>
@@ -76,4 +76,4 @@ Importantly, the effects are larger for students from lower SES backgrounds, sug
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
