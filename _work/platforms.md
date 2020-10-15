@@ -23,7 +23,7 @@ We find that when more programs are available on the centralized platform, welfa
 These externalities are driven by students who receive and decline on-platform offers, and are amplified by substantial frictions in waitlists.
 Our results indicate that expanding the scope of a higher education platform can have real impacts on welfare and human capital.
 Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity.'
----
+
 
 
 
