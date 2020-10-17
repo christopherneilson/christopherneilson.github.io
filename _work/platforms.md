@@ -2,7 +2,7 @@
 hidden: False
 title: 'Aftermarket Frictions and the Cost of Off-Platform Options in Centralized Assignment Mechanisms'
 coauthors: 'Adam Kapor and Mohit Karnani'
-pub_status: wp
+pub_status: wp (submitted)
 pub_date: 2019
 location: Chile
 pub_where: Industrial Relations Section Working Paper Series November N635
