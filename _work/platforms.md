@@ -8,7 +8,7 @@ location: Chile
 pub_where: Industrial Relations Section Working Paper Series November N635
 desc:
 cats: public-econ education development info io market-design
-link_jour: 'documents/Platforms/platform_externalities.pdf'
+link_jour: 'https://christopherneilson.github.io/work/documents/Platforms/platform_externalities.pdf'
 image:   'images/journalThumbnails/irs_logo.png'
 article: 'documents/Platforms/platform_externalities.pdf'
 abstract: "In many settings, market designers must contend with the presence of firms who participate in the broader game surrounding a market but do not participate in the portion under the designer's control.
