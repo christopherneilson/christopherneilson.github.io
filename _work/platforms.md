@@ -11,7 +11,11 @@ cats: public-econ education development info io market-design
 link_jour: 'documents/Platforms/platform_externalities.pdf'
 image:   'images/journalThumbnails/irs_logo.png'
 article: 'documents/Platforms/platform_externalities.pdf'
-abstract: ''
+abstract: 'We study the empirical relevance of off-platform options in the context of a centralized college-major choice system.
+Using administrative data from Chile, we leverage a policy change that increased the number of on-platform slots by 40 percent.
+We show that expanding the centralized platform led students to start college sooner, dropout less and increase their graduation rates.
+We develop and estimate an empirical model to quantify welfare impacts and conduct counterfactual exercises.
+Our results indicate that expanding the scope of a higher education platform can have significant impacts on welfare, human capital and equity. '
 ---
 
 ### Figures From the Paper
