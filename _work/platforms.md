@@ -8,12 +8,12 @@ location: Chile
 pub_where: Industrial Relations Section Working Paper Series November N635
 desc:
 cats: public-econ education development info io market-design
-link_jour:
+link_jour: 'documents/Platforms/platform_externalities.pdf'
 image:   'images/journalThumbnails/irs_logo.png'
 article: 'documents/Platforms/platform_externalities.pdf'
 abstract: ' '
 ---
-<!--
+
 ### Figures From the Paper
 
 <div class='full'>
@@ -63,4 +63,4 @@ abstract: ' '
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
