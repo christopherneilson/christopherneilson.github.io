@@ -16,6 +16,7 @@ Using administrative data from Chile, we leverage a policy change that increased
 We show that expanding the centralized platform led students to start college sooner, dropout less and increase their graduation rates.
 We develop and estimate an empirical model to quantify welfare impacts and conduct counterfactual exercises.
 Our results indicate that expanding the scope of a higher education platform can have significant impacts on welfare, human capital and equity. '
+order: 7
 ---
 
 ### Figures From the Paper
