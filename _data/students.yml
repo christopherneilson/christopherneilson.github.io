@@ -61,3 +61,17 @@
         icon: link
       - link: https://github.com/tlarroucau
         icon: github
+
+  - firstname: Carolyn
+    lastname: Tsao
+    current: true
+    avatar: images/team/caro_small.png
+    position: 5th year, UPenn
+    desc: Market Design, Education and IO
+    socials:
+      - link: https://carolyntsao.com
+        icon: link
+      - link: https://github.com/carolyntsao
+        icon: github
+      - link: https://twitter.com/tsaocaro
+        icon: twitter
