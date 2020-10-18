@@ -1,6 +1,6 @@
 ---
 hidden: True
-title: 'Biased '
+title: 'P Beliefs '
 coauthors: 'Felipe Arteaga, Adam Kapor and Seth Zimmerman'
 pub_status: wip
 pub_date: 2017

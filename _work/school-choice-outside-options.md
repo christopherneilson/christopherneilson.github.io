@@ -2,7 +2,7 @@
 hidden: False
 title: 'Centralized School Choice with Unequal Outside Options'
 coauthors: 'Mohammad Akbarpour, Adam Kapor, Winnie van Dijk, Seth Zimmerman'
-pub_status: wp (submitted)
+pub_status: wp
 pub_date: 2020
 location: USA
 desc:
