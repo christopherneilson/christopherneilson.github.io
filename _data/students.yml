@@ -1,34 +1,8 @@
-  - firstname: Tomas
-    lastname: Larroucau
-    current: true
-    avatar: images/team/tomas_larrauco.jpeg
-    position: 5th year, UPenn Economics PhD
-    desc: Market Design and Education
-    socials:
-      - link: https://tlarroucau.github.io/
-        icon: link
-      - link: https://github.com/tlarroucau
-        icon: github
-
-  - firstname: Sebastian
-    lastname: Otero
-    current: true
-    avatar: images/team/sotero_github.jpg
-    position: 5th year, Stanford Economics PhD
-    socials:
-      - link: http://twitter.com/seb_otero
-        icon: twitter
-      - link: https://github.com/sebotero
-        icon: github
-      - link: https://sebotero.github.io/
-        icon: link
-    desc:  Education and Development
-
   - firstname: Patrick
     lastname: Agte
     current: true
     avatar: images/team/patrick.jpg
-    position: 4th year, Princeton Economics PhD
+    position: 4th year, Princeton University
     socials:
       - link: https://www.linkedin.com/in/patrick-agte-69b033104/
         icon: linkedin
@@ -36,11 +10,25 @@
         icon: link
       - link: https://twitter.com/PatrickAgte
         icon: twitter
-    desc: Development, Health and Education
+    desc: Health and Education Economics in developing countries
+
+  - firstname: Sebastian
+    lastname: Otero
+    current: true
+    avatar: images/team/sotero_github.jpg
+    position: 5th year, Stanford University
+    socials:
+      - link: http://twitter.com/seb_otero
+        icon: twitter
+      - link: https://github.com/sebotero
+        icon: github
+      - link: https://sebotero.github.io/
+        icon: link
+    desc:  Education Economics and Development
 
   - firstname: Alvaro
     lastname: Carril
-    position: 3rd year, Princeton Economics PhD
+    position: 3rd year, Princeton University
     current: true
     avatar: images/team/alvaro.jpg
     desc: 3rd year Labor, Education and IO
@@ -52,7 +40,7 @@
 
   - firstname: Karl
     lastname: Schulze
-    position: 3rd year, Princeton Economics PhD
+    position: 3rd year, Princeton University
     current: true
     avatar: images/team/headshot_schulze.jpg
     desc: 3rd year Labor, Education and IO
@@ -61,6 +49,18 @@
         icon: github
       - link: https://sites.google.com/view/karl-schulze/home?authuser=0
         icon: link
+
+  - firstname: Tomas
+    lastname: Larroucau
+    current: true
+    avatar: images/team/tomas_larrauco.jpeg
+    position: 5th year, UPenn
+    desc: Market Design, Education and IO
+    socials:
+      - link: https://tlarroucau.github.io/
+        icon: link
+      - link: https://github.com/tlarroucau
+        icon: github
 
   - firstname: Carolyn
     lastname: Tsao
