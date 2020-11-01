@@ -10,7 +10,20 @@ cats: education
 link_jour:
 image:   'images/journalThumbnails/qje_RR.png'
 link_pdf: 'documents/SiblingSpillovers/Draft_2020Oct_SiblingSpillovers.pdf'
-abstract: "While it is a widely held belief that family and social networks can influence important life decisions, identifying causal effects is notoriously difficult. This paper presents causal evidence from three countries at different stages of economic development that the educational trajectories of older siblings can significantly influence the college and major choice of younger siblings. We exploit institutional features of centralized college assignment systems in Chile, Croatia, and Sweden to generate quasi-random variation in the educational paths taken by older siblings. Using a regression discontinuity design, we show that younger siblings in each country are significantly more likely to apply and enroll in the same college and major that their older sibling was assigned to. These results persist for siblings far apart in age who are unlikely to attend higher education at the same time. We propose three broad classes of mechanisms that can explain why the trajectory of an older sibling can causally affect the college and major choice of a younger sibling. We find that spillovers are stronger when older siblings enroll and are successful in majors that on average have higher scoring peers, lower dropout rates and higher earnings from graduates. The evidence presented shows that the decisions, and even random luck, of your close family members and peer network, can have significant effects on important life decisions such as the choice of specialization in higher education. The results also suggest that college access programs such as affirmative action, may have important spillover effects through family and social networks."
+abstract: "Family members and social connections are widely believed to influence important life decisions,
+but identifying their causal effects is notoriously difficult. We present causal evidence
+from Chile, Croatia, Sweden, and the United States that older siblings higher education trajectories
+significantly influence the college and major choices of their younger siblings. Exploiting
+admission cutoffs that generate quasi-random variation in older siblings higher education options,
+we show that younger siblings tend to follow their older siblings paths. Older siblings
+are followed regardless of whether their target and counterfactual options have large, small or
+even negative differences in expected earnings, peer quality and retention rates. These spillover
+effects disappear, however, if the older sibling drops out of college, suggesting that older siblings
+experiences in college matter. Despite the many differences across these four countries, in
+each case we find evidence that siblings influence important human capital investment decisions.
+That siblings influence important human capital investment decisions across such varied contexts
+suggests that our findings are not an artifact of particular institutional detail but instead
+a more generalizable description of human behavior."
 ---
 
 ### Current Draft
