@@ -26,11 +26,13 @@ suggests that our findings are not an artifact of particular institutional detai
 a more generalizable description of human behavior."
 ---
 
-### Current Draft
+### Current Working Paper (under review at QJE)
 
-[Most Current Working Paper](../work/documents/SiblingSpillovers/Draft_2020Oct_SiblingSpillovers.pdf)
+[Most Current Working Paper - October 2020](../work/documents/SiblingSpillovers/Draft_2020Oct_SiblingSpillovers.pdf)
 
 [Most Current Online Appendix](../work/documents/SiblingSpillovers/online_appendix_Oct2020.pdf)
+
+### Older Working Papers
 
 [Prior Version of Working Paper - May 2020](../work/documents/SiblingSpillovers/Draft_2020May_SiblingSpillovers.pdf)
 
