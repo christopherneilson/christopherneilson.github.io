@@ -194,6 +194,7 @@
 - firstname: Surya
   lastname: Ierokomos
   current: false
+  year: 2017
   avatar: images/team/surya.jpg
   position: Marketing PhD student, Stanford University
   socials:

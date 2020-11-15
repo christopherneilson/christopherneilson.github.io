@@ -34,7 +34,7 @@
     current: true
     order: 5
     avatar: images/team/alvaro.jpg
-    desc: 3rd year Labor, Education and IO
+    desc: Education Economics and IO
     socials:
       - link: https://github.com/acarril
         icon: github
@@ -47,7 +47,7 @@
     current: true
     order: 6
     avatar: images/team/headshot_schulze.jpg
-    desc: 3rd year Labor, Education and IO
+    desc: Education Economics and IO
     socials:
       - link: https://github.com/kschul7
         icon: github
@@ -73,7 +73,7 @@
     order: 4
     avatar: images/team/caro_small.png
     position: 3th year, Princeton Economics PhD
-    desc: Labor and Education
+    desc: Labor Economics and Education Economics
     socials:
       - link: https://carolyntsao.com
         icon: link
@@ -86,7 +86,7 @@
     lastname: Arteaga
     order: 7
     current: false
-    position: PhD student, UC Berkeley
+    position: 2nd year, UC Berkeley Economics PhD
     avatar: images/team/felipe-arteaga.jpg
     desc: Empirical Market Design and Education Economics
     socials:
