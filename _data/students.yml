@@ -96,6 +96,7 @@
   - firstname: Thomas
     lastname: Krussig
     current: true
+    order: 8
     avatar: images/team/thomasKrussig.jpg
     position: 5th year PhD student, UC Berkeley
     desc: Empirical Market Design and Education Economics
