@@ -122,7 +122,7 @@ section_id: about
     </div>
   </div>
   <div class='row'>
-    {% assign sorted_team = site.data.ex_students | sort: 'lastname' %}
+    {% assign sorted_team = site.data.ex_students | sort: 'order' %}
     {% for member in sorted_team %}
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember'>

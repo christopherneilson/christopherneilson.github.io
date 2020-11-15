@@ -3,6 +3,7 @@
   - firstname: Federico
     lastname: Huneeus
     current: false
+    order: 2
     avatar: images/team/fedeOld.jpg
     position: JM 2019, Post-Doc Yale University
     socials:
@@ -18,6 +19,7 @@
   - firstname: Andres
     lastname: Barrios
     current: false
+    order: 3
     avatar: images/team/andresB.png
     position: JM 2019, Senior Researcher at VATT in Helsinki, Finland.
     socials:
@@ -32,6 +34,7 @@
   - firstname: Claudia
     lastname: Allende
     current: false
+    order: 1
     avatar: images/team/Claudia3.jpg
     position: JM 2020, Assistant Professor, Stanford University (GSB)
     socials:
