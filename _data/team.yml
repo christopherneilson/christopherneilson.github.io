@@ -114,12 +114,12 @@
         icon: linkedin
 
   #
-  # - firstname: Thomas
-  #   lastname: Krussig
-  #   current: true
-  #   avatar: images/team/thomasKrussig.jpg
-  #   position: PhD student,UC Berkeley
-  #   desc: 5th year, Market Design, Education Economics
-  #   socials:
-  #     - link: https://www.linkedin.com/in/iriveros94profile/
-  #       icon: linkedin
+  - firstname: Thomas
+    lastname: Krussig
+    current: true
+    avatar: images/team/thomasKrussig.jpg
+    position: PhD student,UC Berkeley
+    desc: 5th year, Market Design, Education Economics
+    socials:
+      - link: https://www.linkedin.com/in/iriveros94profile/
+        icon: linkedin
