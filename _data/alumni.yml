@@ -108,10 +108,10 @@
   avatar: images/team/gonzalo_white.jpeg
 
 
-- firstname: Maria
+- firstname: Maria (Pumi)
   lastname: Fernandez
   current: false
-  avatar: images/team/pumi.jpeg
+  avatar: images/team/pumi.png
   position: PhD student, Harvard University
   socials:
     - link: http://twitter.com/lapumi
@@ -191,12 +191,12 @@
     socials:
     desc:
 
-# - firstname: Surya
-#   lastname: Ierokomos
-#   current: false
-#   avatar: images/team/surya.jpg
-#   position: PhD student, Stanford University
-#   socials:
-#         - link: https://www.linkedin.com/in/surya-ierokomos-00413a9b/
-#           icon: link
-#   desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.
+- firstname: Surya
+  lastname: Ierokomos
+  current: false
+  avatar: images/team/surya.jpg
+  position: Marketing PhD student, Stanford University
+  socials:
+        - link: https://www.linkedin.com/in/surya-ierokomos-00413a9b/
+          icon: link
+  desc: Surya enjoys working with non-standard data sets and data driven methodologies to try to tackle problems in trade, development, and education economics.

@@ -1,6 +1,7 @@
   - firstname: Patrick
     lastname: Agte
     current: true
+    order: 3
     avatar: images/team/patrick.jpg
     position: 4th year, Princeton Economics PhD
     socials:
@@ -15,6 +16,7 @@
   - firstname: Sebastian
     lastname: Otero
     current: true
+    order: 2
     avatar: images/team/sotero_github.jpg
     position: 5th year, Stanford Economics PhD
     socials:
@@ -30,6 +32,7 @@
     lastname: Carril
     position: 3rd year, Princeton Economics PhD
     current: true
+    order: 5
     avatar: images/team/alvaro.jpg
     desc: 3rd year Labor, Education and IO
     socials:
@@ -42,6 +45,7 @@
     lastname: Schulze
     position: 3rd year, Princeton Economics PhD
     current: true
+    order: 6
     avatar: images/team/headshot_schulze.jpg
     desc: 3rd year Labor, Education and IO
     socials:
@@ -53,6 +57,7 @@
   - firstname: Tomas
     lastname: Larroucau
     current: true
+    order: 1
     avatar: images/team/tomas_larrauco.jpeg
     position: 5th year, UPenn Economics PhD
     desc: Market Design, Education and IO
@@ -65,6 +70,7 @@
   - firstname: Carolyn
     lastname: Tsao
     current: true
+    order: 4
     avatar: images/team/caro_small.png
     position: 3th year, Princeton Economics PhD
     desc: Labor and Education
