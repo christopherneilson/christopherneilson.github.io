@@ -93,13 +93,13 @@
       - link: https://vimeo.com/fharteaga/videos
         icon: link
 
-  - firstname: Thomas
-    lastname: Krussig
-    current: true
-    order: 8
-    avatar: images/team/thomasKrussig.jpg
-    position: 5th year PhD student, UC Berkeley
-    desc: Empirical Market Design and Education Economics
-    socials:
-      - link: https://www.linkedin.com/in/iriveros94profile/
-        icon: linkedin
+  # - firstname: Thomas
+  #   lastname: Krussig
+  #   current: true
+  #   order: 8
+  #   avatar: images/team/thomasKrussig.jpg
+  #   position: 5th year PhD student, UC Berkeley
+  #   desc: Empirical Market Design and Education Economics
+  #   socials:
+  #     - link: https://www.linkedin.com/in/iriveros94profile/
+  #       icon: linkedin
