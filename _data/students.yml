@@ -58,9 +58,9 @@
     lastname: Larroucau
     current: true
     order: 1
-    avatar: images/team/tomas_larrauco.jpeg
+    avatar: images/team/tomas_larrauco_JMP.jpeg
     position: 5th year, UPenn Economics PhD
-    desc: Market Design, Education and IO
+    desc: Empirical Market Design, Education Economics
     socials:
       - link: https://tlarroucau.github.io/
         icon: link
@@ -81,3 +81,14 @@
         icon: github
       - link: https://twitter.com/tsaocaro
         icon: twitter
+
+  - firstname: firstname: Felipe
+    lastname: Arteaga
+    order: 7
+    current: false
+    position: PhD student, UC Berkeley
+    avatar: images/team/felipe-arteaga.jpg
+    desc: Empirical Market Design and Education Economics
+    socials:
+      - link: https://vimeo.com/fharteaga/videos
+        icon: link
