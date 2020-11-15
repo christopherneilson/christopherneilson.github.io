@@ -5,7 +5,9 @@
     current: false
     order: 2
     avatar: images/team/fedeOld.jpg
-    position: JM 2019, Post-Doc Yale University
+    placement: Post-Doc Yale University
+    position: Banco Central de Chile
+    cohort: JM 2019
     socials:
       - link: https://www.linkedin.com/in/federico-huneeus-95018a4/
         icon: linkedin
@@ -21,7 +23,9 @@
     current: false
     order: 3
     avatar: images/team/andresB.png
-    position: JM 2019, Senior Researcher at VATT in Helsinki, Finland.
+    placement: Senior Researcher at VATT in Helsinki, Finland
+    position: Senior Researcher at VATT in Helsinki, Finland
+    cohort: JM 2019
     socials:
     - link: http://twitter.com/andres_bafer
       icon: twitter
@@ -35,8 +39,10 @@
     lastname: Allende
     current: false
     order: 1
+    cohort: JM 2020
     avatar: images/team/Claudia3.jpg
-    position: JM 2020, Assistant Professor, Stanford University (GSB)
+    placement: Post Doc, University of Chicago Becker-Friedman Institute
+    position: Assistant Professor, Stanford University (GSB)
     socials:
       - link: http://twitter.com/Claudiallende
         icon: twitter
