@@ -19,7 +19,9 @@ abstract: 'I develop an empirical model of demand and supply with imperfect comp
 
 [Most Current Working Paper - March 2020](../work/documents/Neilson_JMP/Neilson_SEPVouchers2020.pdf)
 
-[Most Current Online Appendix](../work/documents/Neilson_JMP/OnlineAppendix_reducido.pdf)
+[Most Current Online Appendix - March 2020](../work/documents/Neilson_JMP/OnlineAppendix_reducido.pdf)
+
+### Supplements to Online Appendix
 
 [Supplement on Defining Schooling Markets](../work/documents/Neilson_JMP/Appendix_ChileSchoolingMarkets.pdf)
 
