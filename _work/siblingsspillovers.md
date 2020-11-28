@@ -13,7 +13,7 @@ link_pdf: 'documents/SiblingSpillovers/Draft_2020Oct_SiblingSpillovers.pdf'
 abstract: "Family members and social connections are widely believed to influence important life decisions, but identifying their causal effects is notoriously difficult. Using admissions thresholds that directly affect older but not younger siblings college options, we present evidence from Chile, Croatia, Sweden and the United States that the education trajectories of older siblings significantly influence their younger siblings college choices. On the extensive margin, older siblings enrollment in their target college increases younger siblings probability of enrolling in a 4-year college at all, especially for families with low predicted probabilities of enrollment. On the intensive margin, an older siblings choice of college or major increases the probability that a younger sibling applies to and enrolls in that same college or college-major. Follow to big/small. Follow to positive and negative. Spillovers are stronger when older siblings enroll and succeed in higher education.  The importance of such personally salient information may partly explain persistent differences in college-going rates by geography, income, race and gender."
 ---
 
-### Current Working Paper (under review at QJE)
+### Current Working Paper (conditionally accepted at QJE)
 
 [Most Current Working Paper - October 2020](../work/documents/SiblingSpillovers/Draft_2020Oct_SiblingSpillovers.pdf)
 
