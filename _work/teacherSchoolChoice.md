@@ -1,6 +1,6 @@
 ---
 hidden: False
-title: 'Can Increasing Teacher Pay Help Dismantle Structural Inequality? Evidence from Centralized Teacher School Choice in Peru'
+title: 'Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru'
 coauthors: 'Camila Alva, Matteo Bobba, Tim Ederer, Gianmarco Leon and Marco Nieddu'
 pub_status: wip
 pub_date: 2020
