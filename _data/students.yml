@@ -51,7 +51,7 @@
     socials:
       - link: https://github.com/kschul7
         icon: github
-      - link: https://sites.google.com/view/karl-schulze/home?authuser=0
+      - link: https://sites.google.com/view/karl-schulze/
         icon: link
 
   - firstname: Tomas
@@ -80,6 +80,20 @@
       - link: https://github.com/carolyntsao
         icon: github
       - link: https://twitter.com/tsaocaro
+        icon: twitter
+
+
+  - firstname: Antonia
+    lastname: Paredes
+    current: true
+    order: 8
+    avatar: images/team/antonia.jpeg
+    position: 4th year, Yale Economics PhD
+    desc: Labor Economics
+    socials:
+      - link: https://sites.google.com/yale.edu/antoniaparedes
+        icon: link
+      - link: https://twitter.com/antoparedes
         icon: twitter
 
   - firstname: Felipe
