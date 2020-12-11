@@ -16,7 +16,7 @@ We then estimate a model of teacher school choice with preferences over school a
 Counterfactual policy experiments allow us to benchmark the cost-effectiveness of the current wage-bonus policy against alternative policy levers aimed at reducing structural inequalities in the access to high-quality teachers. '
 ---
 
-[Working Paper](../work/documents/TeacherSchoolChoice/Draft_2020October_TeacherSchoolChoice.pdf)
+[Working Paper](../work/documents/TeacherSchoolChoice/Draft_2020Dec_TeacherSchoolChoice.pdf)
 
 
 ### Figures From the Paper
