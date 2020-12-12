@@ -5,7 +5,7 @@ coauthors: 'Adam Kapor and Mohit Karnani'
 pub_status: wp
 pub_date: 2019
 location: Chile
-pub_where: Industrial Relations Section Working Paper Series (December n635)
+pub_where: Industrial Relations Section Working Paper Series (December 635)
 desc:
 cats: public-econ education development info io market-design
 link_jour: 'https://christopherneilson.github.io/work/documents/Platforms/platform_externalities.pdf'
@@ -21,7 +21,7 @@ We estimate the model using students ranked-ordered applications, on- and off-pl
 These externalities are driven by students who receive and decline on-platform offers, and are amplified by substantial frictions in waitlists.
 Our results indicate that expanding the scope of a higher education platform can have real impacts on welfare and human capital.
 Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity. "
-order: 7
+order: 6
 ---
 
 ### Figures From the Paper
