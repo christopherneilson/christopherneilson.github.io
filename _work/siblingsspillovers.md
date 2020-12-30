@@ -17,6 +17,7 @@ Older siblings are followed regardless of whether their target and counterfactua
 Spillover effects disappear, however, if the older sibling drops out of college, suggesting that older siblings college experiences matter.
 That siblings influence important human capital investment decisions across such varied contexts suggests that our findings are not an artifact of particular institutional detail but instead a more generalizable description of human behavior.
 Causal links between the postsecondary paths of close peers may partly explain persistent college enrollment inequalities between social groups and suggests that interventions to improve college access may have multiplier effects."
+order: 2
 ---
 
 ### Current Working Paper (forthcoming at QJE)
