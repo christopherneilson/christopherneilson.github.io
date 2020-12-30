@@ -4,8 +4,8 @@ title: 'Chile`s Fiscal Rule as Social Insurance'
 coauthors: 'Eduardo Engel and Rodrigo Valdes'
 pub_status: published
 pub_date: 2013
-pub_where: Fiscal Policy and Macroeconomic Performance
-desc: book edited by Luis Felipe Cespedes and Jordi Gali
+pub_where: in Cespedes, L., F. and J. Gali (eds.), Fiscal Policy and Macroeconomic Performance  (2013)
+desc:
 cats: macro development
 link_jour: 'https://www.bcentral.cl/contenido/-/detalle/volumen-17-fiscal-policy-and-macroeconomic-performance-4'
 image:   'images/journalThumbnails/central_bank_book_2013.jpg'
