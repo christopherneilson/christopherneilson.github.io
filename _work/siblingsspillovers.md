@@ -2,13 +2,13 @@
 hidden: False
 title: 'O Brother, Where Start Thou? Sibling Spillovers on College and Major Choice in Four Countries'
 coauthors: 'A. Altmejd, A. Barrios Fernandez, M. Drlje, J. Goodman, M. Hurwitz, D. Kovac, C. Mulhern, J Smith'
-pub_status: rr
-pub_date: 2019
-pub_where: Quarterly Journal of Economics (conditionally accepted)
+pub_status: published
+pub_date: 2020
+pub_where: Quarterly Journal of Economics (forthcoming)
 desc:
 cats: education
 link_jour:
-image:   'images/journalThumbnails/qje_RR.png'
+image:   'images/journalThumbnails/qje_portada.png'
 link_pdf: 'documents/SiblingSpillovers/Draft_2020Dec_SiblingSpillovers.pdf'
 abstract: "Family and social networks are widely believed to influence important life decisions but causal identification of those effects is notoriously challenging.
 Using data from Chile, Croatia, Sweden, and the United States, we study within-family spillovers in college and major choice across a variety of national contexts.
@@ -19,7 +19,7 @@ That siblings influence important human capital investment decisions across such
 Causal links between the postsecondary paths of close peers may partly explain persistent college enrollment inequalities between social groups and suggests that interventions to improve college access may have multiplier effects."
 ---
 
-### Current Working Paper (conditionally accepted at QJE)
+### Current Working Paper (forthcoming at QJE)
 
 [Most Current Working Paper - Dec 2020](../work/documents/SiblingSpillovers/Draft_2020Dec_SiblingSpillovers.pdf)
 
