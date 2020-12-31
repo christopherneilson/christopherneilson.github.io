@@ -3,7 +3,7 @@ title: 'Early Life Health Interventions and Academic Achievement'
 coauthors: 'Prashant Bharadwaj, Katrine Vellesen Løken'
 pub_status: published
 pub_date: 2013
-pub_where: 'American Economic Review (2013)'
+pub_where: 'American Economic Review vol. 103, No. 5, August 2013'
 desc: 'desc'
 cats: early-child education
 link_jour: 'https://www.aeaweb.org/articles?id=10.1257/aer.103.5.1862'
