@@ -11,5 +11,5 @@ cats: macro
 article: 'documents/Solucionario_Macroeconomia.pdf'
 link_pdf: 'documents/Solucionario_Macroeconomia.pdf'
 image:   'images/journalThumbnails/Solucionario.png'
-abstract: 'This is a solutions manual that accompanies the intermediate macroeconomics textbook "Macroeconomia: Teoria y Politica" by Jose DeGregorio available here: [El DeGregorio](http://www.degregorio.cl/pdf/Macroeconomia.pdf').'
+abstract: 'This is a solutions manual that accompanies the intermediate macroeconomics textbook "Macroeconomia: Teoria y Politica" by Jose De Gregorio.'
 ---
