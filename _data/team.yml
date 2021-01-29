@@ -49,6 +49,8 @@
         icon: github
       - link: https://www.instagram.com/mariaelenaguer/?hl=es-la
         icon: instagram
+      - link: https://mariaelenaguer.github.io
+        icon: link
     desc: Maria Elena focuses on data driven solutions to issues in development policy.
 
   - firstname: David
@@ -119,7 +121,7 @@
     current: true
     avatar: images/team/thomasKrussig.jpg
     position: COO ConsiliumBots
-    desc: 
+    desc:
     socials:
       - link: https://www.linkedin.com/in/iriveros94profile/
         icon: linkedin
