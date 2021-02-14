@@ -2,14 +2,14 @@
 hidden: False
 title: 'Aftermarket Frictions and the Cost of Off-Platform Options in Centralized Assignment Mechanisms'
 coauthors: 'Adam Kapor and Mohit Karnani'
-pub_status: wp
+pub_status: rr
 pub_date: 2019
 location: Chile
 pub_where: Industrial Relations Section Working Paper Series (December 635)
 desc:
 cats: public-econ education development info io market-design
 link_jour: 'https://christopherneilson.github.io/work/documents/Platforms/platform_externalities.pdf'
-image:   'images/journalThumbnails/irs_logo.png'
+image:   'images/journalThumbnails/JPE_RR_cover.jpeg'
 article: 'documents/Platforms/platform_externalities.pdf'
 abstract: "In many settings, market designers must contend with the presence of firms who participate in the broader game surrounding a market but do not participate in the portion under the designer's control.
 In this paper, we study the empirical relevance of the configuration of on- and off-platform options in the context of a centralized college-major choice system.
@@ -21,7 +21,7 @@ We estimate the model using students ranked-ordered applications, on- and off-pl
 These externalities are driven by students who receive and decline on-platform offers, and are amplified by substantial frictions in waitlists.
 Our results indicate that expanding the scope of a higher education platform can have real impacts on welfare and human capital.
 Importantly, the effects are larger for students from lower SES backgrounds, suggesting the design of platforms can have effects on both efficiency and equity. "
-order: 6
+order: 1
 ---
 
 ### Figures From the Paper
@@ -45,37 +45,37 @@ order: 6
           </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure2_c.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure2_d.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure2_e.png" />
           </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure2_f.png" />
-          </div>         
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure3_All.png" />
-          </div>   
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure4_All.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure5_All.png" />
-          </div>      
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure7_All.png" />
-          </div>       
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure8_All.png" />
-          </div>    
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure11_All.png" />
-          </div>      
+          </div>
           <div class='slide'>
             <img alt="" src="documents/Platforms/figure12_All.png" />
-          </div>                  
+          </div>
         </div>
       </div>
     </div>
