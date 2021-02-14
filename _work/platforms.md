@@ -5,7 +5,7 @@ coauthors: 'Adam Kapor and Mohit Karnani'
 pub_status: rr
 pub_date: 2019
 location: Chile
-pub_where: Industrial Relations Section Working Paper Series (December 635)
+pub_where:  Journal of Political Economy (R&R)
 desc:
 cats: public-econ education development info io market-design
 link_jour: 'https://christopherneilson.github.io/work/documents/Platforms/platform_externalities.pdf'
