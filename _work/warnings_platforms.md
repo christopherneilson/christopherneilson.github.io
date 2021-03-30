@@ -22,18 +22,24 @@ order: 1
 [Most Current Online Appendix](../work/documents/Warnings/OnlineAppendix.pdf)
 
 
-### Graphs From the Paper
+### Implementation in Chile
+
 <img src="../work/documents/Warnings/sequence.png"
      alt="Sequence of Interventions"
      style="float: left; margin-right: 10px;" />
+
 
 <img src="../work/documents/Warnings/rollout.png"
           alt="Rollout"
           style="float: left; margin-right: 10px;" />
 
+
+### Implementation in New Haven, CT 
 <img src="../work/documents/Warnings/NewHaven_Warning.png"
-                    alt="New Haven Feedback"
-                    style="float: left; margin-right: 10px;" />
+                              alt="New Haven Feedback"
+                              style="float: left; margin-right: 10px;" />
+
+### Graphs From the Paper
 
 <div class='full'>
   <div class='row'>
