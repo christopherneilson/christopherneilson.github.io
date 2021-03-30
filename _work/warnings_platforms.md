@@ -35,11 +35,17 @@ order: 1
 
 
 ### Implementation in New Haven, CT
+
 <img src="../work/documents/Warnings/NewHaven_Warning.png"
-                              alt="New Haven Feedback"
-                              style="float: left; margin-right: 10px;" />
+          alt="New Haven Feedback"
+          style="float: left; margin-right: 10px;" />
+
+
+
+
 
 ### Graphs From the Paper
+
 
 <div class='full'>
   <div class='row'>

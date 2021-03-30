@@ -1,7 +1,7 @@
 ---
 hidden: False
 title: 'Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru'
-coauthors: 'Camila Alva, Matteo Bobba, Tim Ederer, Gianmarco Leon and Marco Nieddu'
+coauthors: 'Matteo Bobba, Tim Ederer, Gianmarco Leon and Marco Nieddu'
 pub_status: wip
 pub_date: 2020
 location: Peru
@@ -9,14 +9,14 @@ desc:
 cats: public-econ education development market-design
 link_jour:
 image:   'images/journalThumbnails/workinprogress.jpg'
-abstract: 'This paper studies the inequality in access to teacher quality in the context of Peru and evaluates whether teacher compensation policies can contribute to reducing it.
-We evaluate the recruitment and productivity effects of a large increase in the salary of public-sector teacher jobs in rural Peru.
-Using a regression discontinuity design induced by arbitrary cutoffs in the policy we show that school vacancies offering 25 percent higher wages attract better teachers, and that students in those primary schools have better performance on standardized test scores three years after the policy change.
-We then estimate a model of teacher school choice with preferences over school attributes using data on teachers realized choices from the country-wide assignment of school vacancies.
-Counterfactual policy experiments allow us to benchmark the cost-effectiveness of the current wage-bonus policy against alternative policy levers aimed at reducing structural inequalities in the access to high-quality teachers. '
+abstract: 'This paper studies how increasing teacher compensation at hard-to-staff schools can reduce structural inequality in the access to high-quality teachers.
+We first document dramatic inequities in schooling inputs and teacher quality to which students have access in the context of a large and diverse developing country: Peru.
+We then leverage a change in teacher compensation to show causal evidence that increasing salaries at less desirable public schools attracts better quality applicants and improves subsequent student test scores.
+We finally estimate a model of teacher preferences over local community amenities, school characteristics and wages using detailed job posting and application data from the country-wide centralized teacher assignment system. The fitted model is able to replicate the main features in the data, including the sorting patterns of teachers around the policy change in teacher wages.
+Model estimates indicate that while current pay bonuses in less desirable regions are helpful, the current policy is woefully insufficient to compensate teachers for the lack of school and community amenities, especially in school vacancies that are distant to the teachers' home town or the location of their current job. Counterfactual experiments taking into account equilibrium sorting show that budget-neutral changes in the current wage schedule can achieve a remarkably more equitable distribution of teacher quality across regions.'
 ---
 
-[Working Paper](../work/documents/TeacherSchoolChoice/Draft_2020Dec_TeacherSchoolChoice.pdf)
+[Working Paper](../work/documents/TeacherSchoolChoice/BELNN_March_2021.pdf)
 
 
 ### Figures From the Paper
@@ -34,10 +34,10 @@ Counterfactual policy experiments allow us to benchmark the cost-effectiveness o
           </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure4.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure5.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure8b.png" />
           </div>
@@ -46,14 +46,14 @@ Counterfactual policy experiments allow us to benchmark the cost-effectiveness o
           </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure13.png" />
-          </div>         
+          </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure14.png" />
-          </div>  
+          </div>
           <div class='slide'>
             <img alt="" src="documents/TeacherSchoolChoice/Figure16.png" />
-          </div>                                  
-          </div>       
+          </div>
+          </div>
         </div>
       </div>
     </div>
