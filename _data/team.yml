@@ -23,8 +23,6 @@
             icon: Linkedin
     desc:
 
-
-
   - firstname: Manuel
     lastname: Martínez
     position: Tobin predoctoral fellow, Yale University
@@ -52,18 +50,18 @@
       - link: https://mariaelenaguer.github.io
         icon: link
     desc: Maria Elena focuses on data driven solutions to issues in development policy.
-
-  - firstname: David
-    lastname: Barraza
-    current: true
-    avatar: images/team/david_abel.jpg
-    position: Research Associate, J-PAL; Santo Domingo
-    socials:
-      - link: http://twitter.com/DavidBarrazaS
-        icon: twitter
-      - link: https://github.com/davidbarraza
-        icon: github
-    desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
+  #
+  # - firstname: David
+  #   lastname: Barraza
+  #   current: true
+  #   avatar: images/team/david_abel.jpg
+  #   position: Research Associate, J-PAL; Santo Domingo
+  #   socials:
+  #     - link: http://twitter.com/DavidBarrazaS
+  #       icon: twitter
+  #     - link: https://github.com/davidbarraza
+  #       icon: github
+  #   desc: David gets out of bed on Monday motivated by the prospects of crunching data and writing beautiful code.
 
   # - firstname: Heidi
   #   lastname: Taveras
@@ -94,16 +92,6 @@
         icon: linkedin
       - link: https://github.com/isajacas
         icon: github
-
-  - firstname: Ignacio
-    lastname: Riveros
-    current: true
-    avatar: images/team/ignacio.jpg
-    position: Data Scientist, ConsiliumBots
-    desc:
-    socials:
-      - link: https://www.linkedin.com/in/iriveros94profile/
-        icon: linkedin
 
   - firstname: Cecilia
     lastname: Moreira

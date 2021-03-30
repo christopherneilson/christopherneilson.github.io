@@ -2,7 +2,7 @@
   lastname: Bordeu
   current: false
   avatar: images/team/olivia.jpg
-  position: PhD student, UChicago Booth
+  position:  PhD student, UChicago Booth
   socials:
     - link: https://obordeu.github.io/
       icon: link
@@ -10,19 +10,28 @@
       icon: github
   desc:
 
+  - firstname: Ignacio
+    lastname: Riveros
+    current: true
+    avatar: images/team/ignacio.jpg
+    position:  PhD student, USC
+    desc:
+    socials:
+      - link: https://www.linkedin.com/in/iriveros94profile/
+        icon: linkedin
+
 
 - firstname: Franco
   lastname: Calle
   current: false
   avatar: images/team/franco.jpg
-  position: PhD Student, University of Chicago (Booth)
+  position:  PhD Student, University of Chicago (Booth)
   socials:
     - link: http://twitter.com/FrancoCalle
       icon: twitter
     - link: https://github.com/FrancoCalle
       icon: github
-  desc: Franco works on the intersection of economics and data science.
-
+  desc:
 
 
 - firstname: Lavar
