@@ -2,14 +2,15 @@
 hidden: False
 title: 'Teacher Compensation and Structural Inequality: Evidence from Centralized Teacher School Choice in Peru'
 coauthors: 'Matteo Bobba, Tim Ederer, Gianmarco Leon and Marco Nieddu'
-pub_status: wip
-pub_date: 2020
+pub_status: wp
+pub_date: 2021
+pub_where: Industrial Relations Section Working Paper Series (November 648)
 location: Peru
 desc:
 cats: public-econ education development market-design
-link_jour:
+link_jour: 'https://irs.princeton.edu/publications/working-papers/648'
 image:   'images/journalThumbnails/workinprogress.jpg'
-abstract: 'This paper studies how increasing teacher compensation at hard-to-staff schools can reduce structural inequality in the access to high-quality teachers.
+abstract: 'This paper studies how increasing teacher compensation at hard-to-staff schools can reduce inequality in the access to high-quality teachers.
 We first document dramatic inequities in schooling inputs and teacher quality to which students have access in the context of a large and diverse developing country: Peru.
 We then leverage a change in teacher compensation to show causal evidence that increasing salaries at less desirable public schools attracts better quality applicants and improves subsequent student test scores.
 We finally estimate a model of teacher preferences over local community amenities, school characteristics and wages using detailed job posting and application data from the country-wide centralized teacher assignment system. The fitted model is able to replicate the main features in the data, including the sorting patterns of teachers around the policy change in teacher wages.
@@ -61,4 +62,4 @@ Model estimates indicate that while current pay bonuses in less desirable region
 
 
   #### Notes
-  A prior version of this paper was *Teacher Wages, Student Achievement and the Recruitment of Talent in Rural Peru*
+  A prior working paper studying the same policy is titled *Teacher Wages, Student Achievement and the Recruitment of Talent in Rural Peru* 
