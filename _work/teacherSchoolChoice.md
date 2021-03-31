@@ -15,6 +15,7 @@ We first document dramatic inequities in schooling inputs and teacher quality to
 We then leverage a change in teacher compensation to show causal evidence that increasing salaries at less desirable public schools attracts better quality applicants and improves subsequent student test scores.
 We finally estimate a model of teacher preferences over local community amenities, school characteristics and wages using detailed job posting and application data from the country-wide centralized teacher assignment system. The fitted model is able to replicate the main features in the data, including the sorting patterns of teachers around the policy change in teacher wages.
 Model estimates indicate that while current pay bonuses in less desirable regions are helpful, the current policy is woefully insufficient to compensate teachers for the lack of school and community amenities, especially in school vacancies that are distant to the teachers home town or the location of their current job. Counterfactual experiments taking into account equilibrium sorting show that budget-neutral changes in the current wage schedule can achieve a remarkably more equitable distribution of teacher quality across regions.'
+order: 6
 ---
 
 
