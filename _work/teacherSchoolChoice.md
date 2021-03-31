@@ -62,4 +62,4 @@ Model estimates indicate that while current pay bonuses in less desirable region
 
 
   #### Notes
-  A prior working paper studying the same policy is titled *Teacher Wages, Student Achievement and the Recruitment of Talent in Rural Peru* 
+  A prior working paper studying the same policy is titled *Teacher Wages, Student Achievement and the Recruitment of Talent in Rural Peru*
