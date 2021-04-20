@@ -35,6 +35,7 @@
       icon: linkedin
     desc:  Labor and Education Economics
 
+
   - firstname: Claudia
     lastname: Allende
     current: false
@@ -51,3 +52,17 @@
       - link: https://www.claudiaallendesc.com/
         icon: link
     desc: JM 2020, IO and Education in developing countries with a focus on Latin America.
+
+
+  - firstname: Tomas
+    lastname: Larroucau
+    current: false
+    order: 4
+    avatar: images/team/tomas_larrauco_JMP.jpeg
+    position: Assistant Professor, Arizona State University
+    desc: Empirical Market Design and Education Economics
+    socials:
+      - link: https://tlarroucau.github.io/
+        icon: link
+      - link: https://github.com/tlarroucau
+        icon: github

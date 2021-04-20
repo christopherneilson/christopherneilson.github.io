@@ -1,55 +1,55 @@
-
-  - firstname: Eduardo
-    lastname: Vargas
-    current: true
-    avatar: images/team/edu.jpg
-    position: Research Manager, J-PAL; Santo Domingo
-    socials:
-          - link: https://twitter.com/eduardovars
-            icon: twitter
-          - link: https://www.linkedin.com/in/eduardovargassanchez/
-            icon: Linkedin
-          - link: https://evargass.github.io/about/
-            icon: github
-    desc:
-
-  - firstname: Mariel
-    lastname: Bedoya
-    current: true
-    avatar: images/team/mariel.jpeg
-    position: Senior Research Associate, J-PAL; Santo Domingo
-    socials:
-          - link: https://www.linkedin.com/in/mariel-bedoya-9b145249/
-            icon: Linkedin
-    desc:
-
-  - firstname: Manuel
-    lastname: Martínez
-    position: Tobin predoctoral fellow, Yale University
-    current: true
-    avatar: images/team/manuel.jpg
-    socials:
-      - link: https://manmartgarc.github.io/
-        icon: link
-      - link: https://github.com/manmartgarc
-        icon: github
-    desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
-
-  - firstname: Maria Elena
-    lastname: Guerrero
-    current: true
-    avatar: images/team/mari.jpg
-    position: Tobin predoctoral fellow, Yale University
-    socials:
-      - link: https://twitter.com/mariaelenaguer
-        icon: twitter
-      - link: https://github.com/mariaelenaguer
-        icon: github
-      - link: https://www.instagram.com/mariaelenaguer/?hl=es-la
-        icon: instagram
-      - link: https://mariaelenaguer.github.io
-        icon: link
-    desc: Maria Elena focuses on data driven solutions to issues in development policy.
+  #
+  # - firstname: Eduardo
+  #   lastname: Vargas
+  #   current: true
+  #   avatar: images/team/edu.jpg
+  #   position: Research Manager, J-PAL; Santo Domingo
+  #   socials:
+  #         - link: https://twitter.com/eduardovars
+  #           icon: twitter
+  #         - link: https://www.linkedin.com/in/eduardovargassanchez/
+  #           icon: Linkedin
+  #         - link: https://evargass.github.io/about/
+  #           icon: github
+  #   desc:
+  #
+  # - firstname: Mariel
+  #   lastname: Bedoya
+  #   current: true
+  #   avatar: images/team/mariel.jpeg
+  #   position: Senior Research Associate, J-PAL; Santo Domingo
+  #   socials:
+  #         - link: https://www.linkedin.com/in/mariel-bedoya-9b145249/
+  #           icon: Linkedin
+  #   desc:
+  #
+  # - firstname: Manuel
+  #   lastname: Martínez
+  #   position: Tobin predoctoral fellow, Yale University
+  #   current: true
+  #   avatar: images/team/manuel.jpg
+  #   socials:
+  #     - link: https://manmartgarc.github.io/
+  #       icon: link
+  #     - link: https://github.com/manmartgarc
+  #       icon: github
+  #   desc: Manuel supports the collective research effort supervising fieldwork and crunching large administrative data sets.
+  #
+  # - firstname: Maria Elena
+  #   lastname: Guerrero
+  #   current: true
+  #   avatar: images/team/mari.jpg
+  #   position: Tobin predoctoral fellow, Yale University
+  #   socials:
+  #     - link: https://twitter.com/mariaelenaguer
+  #       icon: twitter
+  #     - link: https://github.com/mariaelenaguer
+  #       icon: github
+  #     - link: https://www.instagram.com/mariaelenaguer/?hl=es-la
+  #       icon: instagram
+  #     - link: https://mariaelenaguer.github.io
+  #       icon: link
+  #   desc: Maria Elena focuses on data driven solutions to issues in development policy.
   #
   # - firstname: David
   #   lastname: Barraza
@@ -70,22 +70,22 @@
   #   position: Accounts Manager, J-PAL, Santo Domingo
   #   socials:
   #   desc:
-
-  - firstname: Alejandrina
-    lastname: Correa
-    current: true
-    avatar: images/team/alejandrina.jpg
-    position: Research Assistant, Princeton University
-    desc: Alejandrina is interested in connecting research with public policy in the areas of education and health.
-    socials:
-      - link: https://www.linkedin.com/in/alejandrina-correa-reymond-75019656/
-        icon: linkedin
+  #
+  # - firstname: Alejandrina
+  #   lastname: Correa
+  #   current: true
+  #   avatar: images/team/alejandrina.jpg
+  #   position: Research Assistant, Princeton University
+  #   desc: Alejandrina is interested in connecting research with public policy in the areas of education and health.
+  #   socials:
+  #     - link: https://www.linkedin.com/in/alejandrina-correa-reymond-75019656/
+  #       icon: linkedin
 
   - firstname: Isabel
     lastname: Jacas
     current: true
     avatar: images/team/isa.jpg
-    position: Data Scientist, ConsiliumBots
+    position: Sr. Research Specialist, Princeton University
     desc: Isabel is an economist interested in mining large administrative datasets for policy insights with applications in education.
     socials:
       - link: https://www.linkedin.com/in/isabel-jacas-franzoy-7b4609179/
@@ -93,23 +93,9 @@
       - link: https://github.com/isajacas
         icon: github
 
-  - firstname: Cecilia
-    lastname: Moreira
-    current: true
-    avatar: images/team/Ceci18_464.jpeg
-    position: Sr. Research Specialist, Princeton University
-    desc:
-    socials:
-      - link: https://www.linkedin.com/in/cecilia-moreira-a2975162/
-        icon: linkedin
-
-  #
   - firstname: Thomas
     lastname: Krussig
     current: true
     avatar: images/team/thomasKrussig.jpg
     position: COO ConsiliumBots
     desc:
-    socials:
-      - link: https://www.linkedin.com/in/iriveros94profile/
-        icon: linkedin
