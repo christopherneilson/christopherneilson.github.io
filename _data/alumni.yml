@@ -10,21 +10,9 @@
       icon: github
   desc:
 
-
-- firstname: Cecilia
-    lastname: Moreira
-    current: false
-    avatar: images/team/Ceci18_464.jpeg
-    position: PhD Economics, Stanford University
-    desc:
-    socials:
-      - link: https://www.linkedin.com/in/cecilia-moreira-a2975162/
-        icon: linkedin
-
-
   - firstname: Ignacio
     lastname: Riveros
-    current: false
+    current: true
     avatar: images/team/ignacio.jpg
     position:  PhD student, USC
     desc:
@@ -58,9 +46,9 @@
 
 
 - firstname: Alvaro
-  lastname:  Carril
-  position:  PhD student, Princeton University
-  current:   false
+  lastname: Carril
+  position: PhD student, Princeton University
+  current: false
   avatar: images/team/alvaro.jpg
   desc: Alvaro is passionate about learning and honing his skills to become a better economist / data scientist. He sometimes feels like using those skills to help me with my research.
   socials:
@@ -111,7 +99,7 @@
   lastname: Flor Toro
   current: false
   avatar: images/team/Jose-FlorToro.jpg
-  position: Economics PhD student, Northwestern University
+  position: PhD student, Northwestern University
   socials:
   desc:
 
@@ -127,60 +115,6 @@
         icon: linkedin
   position: McKinsey & Company; UChicago Booth
   avatar: images/team/gonzalo_white.jpeg
-
-- firstname: Eduardo
-  lastname: Vargas
-  current: false
-  avatar: images/team/edu.jpg
-  position: Kennedy School, Harvard University
-  socials:
-        - link: https://twitter.com/eduardovars
-          icon: twitter
-        - link: https://www.linkedin.com/in/eduardovargassanchez/
-          icon: Linkedin
-        - link: https://evargass.github.io/about/
-          icon: github
-  desc:
-
-- firstname: Mariel
-  lastname: Bedoya
-  current: false
-  avatar: images/team/mariel.jpeg
-  position: PhD Student, Teachers College, Columbia University
-  socials:
-        - link: https://www.linkedin.com/in/mariel-bedoya-9b145249/
-          icon: Linkedin
-  desc:
-
-
-- firstname: Manuel
-  lastname: Martínez
-  position: MPP CS, University of Chicago
-  current: false
-  avatar: images/team/manuel.jpg
-  socials:
-    - link: https://manmartgarc.github.io/
-      icon: link
-    - link: https://github.com/manmartgarc
-      icon: github
-  desc:
-
-
-- firstname: Maria Elena
-  lastname: Guerrero
-  current: false
-  avatar: images/team/mari.jpg
-  position: PhD Student, UCLA Economics
-  socials:
-    - link: https://twitter.com/mariaelenaguer
-      icon: twitter
-    - link: https://github.com/mariaelenaguer
-      icon: github
-    - link: https://www.instagram.com/mariaelenaguer/?hl=es-la
-      icon: instagram
-    - link: https://mariaelenaguer.github.io
-      icon: link
-  desc: Maria Elena focuses on data driven solutions to issues in development policy.
 
 
 - firstname: Maria (Pumi)
@@ -258,20 +192,9 @@
     desc:
 
 
-  - firstname: Alejandrina
-    lastname: Correa
-    current: false
-    avatar: images/team/alejandrina.jpg
-    position: MPP, Columbia University
-    desc: Alejandrina is interested in connecting research with public policy in the areas of education and health.
-    socials:
-      - link: https://www.linkedin.com/in/alejandrina-correa-reymond-75019656/
-        icon: linkedin
-
-
   - firstname: Nestor
     lastname: Vinales
-    current: false
+    current: true
     avatar: images/team/nestor.jpeg
     position: Data Scientist at DataCenter, Santo Domingo
     socials:
