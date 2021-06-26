@@ -4,7 +4,7 @@ title: 'Information Frictions and Access to the Paycheck Protection Program'
 coauthors: 'John Eric Humphries, Gabriel Ulyssea'
 pub_status: published
 pub_date: 2020
-pub_where: 'Journal of Public Economics (2020) Oct 190: 104244'
+pub_where: 'Journal of Public Economics (2020)'
 desc:
 cats: labor
 image:   'images/journalThumbnails/jpe_portada.png'

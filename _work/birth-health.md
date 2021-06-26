@@ -3,7 +3,7 @@ title: 'Health at Birth, Parental Investments and Academic Outcomes'
 coauthors: 'Prashant Bharadwaj, Juan Pedro Eberhard'
 pub_status: published
 pub_date: 2018
-pub_where: 'Journal of Labor Economics 36:2, 349-394 (2018)'
+pub_where: 'Journal of Labor Economics (2018)'
 desc:
 cats: early-child education devo
 link_jour: 'https://www.journals.uchicago.edu/doi/10.1086/695616'

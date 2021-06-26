@@ -3,7 +3,7 @@ title: 'Heterogeneous Beliefs and School Choice Assignment Mechanisms'
 coauthors: 'Adam Kapor, Seth Zimmerman'
 pub_status: published
 pub_date: 2020
-pub_where: 'American Economic Review, vol. 110, No. 5, May 2020'
+pub_where: 'American Economic Review (2020)'
 desc:
 cats: market-design io education public-econ
 image:   'images/journalThumbnails/aer_portada.png'

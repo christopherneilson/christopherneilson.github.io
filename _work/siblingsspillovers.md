@@ -4,7 +4,7 @@ title: 'O Brother, Where Start Thou? Sibling Spillovers on College and Major Cho
 coauthors: 'A. Altmejd, A. Barrios Fernandez, M. Drlje, J. Goodman, M. Hurwitz, D. Kovac, C. Mulhern, J Smith'
 pub_status: published
 pub_date: 2021
-pub_where: Quarterly Journal of Economics (2021), 1–56
+pub_where: Quarterly Journal of Economics (2021)
 desc:
 cats: education
 image:   'images/journalThumbnails/qje_portada.png'
