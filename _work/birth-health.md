@@ -12,5 +12,5 @@ article: 'documents/BEN_JOLE_3_22_17.pdf'
 link_pdf: 'documents/BEN_JOLE_3_22_17.pdf'
 appendix: 'documents/BEN_JOLE_WebAppendix_3_22_17.pdf'
 abstract: 'This paper explores the relationship among health at birth, academic outcomes, and the potential role of parental investments using administrative panel data from Chile. Using detailed data on parental investments, we find that investments are compensatory regarding initial health, but not across twins. Twins fixed effects models estimate a persistent effect of birth weight on academic achievement, while ordinary least squares and siblings fixed effects models find this relationship to decline over time. We view these findings in the context of a model of human capital accumulation where parental investments respond to initial endowments and spill over to siblings.'
-order: 3
+order: 4
 ---
