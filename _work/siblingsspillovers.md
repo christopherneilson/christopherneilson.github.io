@@ -3,13 +3,15 @@ hidden: False
 title: 'O Brother, Where Start Thou? Sibling Spillovers on College and Major Choice in Four Countries'
 coauthors: 'A. Altmejd, A. Barrios Fernandez, M. Drlje, J. Goodman, M. Hurwitz, D. Kovac, C. Mulhern, J Smith'
 pub_status: published
-pub_date: 2020
-pub_where: Quarterly Journal of Economics (forthcoming)
+pub_date: 2021
+pub_where: Quarterly Journal of Economics (2021), 1–56
 desc:
 cats: education
-link_jour: 'documents/SiblingSpillovers/QJE_2021_SiblingSpillovers.pdf'
 image:   'images/journalThumbnails/qje_portada.png'
+article:  'documents/SiblingSpillovers/QJE_2021_SiblingSpillovers.pdf'
+link_jour: 'https://www.aeaweb.org/articles?id=10.1257/aer.20170129'
 link_pdf: 'documents/SiblingSpillovers/QJE_2021_SiblingSpillovers.pdf'
+appendix: 'documents/SiblingSpillovers/online_appendix_Dec2020.pdf'
 abstract: "Family and social networks are widely believed to influence important life decisions but causal identification of those effects is notoriously challenging.
 Using data from Chile, Croatia, Sweden, and the United States, we study within-family spillovers in college and major choice across a variety of national contexts.
 Exploiting college-specific admissions thresholds that directly affect older but not younger siblings college options, we show that in all four countries a meaningful portion of younger siblings follow their older sibling to the same college or college-major combination.
@@ -23,8 +25,6 @@ order: 1
 
 
 [Open access QJE Journal Article - June 2021](../work/documents/SiblingSpillovers/QJE_2021_SiblingSpillovers.pdf)
-
-[Most Current Online Appendix](../work/documents/SiblingSpillovers/online_appendix_Dec2020.pdf)
 
 <!--
 ### Older Working Papers
