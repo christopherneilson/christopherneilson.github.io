@@ -24,12 +24,12 @@ For more information, visit the [Project Website](http://covid19sbs.org)
 
 ### Implementation in Latin America
 
-<img src="../work/documents/covid19_sbs_Latam/figureB1.png"
+<img src="../work/documents/covid19_sbs_Latam/figureB1.jpg"
      alt="Sequence of Interventions"
      style="float: left; margin-right: 10px;" />
 
 
-<img src="../work/documents/covid19_sbs_Latam/figureC1.png"
+<img src="../work/documents/covid19_sbs_Latam/figureC1.jpg"
           alt="Rollout"
           style="float: left; margin-right: 10px;" />
 
@@ -41,16 +41,16 @@ For more information, visit the [Project Website](http://covid19sbs.org)
       <div class='mod modBoxedSlider'>
         <div class='slides'>
         <div class='slide'>
-          <img alt="" src="documents/Warnings/figure1.png" />
+          <img alt="" src="documents/Warnings/figure1.jpg" />
         </div>
         <div class='slide'>
-          <img alt="" src="documents/Warnings/figure1b.png" />
+          <img alt="" src="documents/Warnings/figure1b.jpg" />
         </div>
           <div class='slide'>
-            <img alt="" src="documents/Warnings/figure2.png" />
+            <img alt="" src="documents/Warnings/figure2.jpg" />
           </div>
           <div class='slide'>
-            <img alt="" src="documents/Warnings/figureG1.png" />
+            <img alt="" src="documents/Warnings/figureG1.jpg" />
           </div>
         </div>
       </div>
