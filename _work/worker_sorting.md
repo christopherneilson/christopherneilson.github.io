@@ -2,8 +2,9 @@
 hidden: False
 title: 'Firm Sorting, College Major, and the Gender Earnings Gap'
 coauthors: 'Federico Huneeus, Conrad Miller and Seth Zimmerman'
-pub_status: wip
+pub_status: wp
 pub_date: 2021
+pub_where: Industrial Relations Section Working Paper Series May N649
 location: Chile
 desc:
 cats: education
@@ -14,7 +15,7 @@ abstract: 'A growing body of evidence shows that differences in firm-specific pa
 This paper asks how a common form of pre-labor market skill specialization, college major, mediates access to high-paying firms, and what this means for the gender earnings gap.  
 Using employer-employee tax data from Chile matched to educational records, we show that differences in college major account for more than two-thirds of the firm contribution to the gender earnings gap among college admits.  
 Degrees in Technology, which are numerous, male-dominated, and associated with high firm premiums, drive these effects.'
-order: 10
+order: 5
 ---
 
 
